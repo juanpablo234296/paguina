@@ -2149,3 +2149,95 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [06Jul2025 04:37:07.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> estoy con el witheer
 [06Jul2025 04:39:21.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] estas sola
 [06Jul2025 04:39:26.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ;c
+[06Jul2025 04:43:27.769] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:35143] logged in with entity id 2350 at (1243.1239298140306, 63.0, -507.3055641333326)
+[06Jul2025 04:43:27.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[06Jul2025 04:43:28.018] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[06Jul2025 04:43:31.083] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[06Jul2025 04:43:31.085] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[06Jul2025 04:43:31.089] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3313ms or 66 ticks behind
+[06Jul2025 04:43:38.486] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[06Jul2025 04:43:39.493] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[06Jul2025 04:43:39.500] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[06Jul2025 04:43:57.850] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2024ms or 40 ticks behind
+[06Jul2025 04:44:16.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> ahh?
+[06Jul2025 04:44:16.505] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucyyxd[/127.123.96.119:49553] logged in with entity id 2641 at (196.2703758212462, -54.0, -359.78267737856044)
+[06Jul2025 04:44:16.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd joined the game
+[06Jul2025 04:44:16.756] [Server thread/INFO] [Jade/]: Syncing config to lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce)
+[06Jul2025 04:44:19.549] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[06Jul2025 04:44:22.414] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucyyxd (18)
+[06Jul2025 04:44:22.416] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[06Jul2025 04:44:26.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> LUCY YA ENTRO
+[06Jul2025 04:44:33.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> A
+[06Jul2025 04:44:36.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> ESTAMOS CON EL WITHER
+[06Jul2025 04:44:42.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> TP PABLITOO
+[06Jul2025 04:44:46.597] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Timed out
+[06Jul2025 04:44:46.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
+[06Jul2025 04:44:46.602] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
+[06Jul2025 04:44:47.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> ten compasion
+[06Jul2025 04:44:51.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[06Jul2025 04:44:51.499] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[06Jul2025 04:44:54.754] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chantikook[/127.8.127.102:39639] logged in with entity id 2820 at (151.4843800268995, -53.9375, -435.10783577988167)
+[06Jul2025 04:44:54.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook joined the game
+[06Jul2025 04:44:55.136] [Server thread/INFO] [Jade/]: Syncing config to Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede)
+[06Jul2025 04:45:00.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 3 entities to pablito]
+[06Jul2025 04:45:05.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[06Jul2025 04:45:07.961] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Chantikook (18)
+[06Jul2025 04:45:07.961] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Chantikook
+[06Jul2025 04:45:09.808] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3332ms or 66 ticks behind
+[06Jul2025 04:45:31.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> texto noma pablito
+[06Jul2025 04:45:33.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> no me escuchas?
+[06Jul2025 04:45:33.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> jajsjs
+[06Jul2025 04:45:40.557] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[06Jul2025 04:45:40.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[06Jul2025 04:45:40.558] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[06Jul2025 04:45:42.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> es pedo de mis audifonos noma
+[06Jul2025 04:45:48.159] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[06Jul2025 04:45:49.165] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[06Jul2025 04:45:49.169] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) successfully connected to voice chat
+[06Jul2025 04:46:00.336] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucyyxd[/127.123.96.119:59461] logged in with entity id 2979 at (196.2703758212462, -54.0, -359.78267737856044)
+[06Jul2025 04:46:00.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd joined the game
+[06Jul2025 04:46:00.394] [Server thread/INFO] [Jade/]: Syncing config to lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce)
+[06Jul2025 04:46:00.840] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[06Jul2025 04:46:01.265] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucyyxd (18)
+[06Jul2025 04:46:01.268] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[06Jul2025 04:46:18.049] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[06Jul2025 04:46:19.053] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[06Jul2025 04:46:19.054] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) successfully connected to voice chat
+[06Jul2025 04:46:20.452] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4626ms or 92 ticks behind
+[06Jul2025 04:46:30.421] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Timed out
+[06Jul2025 04:46:30.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
+[06Jul2025 04:46:30.421] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
+[06Jul2025 04:46:33.700] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6404a816[id=<null>,name=pablito,properties={},legacy=false] (/127.54.255.13:44035) lost connection: Disconnected
+[06Jul2025 04:47:16.170] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1c86404e[id=<null>,name=pablito,properties={},legacy=false] (/127.54.255.13:45269) lost connection: Disconnected
+[06Jul2025 04:47:52.906] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2c7cf022[id=<null>,name=pablito,properties={},legacy=false] (/127.54.255.13:40863): Took too long to log in
+[06Jul2025 04:47:52.912] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2c7cf022[id=<null>,name=pablito,properties={},legacy=false] (/127.54.255.13:40863) lost connection: Took too long to log in
+[06Jul2025 04:47:52.965] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[06Jul2025 04:48:46.711] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2df02a22[id=<null>,name=pablito,properties={},legacy=false] (/127.54.255.13:33287) lost connection: Disconnected
+[06Jul2025 04:49:00.194] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
+[06Jul2025 04:49:01.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Jul2025 04:49:01.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Jul2025 04:49:01.384] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kira_R lost connection: Server closed
+[06Jul2025 04:49:01.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R left the game
+[06Jul2025 04:49:01.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Jul2025 04:49:02.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Jul2025 04:49:04.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Jul2025 04:49:04.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_mirror_realm
+[06Jul2025 04:49:04.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Jul2025 04:49:04.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[06Jul2025 04:49:04.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[06Jul2025 04:49:04.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[06Jul2025 04:49:04.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_abyss
+[06Jul2025 04:49:04.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mofus_better_end_:broken_constellation
+[06Jul2025 04:49:04.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Jul2025 04:49:04.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Jul2025 04:49:04.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_mirror_realm): All chunks are saved
+[06Jul2025 04:49:04.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Jul2025 04:49:04.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[06Jul2025 04:49:04.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[06Jul2025 04:49:04.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[06Jul2025 04:49:04.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[06Jul2025 04:49:04.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
+[06Jul2025 04:49:04.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Jul2025 04:49:04.358] [Server thread/INFO] [Framework/]: Unloading server configs...
+[06Jul2025 04:49:04.360] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[06Jul2025 04:49:04.386] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
