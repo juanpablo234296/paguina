@@ -9134,3 +9134,34 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [06Jul2025 23:27:37.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [06Jul2025 23:27:37.701] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [06Jul2025 23:30:18.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
+[06Jul2025 23:32:25.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
+[06Jul2025 23:32:27.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
+[06Jul2025 23:32:37.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 23:32:37.703] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 23:33:08.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
+[06Jul2025 23:34:11.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PoH159> cuchillas?
+[06Jul2025 23:35:50.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[06Jul2025 23:36:02.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[06Jul2025 23:37:15.486] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[06Jul2025 23:37:23.069] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_180 at (1023 | 33 | -208)
+[06Jul2025 23:37:23.069] [Worker-Main-1/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_180 at (1023 | 33 | -208)
+[06Jul2025 23:37:36.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[06Jul2025 23:37:37.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 23:37:37.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 23:37:52.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[06Jul2025 23:38:09.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[06Jul2025 23:39:12.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
+[06Jul2025 23:39:32.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was slain by Zombie
+[06Jul2025 23:39:32.097] [Server thread/DEBUG] [tombstone/]: A new grave of the player PoH159 was created at position [x:129, y:-60, z:-350, dim:minecraft:overworld]
+[06Jul2025 23:39:32.128] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[06Jul2025 23:39:33.711] [Server thread/DEBUG] [twilightforest/]: Player PoH159 (7b6320b1-8f4a-3f39-9fed-25511a7b9515) respawned and received items held in storage
+[06Jul2025 23:39:55.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was burnt to a crisp whilst fighting Skeleton
+[06Jul2025 23:39:56.210] [Server thread/DEBUG] [tombstone/]: A new grave of the player pablito was created at position [x:133, y:-57, z:-353, dim:minecraft:overworld]
+[06Jul2025 23:39:56.217] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[06Jul2025 23:39:57.689] [Server thread/DEBUG] [twilightforest/]: Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) respawned and received items held in storage
+[06Jul2025 23:40:04.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[06Jul2025 23:40:19.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[06Jul2025 23:40:48.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was burnt to a crisp whilst fighting Skeleton
+[06Jul2025 23:40:48.822] [Server thread/DEBUG] [tombstone/]: A new grave of the player PoH159 was created at position [x:125, y:-54, z:-323, dim:minecraft:overworld]
+[06Jul2025 23:40:48.825] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[06Jul2025 23:40:50.333] [Server thread/DEBUG] [twilightforest/]: Player PoH159 (7b6320b1-8f4a-3f39-9fed-25511a7b9515) respawned and received items held in storage

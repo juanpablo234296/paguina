@@ -2263,3 +2263,21 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [06Jul2025 23:27:04.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
 [06Jul2025 23:27:12.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
 [06Jul2025 23:30:18.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
+[06Jul2025 23:32:25.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
+[06Jul2025 23:32:27.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
+[06Jul2025 23:33:08.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
+[06Jul2025 23:34:11.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PoH159> cuchillas?
+[06Jul2025 23:35:50.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[06Jul2025 23:36:02.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[06Jul2025 23:37:36.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[06Jul2025 23:37:52.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[06Jul2025 23:38:09.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[06Jul2025 23:39:12.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
+[06Jul2025 23:39:32.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was slain by Zombie
+[06Jul2025 23:39:32.128] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[06Jul2025 23:39:55.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was burnt to a crisp whilst fighting Skeleton
+[06Jul2025 23:39:56.217] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[06Jul2025 23:40:04.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[06Jul2025 23:40:19.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[06Jul2025 23:40:48.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was burnt to a crisp whilst fighting Skeleton
+[06Jul2025 23:40:48.825] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
