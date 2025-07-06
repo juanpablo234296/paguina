@@ -8968,3 +8968,86 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [06Jul2025 22:53:27.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2854ms or 57 ticks behind
 [06Jul2025 22:53:48.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
 [06Jul2025 22:54:05.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2265ms or 45 ticks behind
+[06Jul2025 22:54:20.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[06Jul2025 22:54:29.030] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8180ms or 163 ticks behind
+[06Jul2025 22:54:39.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to funado69]
+[06Jul2025 22:54:46.590] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2591ms or 51 ticks behind
+[06Jul2025 22:55:49.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[06Jul2025 22:56:06.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[06Jul2025 22:56:28.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
+[06Jul2025 22:56:32.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[06Jul2025 22:56:38.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was killed by Witch using magic
+[06Jul2025 22:56:38.241] [Server thread/DEBUG] [tombstone/]: A new grave of the player PoH159 was created at position [x:228, y:-54, z:-452, dim:minecraft:overworld]
+[06Jul2025 22:56:38.257] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[06Jul2025 22:56:39.836] [Server thread/DEBUG] [twilightforest/]: Player PoH159 (7b6320b1-8f4a-3f39-9fed-25511a7b9515) respawned and received items held in storage
+[06Jul2025 22:56:45.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
+[06Jul2025 22:57:07.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Local Brewery]
+[06Jul2025 22:57:56.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
+[06Jul2025 22:58:09.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was slain by Void Blossom
+[06Jul2025 22:58:09.304] [Server thread/DEBUG] [tombstone/]: A new grave of the player PoH159 was created at position [x:220, y:-54, z:-515, dim:minecraft:overworld]
+[06Jul2025 22:58:09.365] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[06Jul2025 22:58:10.796] [Server thread/DEBUG] [twilightforest/]: Player PoH159 (7b6320b1-8f4a-3f39-9fed-25511a7b9515) respawned and received items held in storage
+[06Jul2025 22:58:14.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
+[06Jul2025 22:58:37.009] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 22:58:37.039] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 22:58:51.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has reached the goal [Chain Death]
+[06Jul2025 22:58:51.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was shot by funado69 using [Gunnarr’s Valor]
+[06Jul2025 22:58:51.285] [Server thread/DEBUG] [tombstone/]: A new grave of the player PoH159 was created at position [x:228, y:-54, z:-511, dim:minecraft:overworld]
+[06Jul2025 22:58:51.309] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[06Jul2025 22:58:55.010] [Server thread/DEBUG] [twilightforest/]: Player PoH159 (7b6320b1-8f4a-3f39-9fed-25511a7b9515) respawned and received items held in storage
+[06Jul2025 22:58:56.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
+[06Jul2025 22:59:02.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
+[06Jul2025 23:00:11.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was killed trying to hurt Void Blossom
+[06Jul2025 23:00:11.132] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:230, y:-59, z:-542, dim:minecraft:overworld]
+[06Jul2025 23:00:11.142] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[06Jul2025 23:00:13.421] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[06Jul2025 23:00:15.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[06Jul2025 23:00:31.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Void Blossom
+[06Jul2025 23:00:32.901] [Server thread/DEBUG] [tombstone/]: A new grave of the player pablito was created at position [x:220, y:-59, z:-523, dim:minecraft:overworld]
+[06Jul2025 23:00:32.924] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[06Jul2025 23:00:34.104] [Server thread/DEBUG] [twilightforest/]: Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) respawned and received items held in storage
+[06Jul2025 23:00:34.107] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2057ms or 41 ticks behind
+[06Jul2025 23:00:42.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Void Blossom
+[06Jul2025 23:00:42.375] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:229, y:-58, z:-563, dim:minecraft:overworld]
+[06Jul2025 23:00:42.428] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[06Jul2025 23:00:43.993] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[06Jul2025 23:00:44.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
+[06Jul2025 23:00:46.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[06Jul2025 23:00:49.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[06Jul2025 23:01:00.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Void Blossom
+[06Jul2025 23:01:00.340] [Server thread/DEBUG] [tombstone/]: A new grave of the player pablito was created at position [x:204, y:-55, z:-539, dim:minecraft:overworld]
+[06Jul2025 23:01:00.362] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[06Jul2025 23:01:02.393] [Server thread/DEBUG] [twilightforest/]: Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) respawned and received items held in storage
+[06Jul2025 23:01:08.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was slain by Void Blossom
+[06Jul2025 23:01:08.189] [Server thread/DEBUG] [tombstone/]: A new grave of the player PoH159 was created at position [x:232, y:-54, z:-512, dim:minecraft:overworld]
+[06Jul2025 23:01:08.221] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[06Jul2025 23:01:08.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[06Jul2025 23:01:08.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[06Jul2025 23:01:08.726] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PoH159 lost connection: Server closed
+[06Jul2025 23:01:08.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 left the game
+[06Jul2025 23:01:08.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[06Jul2025 23:01:09.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[06Jul2025 23:01:12.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[06Jul2025 23:01:12.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[06Jul2025 23:01:12.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[06Jul2025 23:01:12.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_mirror_realm
+[06Jul2025 23:01:12.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[06Jul2025 23:01:12.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_abyss
+[06Jul2025 23:01:12.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mofus_better_end_:broken_constellation
+[06Jul2025 23:01:12.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[06Jul2025 23:01:12.373] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[06Jul2025 23:01:12.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[06Jul2025 23:01:12.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[06Jul2025 23:01:12.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[06Jul2025 23:01:12.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[06Jul2025 23:01:12.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[06Jul2025 23:01:12.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_mirror_realm): All chunks are saved
+[06Jul2025 23:01:12.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[06Jul2025 23:01:12.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[06Jul2025 23:01:12.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
+[06Jul2025 23:01:12.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[06Jul2025 23:01:12.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[06Jul2025 23:01:12.509] [Server thread/INFO] [Framework/]: Unloading server configs...
+[06Jul2025 23:01:12.510] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[06Jul2025 23:01:12.514] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[06Jul2025 23:01:12.535] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
