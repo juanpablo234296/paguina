@@ -2156,3 +2156,49 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [06Jul2025 22:41:43.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> italo
 [06Jul2025 22:42:48.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2306ms or 46 ticks behind
 [06Jul2025 22:43:18.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> pohhh
+[06Jul2025 22:43:45.566] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[06Jul2025 22:44:05.060] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4510ms or 90 ticks behind
+[06Jul2025 22:44:17.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
+[06Jul2025 22:49:14.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was shot by Skeleton
+[06Jul2025 22:49:14.851] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[06Jul2025 22:49:15.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[06Jul2025 22:49:20.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> nooooooooo
+[06Jul2025 22:50:03.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> nooooooooo
+[06Jul2025 22:50:05.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> ;c
+[06Jul2025 22:50:13.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> lo dije por tu muerte
+[06Jul2025 22:50:15.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> jajjajjaj
+[06Jul2025 22:50:18.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PoH159> xD
+[06Jul2025 22:50:20.113] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: funado69[/127.213.238.243:40933] logged in with entity id 4285 at (724.8032298375183, 93.0, -366.4617773149494)
+[06Jul2025 22:50:20.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 joined the game
+[06Jul2025 22:50:20.250] [Server thread/INFO] [Jade/]: Syncing config to funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec)
+[06Jul2025 22:50:21.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2184ms or 43 ticks behind
+[06Jul2025 22:50:22.318] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of funado69 (18)
+[06Jul2025 22:50:22.319] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[06Jul2025 22:50:31.508] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[06Jul2025 22:50:32.509] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[06Jul2025 22:50:32.509] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) successfully connected to voice chat
+[06Jul2025 22:50:38.878] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2128ms or 42 ticks behind
+[06Jul2025 22:50:52.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> que?
+[06Jul2025 22:50:56.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> 10 min
+[06Jul2025 22:50:58.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> acuerdas
+[06Jul2025 22:50:59.854] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[06Jul2025 22:51:02.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> a
+[06Jul2025 22:51:19.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2128ms or 42 ticks behind
+[06Jul2025 22:51:21.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> funado ven miras mi puente
+[06Jul2025 22:51:27.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[06Jul2025 22:51:38.310] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[06Jul2025 22:51:51.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[06Jul2025 22:51:55.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> es otra?
+[06Jul2025 22:51:56.311] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3011ms or 60 ticks behind
+[06Jul2025 22:52:14.648] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3349ms or 66 ticks behind
+[06Jul2025 22:52:31.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2277ms or 45 ticks behind
+[06Jul2025 22:52:35.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[06Jul2025 22:52:49.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2955ms or 59 ticks behind
+[06Jul2025 22:52:58.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> de verda?
+[06Jul2025 22:53:01.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> a mi me va bien
+[06Jul2025 22:53:09.239] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[06Jul2025 22:53:13.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[06Jul2025 22:53:20.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> pablo?
+[06Jul2025 22:53:27.053] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2854ms or 57 ticks behind
+[06Jul2025 22:53:48.609] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[06Jul2025 22:54:05.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2265ms or 45 ticks behind
