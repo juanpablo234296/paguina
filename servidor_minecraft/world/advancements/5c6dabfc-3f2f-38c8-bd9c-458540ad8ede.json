@@ -109,6 +109,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-07-06 05:04:32 +0000",
       "minecraft:taiga": "2025-07-03 05:27:24 +0000",
       "minecraft:birch_forest": "2025-06-30 22:57:18 +0000",
       "minecraft:beach": "2025-07-03 03:52:39 +0000",
@@ -7349,75 +7350,88 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-06 04:48:10 +0000"
+      "requirement": "2025-07-06 05:04:36 +0000",
+      "log_spam_fixer": "2025-07-06 05:04:33 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-06 04:48:10 +0000"
+      "log_spam_fixer": "2025-07-06 05:04:33 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-06 04:48:10 +0000"
+      "log_spam_fixer": "2025-07-06 05:04:33 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-06 04:48:10 +0000"
+      "log_spam_fixer": "2025-07-06 05:04:33 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-06 04:48:10 +0000"
+      "log_spam_fixer": "2025-07-06 05:04:33 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-06 04:48:10 +0000"
+      "log_spam_fixer": "2025-07-06 05:04:33 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-06 04:48:10 +0000"
+      "log_spam_fixer": "2025-07-06 05:04:33 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-06 04:48:10 +0000"
+      "log_spam_fixer": "2025-07-06 05:04:33 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-06 04:48:10 +0000"
+      "log_spam_fixer": "2025-07-06 05:04:33 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-06 04:48:10 +0000"
+      "log_spam_fixer": "2025-07-06 05:04:33 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-06 04:48:10 +0000"
+      "log_spam_fixer": "2025-07-06 05:04:33 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-06 04:48:10 +0000"
+      "log_spam_fixer": "2025-07-06 05:04:33 +0000"
     },
     "done": false
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-06 05:03:44 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-06 05:03:44 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
