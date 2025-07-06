@@ -6782,6 +6782,18 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
+    "criteria": {
+      "has_void_thorn": "2025-07-06 23:27:16 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2025-07-06 23:20:10 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-07-06 23:14:21 +0000"
@@ -6833,6 +6845,12 @@
   "meadow:recipes/wooden_flower_pot": {
     "criteria": {
       "has_oak_planks": "2025-07-06 23:14:21 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/earthdive_spear": {
+    "criteria": {
+      "has_void_thorn": "2025-07-06 23:27:16 +0000"
     },
     "done": true
   },
