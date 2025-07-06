@@ -336,6 +336,7 @@
       "bread": "2025-07-04 00:35:06 +0000",
       "golden_apple": "2025-07-05 03:10:36 +0000",
       "rotten_flesh": "2025-07-04 00:24:34 +0000",
+      "suspicious_stew": "2025-07-06 23:43:45 +0000",
       "golden_carrot": "2025-07-05 04:26:23 +0000",
       "enchanted_golden_apple": "2025-07-05 03:03:24 +0000",
       "carrot": "2025-07-05 05:02:12 +0000"
@@ -6782,6 +6783,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-07-06 23:43:45 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:recipes/charged_ender_pearl": {
     "criteria": {
       "has_void_thorn": "2025-07-06 23:27:16 +0000"
@@ -6860,6 +6867,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-07-06 23:43:45 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/flecked_bed": {
     "criteria": {
       "has_planks": "2025-07-06 23:14:21 +0000"
@@ -6887,6 +6900,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_table": {
     "criteria": {
       "has_oak_planks": "2025-07-06 23:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-07-06 23:43:45 +0000"
     },
     "done": true
   },

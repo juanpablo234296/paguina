@@ -2281,3 +2281,63 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [06Jul2025 23:40:19.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
 [06Jul2025 23:40:48.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was burnt to a crisp whilst fighting Skeleton
 [06Jul2025 23:40:48.825] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[06Jul2025 23:41:12.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[06Jul2025 23:41:29.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[06Jul2025 23:41:31.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported PoH159 to pablito]
+[06Jul2025 23:41:35.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[06Jul2025 23:41:53.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[06Jul2025 23:42:19.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was burnt to a crisp whilst fighting Skeleton
+[06Jul2025 23:42:19.955] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[06Jul2025 23:42:39.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
+[06Jul2025 23:42:42.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
+[06Jul2025 23:42:53.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito blew up
+[06Jul2025 23:42:54.069] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[06Jul2025 23:43:02.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
+[06Jul2025 23:44:09.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
+[06Jul2025 23:44:20.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
+[06Jul2025 23:44:29.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
+[06Jul2025 23:44:41.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
+[06Jul2025 23:44:49.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[06Jul2025 23:44:57.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
+[06Jul2025 23:45:01.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by funado69
+[06Jul2025 23:45:02.207] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[06Jul2025 23:45:05.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
+[06Jul2025 23:45:41.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[06Jul2025 23:45:53.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[06Jul2025 23:45:54.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was doomed to fall
+[06Jul2025 23:45:54.475] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[06Jul2025 23:46:00.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[06Jul2025 23:47:08.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[06Jul2025 23:47:21.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[06Jul2025 23:47:51.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[06Jul2025 23:48:49.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was slain by Chaos Spawner
+[06Jul2025 23:48:49.115] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[06Jul2025 23:48:54.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[06Jul2025 23:48:54.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[06Jul2025 23:48:54.820] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[06Jul2025 23:49:07.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was slain by Chaos Spawner
+[06Jul2025 23:49:07.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Chaos Spawner
+[06Jul2025 23:49:07.989] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[06Jul2025 23:49:07.989] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[06Jul2025 23:49:12.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[06Jul2025 23:49:14.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[06Jul2025 23:49:14.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ...t:creeper ~ ~1 ~ {powered:1b}<--[HERE]
+[06Jul2025 23:49:36.376] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:44567] logged in with entity id 14332 at (1236.4175016938646, 63.0, -510.8297147209531)
+[06Jul2025 23:49:36.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[06Jul2025 23:49:36.431] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[06Jul2025 23:49:37.172] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[06Jul2025 23:49:37.172] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[06Jul2025 23:49:45.719] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[06Jul2025 23:49:46.705] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[06Jul2025 23:49:46.706] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[06Jul2025 23:50:00.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was slain by Chaos Spawner
+[06Jul2025 23:50:00.118] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[06Jul2025 23:50:00.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Summoned new Creeper]
+[06Jul2025 23:50:18.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was slain by Chaos Spawner
+[06Jul2025 23:50:18.623] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[06Jul2025 23:50:59.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Chaos Spawner
+[06Jul2025 23:50:59.418] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[06Jul2025 23:51:03.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[06Jul2025 23:51:13.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the weather to clear]
+[06Jul2025 23:51:16.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was slain by Chaos Spawner
+[06Jul2025 23:51:16.934] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
