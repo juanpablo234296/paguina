@@ -2200,3 +2200,63 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [07Jul2025 22:53:43.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
 [07Jul2025 22:53:43.186] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
 [07Jul2025 22:59:54.521] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6de1d21[id=<null>,name=pablito,properties={},legacy=false] (/127.54.255.13:34533) lost connection: Disconnected
+[07Jul2025 23:01:34.435] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:40467] logged in with entity id 10876 at (818.0995614751391, 63.0, -627.3266450662117)
+[07Jul2025 23:01:34.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[07Jul2025 23:01:34.526] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[07Jul2025 23:01:35.972] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[07Jul2025 23:01:35.973] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[07Jul2025 23:01:43.992] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[07Jul2025 23:01:44.991] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[07Jul2025 23:01:44.991] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[07Jul2025 23:01:57.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[07Jul2025 23:01:58.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> pablito me puedes hacer tp con kira porfavor
+[07Jul2025 23:02:03.473] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kira_R lost connection: Disconnected
+[07Jul2025 23:02:03.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R left the game
+[07Jul2025 23:02:03.473] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kira_R
+[07Jul2025 23:02:03.518] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Jul2025 23:02:03.521] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kira_R[/127.241.34.139:48661] logged in with entity id 11046 at (838.1662893342975, 63.0, -639.4424019224751)
+[07Jul2025 23:02:03.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R joined the game
+[07Jul2025 23:02:03.601] [Server thread/INFO] [Jade/]: Syncing config to Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6)
+[07Jul2025 23:02:05.467] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kira_R (18)
+[07Jul2025 23:02:05.468] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kira_R
+[07Jul2025 23:02:12.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Peaceful]
+[07Jul2025 23:02:16.416] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
+[07Jul2025 23:02:17.422] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
+[07Jul2025 23:02:17.423] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
+[07Jul2025 23:02:24.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Hard]
+[07Jul2025 23:02:30.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kira_R lost connection: You logged in from another location
+[07Jul2025 23:02:30.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R left the game
+[07Jul2025 23:02:30.419] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kira_R
+[07Jul2025 23:02:30.433] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kira_R[/127.241.34.139:48373] logged in with entity id 11306 at (838.1662893342975, 63.0, -639.4424019224751)
+[07Jul2025 23:02:30.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R joined the game
+[07Jul2025 23:02:30.496] [Server thread/INFO] [Jade/]: Syncing config to Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6)
+[07Jul2025 23:02:30.731] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kira_R (18)
+[07Jul2025 23:02:30.732] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kira_R
+[07Jul2025 23:02:42.150] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
+[07Jul2025 23:02:43.151] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
+[07Jul2025 23:02:43.152] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
+[07Jul2025 23:03:11.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> holi
+[07Jul2025 23:03:16.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> no puedo escucharte xd
+[07Jul2025 23:03:21.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> no tengo audifonos
+[07Jul2025 23:03:26.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> y el audio de mi pc es F
+[07Jul2025 23:03:27.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> me pueden hacer tp con kira porfavor pablito
+[07Jul2025 23:03:32.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> porfaaaaa
+[07Jul2025 23:03:51.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
+[07Jul2025 23:08:38.371] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucyyxd[/127.209.237.17:44563] logged in with entity id 12392 at (820.5339801555155, 63.0, -635.6764459955423)
+[07Jul2025 23:08:38.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd joined the game
+[07Jul2025 23:08:38.450] [Server thread/INFO] [Jade/]: Syncing config to lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce)
+[07Jul2025 23:08:39.210] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucyyxd (18)
+[07Jul2025 23:08:39.210] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[07Jul2025 23:08:56.704] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[07Jul2025 23:08:57.704] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[07Jul2025 23:08:57.707] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) successfully connected to voice chat
+[07Jul2025 23:09:40.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> lucy
+[07Jul2025 23:09:42.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> ven
+[07Jul2025 23:10:26.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to lucyyxd]
+[07Jul2025 23:10:42.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[07Jul2025 23:10:44.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucyyxd> NO
+[07Jul2025 23:10:52.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[07Jul2025 23:11:02.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> ponlo con la llabe
+[07Jul2025 23:11:05.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> llave
+[07Jul2025 23:11:10.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucyyxd> JAJAJA GRACIAAAAAS
+[07Jul2025 23:11:15.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucyyxd> :,C
