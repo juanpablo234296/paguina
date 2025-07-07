@@ -122,3 +122,13 @@
 [07Jul2025 00:33:26.449] [Worker-Main-67/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [07Jul2025 00:34:50.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Zombie
 [07Jul2025 00:34:51.002] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[07Jul2025 00:53:15.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
+[07Jul2025 00:55:25.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[07Jul2025 00:55:44.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[07Jul2025 00:56:46.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PoH159> voy a ir a tragar
+[07Jul2025 00:56:47.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PoH159 lost connection: Disconnected
+[07Jul2025 00:56:47.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 left the game
+[07Jul2025 00:56:47.253] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PoH159
+[07Jul2025 01:01:51.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Spectator Mode]
+[07Jul2025 01:02:05.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[07Jul2025 01:02:08.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]

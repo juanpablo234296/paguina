@@ -10934,3 +10934,18 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [07Jul2025 00:47:40.136] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Jul2025 00:52:40.134] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jul2025 00:52:40.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 00:53:15.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
+[07Jul2025 00:55:25.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[07Jul2025 00:55:44.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[07Jul2025 00:56:46.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PoH159> voy a ir a tragar
+[07Jul2025 00:56:47.253] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PoH159 lost connection: Disconnected
+[07Jul2025 00:56:47.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 left the game
+[07Jul2025 00:56:47.253] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of PoH159
+[07Jul2025 00:56:47.253] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PoH159
+[07Jul2025 00:57:40.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 00:57:40.109] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 01:01:51.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Spectator Mode]
+[07Jul2025 01:02:05.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[07Jul2025 01:02:08.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[07Jul2025 01:02:40.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 01:02:40.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

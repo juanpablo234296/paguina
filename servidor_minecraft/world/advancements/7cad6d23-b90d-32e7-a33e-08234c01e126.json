@@ -7746,6 +7746,13 @@
     },
     "done": true
   },
+  "brewery:main/wild_crops": {
+    "criteria": {
+      "barley_seeds": "2025-07-07 00:56:31 +0000",
+      "hops_seeds": "2025-07-07 00:56:24 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/building_blocks/holystone_stairs": {
     "criteria": {
       "has_holystone": "2025-07-07 00:31:32 +0000"
