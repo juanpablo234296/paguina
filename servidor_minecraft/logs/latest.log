@@ -12,3 +12,60 @@
 [07Jul2025 00:07:02.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to pablito]
 [07Jul2025 00:07:16.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to pablito]
 [07Jul2025 00:11:07.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Hard]
+[07Jul2025 00:12:31.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Chaos Spawner
+[07Jul2025 00:12:31.607] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[07Jul2025 00:12:45.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[07Jul2025 00:13:17.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported PoH159 to pablito]
+[07Jul2025 00:14:00.017] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2486ms or 49 ticks behind
+[07Jul2025 00:14:00.054] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PoH159 moved too quickly! -8342.933414543735,59.07840000152588,3235.2369351712846
+[07Jul2025 00:15:15.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to pablito]
+[07Jul2025 00:15:38.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to pablito]
+[07Jul2025 00:15:41.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by funado69
+[07Jul2025 00:15:41.736] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[07Jul2025 00:15:46.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
+[07Jul2025 00:16:23.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito was kicked for floating too long!
+[07Jul2025 00:16:23.402] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Flying is not enabled on this server
+[07Jul2025 00:16:23.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[07Jul2025 00:16:23.403] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[07Jul2025 00:16:23.482] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Jul2025 00:16:55.519] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:41913] logged in with entity id 38557 at (1200.9146830694801, 169.6993588007677, -497.83988975502143)
+[07Jul2025 00:16:55.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[07Jul2025 00:16:55.551] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[07Jul2025 00:16:56.310] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[07Jul2025 00:16:56.311] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[07Jul2025 00:17:05.013] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[07Jul2025 00:17:06.008] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[07Jul2025 00:17:06.008] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[07Jul2025 00:17:07.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito fell from a high place
+[07Jul2025 00:17:08.052] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[07Jul2025 00:17:22.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to funado69]
+[07Jul2025 00:17:31.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to pablito]
+[07Jul2025 00:18:01.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was slain by funado69
+[07Jul2025 00:18:01.675] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[07Jul2025 00:18:16.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported PoH159 to pablito]
+[07Jul2025 00:20:29.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to pablito]
+[07Jul2025 00:20:29.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was doomed to fall by pablito
+[07Jul2025 00:20:29.824] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[07Jul2025 00:20:33.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to pablito]
+[07Jul2025 00:20:38.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was slain by funado69
+[07Jul2025 00:20:38.804] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[07Jul2025 00:20:51.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
+[07Jul2025 00:21:03.601] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito was kicked for floating too long!
+[07Jul2025 00:21:03.656] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Flying is not enabled on this server
+[07Jul2025 00:21:03.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[07Jul2025 00:21:03.657] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[07Jul2025 00:21:11.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[07Jul2025 00:21:26.583] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:53401] logged in with entity id 41705 at (1163.4018912021586, 163.46476221959227, -468.71258832022704)
+[07Jul2025 00:21:26.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[07Jul2025 00:21:26.668] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[07Jul2025 00:21:26.754] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[07Jul2025 00:21:26.755] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[07Jul2025 00:21:33.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
+[07Jul2025 00:21:35.525] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[07Jul2025 00:21:36.521] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[07Jul2025 00:21:36.522] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[07Jul2025 00:21:37.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito fell from a high place
+[07Jul2025 00:21:38.281] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[07Jul2025 00:21:45.278] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [100 absolute-30 below top]
+[07Jul2025 00:21:54.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
+[07Jul2025 00:21:56.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]

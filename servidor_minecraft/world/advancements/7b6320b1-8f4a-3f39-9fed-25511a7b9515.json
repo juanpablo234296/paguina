@@ -6927,6 +6927,12 @@
     },
     "done": true
   },
+  "twilightforest:root": {
+    "criteria": {
+      "in_tf": "2025-07-07 00:13:53 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/iron_boots_repairing": {
     "criteria": {
       "has_iron_boots": "2025-07-06 23:55:01 +0000"

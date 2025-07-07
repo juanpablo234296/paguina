@@ -7028,6 +7028,24 @@
     },
     "done": true
   },
+  "aether:recipes/tools/swet_lead": {
+    "criteria": {
+      "has_swet_balls": "2025-07-07 00:16:00 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-07-07 00:15:45 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/swet_slime_block": {
+    "criteria": {
+      "has_swet_balls": "2025-07-07 00:16:00 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
     "criteria": {
       "has_chaotic_hexahedron": "2025-07-06 23:58:41 +0000"
@@ -7046,9 +7064,27 @@
     },
     "done": true
   },
+  "aether:recipes/redstone/swet_sticky_piston": {
+    "criteria": {
+      "has_swet_balls": "2025-07-07 00:16:00 +0000"
+    },
+    "done": true
+  },
   "dungeonnowloading:recipes/misc/soul_silk": {
     "criteria": {
       "has_soul_cloth": "2025-07-07 00:00:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_planks": {
+    "criteria": {
+      "has_logs": "2025-07-07 00:17:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_wood": {
+    "criteria": {
+      "has_log": "2025-07-07 00:17:12 +0000"
     },
     "done": true
   },
