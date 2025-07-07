@@ -6651,6 +6651,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 00:27:01 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/wooden_bucket": {
     "criteria": {
       "has_planks": "2025-07-06 23:14:21 +0000"
@@ -6663,15 +6669,57 @@
     },
     "done": true
   },
+  "aether:recipes/tools/holystone_pickaxe": {
+    "criteria": {
+      "has_holystone": "2025-07-07 00:23:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/holystone_pressure_plate": {
+    "criteria": {
+      "has_holystone": "2025-07-07 00:23:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_kitchen_drawer": {
     "criteria": {
       "has_oak_planks": "2025-07-06 23:14:21 +0000"
     },
     "done": true
   },
+  "aether:recipes/food/healing_stone_enchanting": {
+    "criteria": {
+      "has_holystone": "2025-07-07 00:23:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-07 00:27:01 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_wall_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-07-07 00:23:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_stonecutter": {
+    "criteria": {
+      "has_holystone": "2025-07-07 00:23:59 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/cabinet": {
     "criteria": {
       "has_oak_planks": "2025-07-06 23:14:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/altar": {
+    "criteria": {
+      "has_holystone": "2025-07-07 00:23:59 +0000"
     },
     "done": true
   },
@@ -6687,6 +6735,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/holystone_brick_slab_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-07-07 00:23:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_desk_cabinet": {
     "criteria": {
       "has_planks": "2025-07-06 23:14:21 +0000"
@@ -6699,15 +6753,45 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/holystone_brick_wall_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-07-07 00:23:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_drawer": {
     "criteria": {
       "has_oak_planks": "2025-07-06 23:14:21 +0000"
     },
     "done": true
   },
+  "aether:recipes/combat/holystone_sword": {
+    "criteria": {
+      "has_holystone": "2025-07-07 00:23:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/holystone_wall": {
+    "criteria": {
+      "has_holystone": "2025-07-07 00:23:59 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/patched_bed": {
     "criteria": {
       "has_planks": "2025-07-06 23:14:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_stairs": {
+    "criteria": {
+      "has_holystone": "2025-07-07 00:23:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_stairs_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-07-07 00:23:59 +0000"
     },
     "done": true
   },
@@ -6735,6 +6819,12 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/holystone_brick_stairs_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-07-07 00:23:59 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/oak_desk": {
     "criteria": {
       "has_oak_planks": "2025-07-06 23:14:21 +0000"
@@ -6756,6 +6846,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_cutting_board": {
     "criteria": {
       "has_oak_planks": "2025-07-06 23:14:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/freezer": {
+    "criteria": {
+      "has_holystone": "2025-07-07 00:23:59 +0000"
     },
     "done": true
   },
@@ -6801,6 +6897,18 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/holystone_bricks": {
+    "criteria": {
+      "has_holystone": "2025-07-07 00:23:59 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "kobold": "2025-07-07 00:27:03 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/wine_bottle": {
     "criteria": {
       "has_glass_bottle": "2025-07-06 23:20:10 +0000"
@@ -6810,6 +6918,12 @@
   "cfm:recipes/decorations/oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-07-06 23:14:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-07-07 00:27:01 +0000"
     },
     "done": true
   },
@@ -6831,15 +6945,39 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/incubator": {
+    "criteria": {
+      "has_holystone": "2025-07-07 00:23:59 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/street_sign": {
     "criteria": {
       "has_oak_planks": "2025-07-06 23:14:21 +0000"
     },
     "done": true
   },
+  "aether:recipes/building_blocks/holystone_slab": {
+    "criteria": {
+      "has_holystone": "2025-07-07 00:23:59 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/drawer": {
     "criteria": {
       "has_oak_planks": "2025-07-06 23:14:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_hoe": {
+    "criteria": {
+      "has_holystone": "2025-07-07 00:23:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_slab_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-07-07 00:23:59 +0000"
     },
     "done": true
   },
@@ -6858,6 +6996,12 @@
   "refurbished_furniture:recipes/misc/constructing/oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-07-06 23:14:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/holystone_bricks_from_holystone_stonecutting": {
+    "criteria": {
+      "has_holystone": "2025-07-07 00:23:59 +0000"
     },
     "done": true
   },
@@ -6891,6 +7035,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/holystone_shovel": {
+    "criteria": {
+      "has_holystone": "2025-07-07 00:23:59 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/oak_wine_rack_big": {
     "criteria": {
       "has_oak_planks": "2025-07-06 23:14:21 +0000"
@@ -6900,6 +7050,12 @@
   "vinery:recipes/oak_wine_rack_small": {
     "criteria": {
       "has_oak_planks": "2025-07-06 23:14:21 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/mossy_holystone_with_vine": {
+    "criteria": {
+      "has_holystone": "2025-07-07 00:23:59 +0000"
     },
     "done": true
   },
@@ -6915,6 +7071,12 @@
     },
     "done": true
   },
+  "aether:blue_aercloud": {
+    "criteria": {
+      "blue_aercloud": "2025-07-07 00:24:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2025-07-06 23:43:45 +0000"
@@ -6927,9 +7089,27 @@
     },
     "done": true
   },
+  "aether:recipes/building_blocks/mossy_holystone_with_moss": {
+    "criteria": {
+      "has_holystone": "2025-07-07 00:23:59 +0000"
+    },
+    "done": true
+  },
   "twilightforest:root": {
     "criteria": {
       "in_tf": "2025-07-07 00:13:53 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/holystone_axe": {
+    "criteria": {
+      "has_holystone": "2025-07-07 00:23:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/holystone_button": {
+    "criteria": {
+      "has_holystone": "2025-07-07 00:23:59 +0000"
     },
     "done": true
   },

@@ -69,3 +69,45 @@
 [07Jul2025 00:21:45.278] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [100 absolute-30 below top]
 [07Jul2025 00:21:54.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
 [07Jul2025 00:21:56.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[07Jul2025 00:22:09.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Skeleton Thrasher
+[07Jul2025 00:22:09.643] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[07Jul2025 00:22:17.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 was kicked for floating too long!
+[07Jul2025 00:22:17.955] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 lost connection: Flying is not enabled on this server
+[07Jul2025 00:22:17.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 left the game
+[07Jul2025 00:22:17.955] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client funado69
+[07Jul2025 00:22:41.378] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: funado69[/127.213.238.243:50521] logged in with entity id 42984 at (1185.6076832666563, 172.79200176125522, -516.2527784316306)
+[07Jul2025 00:22:41.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 joined the game
+[07Jul2025 00:22:41.441] [Server thread/INFO] [Jade/]: Syncing config to funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec)
+[07Jul2025 00:22:41.607] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of funado69 (18)
+[07Jul2025 00:22:41.608] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[07Jul2025 00:22:51.668] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[07Jul2025 00:22:52.674] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[07Jul2025 00:22:52.674] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) successfully connected to voice chat
+[07Jul2025 00:22:54.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 fell from a high place
+[07Jul2025 00:22:54.499] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[07Jul2025 00:23:18.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[07Jul2025 00:24:16.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [To Infinity and Beyond!]
+[07Jul2025 00:24:23.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 fell from a high place
+[07Jul2025 00:24:23.170] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[07Jul2025 00:24:44.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to pablito]
+[07Jul2025 00:24:52.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[07Jul2025 00:26:30.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported PoH159 to pablito]
+[07Jul2025 00:26:34.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported PoH159 to pablito]
+[07Jul2025 00:26:58.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[07Jul2025 00:27:03.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 has made the advancement [The Silence of the Forest]
+[07Jul2025 00:27:23.102] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PoH159 moved too quickly! 8342.039603591547,-58.92159999847412,-3237.9423298099455
+[07Jul2025 00:28:59.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[07Jul2025 00:29:28.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[07Jul2025 00:29:33.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[07Jul2025 00:29:52.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[07Jul2025 00:29:59.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
+[07Jul2025 00:30:08.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was slain by funado69
+[07Jul2025 00:30:08.457] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[07Jul2025 00:30:14.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to pablito]
+[07Jul2025 00:30:18.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
+[07Jul2025 00:30:24.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
+[07Jul2025 00:30:53.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Kobold
+[07Jul2025 00:30:53.870] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[07Jul2025 00:31:07.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
+[07Jul2025 00:31:11.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [The Silence of the Forest]
+[07Jul2025 00:31:38.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
