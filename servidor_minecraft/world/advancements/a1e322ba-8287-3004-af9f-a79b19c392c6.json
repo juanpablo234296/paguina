@@ -6907,5 +6907,11 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/cyan_dye_from_pitcher_plant": {
+    "criteria": {
+      "has_pitcher_plant": "2025-07-07 22:55:01 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

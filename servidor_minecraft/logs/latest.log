@@ -2143,3 +2143,60 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [07Jul2025 22:36:41.590] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
 [07Jul2025 22:38:37.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> hola
 [07Jul2025 22:39:01.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[07Jul2025 22:43:00.086] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucyyxd[/127.209.237.17:54921] logged in with entity id 3053 at (816.5, 63.5625, -618.5)
+[07Jul2025 22:43:00.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd joined the game
+[07Jul2025 22:43:00.191] [Server thread/INFO] [Jade/]: Syncing config to lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce)
+[07Jul2025 22:43:01.140] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucyyxd (18)
+[07Jul2025 22:43:01.141] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[07Jul2025 22:43:20.494] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[07Jul2025 22:43:22.500] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[07Jul2025 22:43:22.501] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) successfully connected to voice chat
+[07Jul2025 22:43:25.492] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chantikook[/127.8.127.102:49371] logged in with entity id 3098 at (1166.699999988079, 64.02442408821369, -348.04513469254897)
+[07Jul2025 22:43:25.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook joined the game
+[07Jul2025 22:43:25.539] [Server thread/INFO] [Jade/]: Syncing config to Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede)
+[07Jul2025 22:43:25.819] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Chantikook (18)
+[07Jul2025 22:43:25.819] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Chantikook
+[07Jul2025 22:43:37.167] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[07Jul2025 22:43:38.176] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[07Jul2025 22:43:38.176] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) successfully connected to voice chat
+[07Jul2025 22:44:48.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Fishy Business]
+[07Jul2025 22:45:44.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1624, y=64, z=-371} BlockPos{x=1625, y=62, z=-371}
+[07Jul2025 22:45:44.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1624, y=64, z=-371} BlockPos{x=1625, y=62, z=-371}
+[07Jul2025 22:45:45.152] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1626, y=64, z=-371} BlockPos{x=1627, y=62, z=-371}
+[07Jul2025 22:45:45.264] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1626, y=64, z=-371} BlockPos{x=1627, y=62, z=-371}
+[07Jul2025 22:47:14.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1569, y=64, z=-249} BlockPos{x=1568, y=62, z=-249}
+[07Jul2025 22:47:59.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> ola
+[07Jul2025 22:48:27.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> pablito los gatos eran de ti?
+[07Jul2025 22:48:32.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> o quien dejo?
+[07Jul2025 22:49:05.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Forbidden Fruit]
+[07Jul2025 22:49:22.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]
+[07Jul2025 22:49:36.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[07Jul2025 22:49:37.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> pablito?
+[07Jul2025 22:49:39.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> ven
+[07Jul2025 22:49:42.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> hola
+[07Jul2025 22:49:51.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[07Jul2025 22:50:06.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> pablito aqui habian muchos gatos
+[07Jul2025 22:50:09.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> fuiste tu?
+[07Jul2025 22:50:21.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> no encuentro la entrada
+[07Jul2025 22:50:34.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> creo que el oso mato a los gatitos
+[07Jul2025 22:50:37.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> noooooooooooooooooooooooooo
+[07Jul2025 22:50:39.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> :ccccccccc
+[07Jul2025 22:50:46.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> y ta teniamos pescado
+[07Jul2025 22:50:55.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> puede ser
+[07Jul2025 22:51:13.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> y chanti?
+[07Jul2025 22:51:30.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> estoy explorando
+[07Jul2025 22:51:35.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> a
+[07Jul2025 22:51:37.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> se perdio
+[07Jul2025 22:51:37.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> es que me mori
+[07Jul2025 22:51:43.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> y fui por mi tumba
+[07Jul2025 22:51:49.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> ya la tienes?
+[07Jul2025 22:51:58.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> pablito danos gatos
+[07Jul2025 22:52:18.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> sisi :D la encontre
+[07Jul2025 22:52:23.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> esperen jajaj ya vengo
+[07Jul2025 22:52:24.879] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[07Jul2025 22:52:24.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[07Jul2025 22:52:24.883] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[07Jul2025 22:53:43.185] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Disconnected
+[07Jul2025 22:53:43.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
+[07Jul2025 22:53:43.186] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
+[07Jul2025 22:59:54.521] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6de1d21[id=<null>,name=pablito,properties={},legacy=false] (/127.54.255.13:34533) lost connection: Disconnected
