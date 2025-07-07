@@ -2302,3 +2302,62 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [07Jul2025 23:20:39.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> ojo son mias xxd
 [07Jul2025 23:20:42.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> pvtas
 [07Jul2025 23:20:49.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> pero les presto
+[07Jul2025 23:22:43.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [It's an Emu!!!]
+[07Jul2025 23:24:15.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [A Seedy Place]
+[07Jul2025 23:24:52.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was slain by Dread Hound
+[07Jul2025 23:24:53.191] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[07Jul2025 23:24:54.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by Door Knight
+[07Jul2025 23:24:54.125] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[07Jul2025 23:24:58.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> DE DIA
+[07Jul2025 23:25:27.111] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook lost connection: Disconnected
+[07Jul2025 23:25:27.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook left the game
+[07Jul2025 23:25:27.112] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Chantikook
+[07Jul2025 23:28:23.378] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chantikook[/127.8.127.102:49567] logged in with entity id 16906 at (874.549626234109, 64.0, -613.3733292243658)
+[07Jul2025 23:28:23.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook joined the game
+[07Jul2025 23:28:23.464] [Server thread/INFO] [Jade/]: Syncing config to Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede)
+[07Jul2025 23:28:23.670] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Chantikook (18)
+[07Jul2025 23:28:23.670] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Chantikook
+[07Jul2025 23:28:40.806] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[07Jul2025 23:28:41.794] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[07Jul2025 23:28:41.795] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) successfully connected to voice chat
+[07Jul2025 23:28:57.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Siamese Skeletons
+[07Jul2025 23:28:57.482] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[07Jul2025 23:29:28.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> pablito estas?
+[07Jul2025 23:29:29.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> PABLITO? Me haces to con kirra
+[07Jul2025 23:29:41.917] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook lost connection: Disconnected
+[07Jul2025 23:29:41.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook left the game
+[07Jul2025 23:29:41.918] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Chantikook
+[07Jul2025 23:30:38.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has reached the goal [Exorcism]
+[07Jul2025 23:30:39.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucyyxd> CORRREEE
+[07Jul2025 23:30:43.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by Corpse Maggot
+[07Jul2025 23:30:43.413] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[07Jul2025 23:30:44.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucyyxd> KIRAAAA
+[07Jul2025 23:30:52.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> xd
+[07Jul2025 23:31:01.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucyyxd> JAJAJJAA
+[07Jul2025 23:33:29.534] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:46173] logged in with entity id 18449 at (820.4006453632742, 63.0, -639.6697823512235)
+[07Jul2025 23:33:29.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[07Jul2025 23:33:29.625] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[07Jul2025 23:33:32.623] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[07Jul2025 23:33:32.623] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[07Jul2025 23:33:40.468] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[07Jul2025 23:33:41.472] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[07Jul2025 23:33:41.472] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[07Jul2025 23:33:58.575] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chantikook[/127.8.127.102:40141] logged in with entity id 18521 at (187.5, 67.0, -97.5)
+[07Jul2025 23:33:58.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook joined the game
+[07Jul2025 23:33:58.637] [Server thread/INFO] [Jade/]: Syncing config to Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede)
+[07Jul2025 23:33:58.969] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Chantikook (18)
+[07Jul2025 23:33:58.969] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Chantikook
+[07Jul2025 23:34:10.864] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[07Jul2025 23:34:11.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]
+[07Jul2025 23:34:11.947] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[07Jul2025 23:34:11.948] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) successfully connected to voice chat
+[07Jul2025 23:34:12.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> pablito hazle tp a chanri
+[07Jul2025 23:34:16.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> porfa
+[07Jul2025 23:34:27.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> sisi
+[07Jul2025 23:34:42.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to Kira_R]
+[07Jul2025 23:35:36.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=841, y=64, z=-677} BlockPos{x=842, y=62, z=-677}
+[07Jul2025 23:37:14.008] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[07Jul2025 23:37:14.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[07Jul2025 23:37:14.009] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[07Jul2025 23:39:30.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [An adventure awaits you]
+[07Jul2025 23:39:58.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Neighborhood Brawl]
