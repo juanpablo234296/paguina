@@ -5374,6 +5374,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_lost_tablet": {
+    "criteria": {
+      "has_lost_tablet": "2025-07-07 23:39:30 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/highland_bed": {
     "criteria": {
       "has_planks": "2025-07-07 23:36:48 +0000"
@@ -5608,6 +5614,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-07-07 23:39:30 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_upgraded_gate": {
     "criteria": {
       "has_log": "2025-07-07 23:23:44 +0000"
@@ -5743,6 +5755,12 @@
   "cfm:recipes/decorations/light_gray_cooler": {
     "criteria": {
       "has_chest": "2025-07-07 23:20:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-07-07 23:39:30 +0000"
     },
     "done": true
   },

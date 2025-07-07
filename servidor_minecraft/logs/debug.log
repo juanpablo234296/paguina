@@ -11333,3 +11333,14 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [07Jul2025 23:37:25.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [07Jul2025 23:39:30.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [An adventure awaits you]
 [07Jul2025 23:39:58.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Neighborhood Brawl]
+[07Jul2025 23:42:25.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 23:42:25.344] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 23:44:19.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Chort
+[07Jul2025 23:44:19.364] [Server thread/DEBUG] [tombstone/]: A new grave of the player Chantikook was created at position [x:833, y:63, z:-621, dim:minecraft:overworld]
+[07Jul2025 23:44:19.374] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[07Jul2025 23:44:21.874] [Server thread/DEBUG] [twilightforest/]: Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) respawned and received items held in storage
+[07Jul2025 23:44:54.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> duerman crj
+[07Jul2025 23:47:25.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 23:47:25.339] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 23:50:50.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> locy tienes mesa?
+[07Jul2025 23:50:52.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> de crafteo
