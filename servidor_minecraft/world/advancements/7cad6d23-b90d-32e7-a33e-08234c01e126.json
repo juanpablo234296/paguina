@@ -653,6 +653,7 @@
       "minecraft:witch": "2025-05-18 22:13:25 +0000",
       "minecraft:cave_spider": "2025-05-17 00:38:13 +0000",
       "minecraft:zombie": "2025-05-18 21:57:40 +0000",
+      "minecraft:drowned": "2025-07-07 01:22:26 +0000",
       "minecraft:zombie_villager": "2025-05-17 00:50:34 +0000"
     },
     "done": false
@@ -7774,6 +7775,18 @@
   "aether:recipes/building_blocks/holystone_brick_stairs_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-07-07 00:31:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_helmet_repairing": {
+    "criteria": {
+      "has_leather_helmet": "2025-07-07 01:17:49 +0000"
+    },
+    "done": true
+  },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_shovel": "2025-07-07 01:17:47 +0000"
     },
     "done": true
   },
