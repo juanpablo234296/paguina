@@ -7904,6 +7904,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/wooden_shovel_repairing": {
+    "criteria": {
+      "has_wooden_shovel": "2025-07-07 02:56:09 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/mossy_holystone_with_vine": {
     "criteria": {
       "has_holystone": "2025-07-07 00:31:32 +0000"
