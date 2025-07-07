@@ -9904,3 +9904,19 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [07Jul2025 00:00:15.540] [Server thread/DEBUG] [twilightforest/]: Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) respawned and received items held in storage
 [07Jul2025 00:00:16.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
 [07Jul2025 00:00:22.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to funado69]
+[07Jul2025 00:02:37.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 00:02:37.690] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 00:04:36.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by funado69
+[07Jul2025 00:04:36.452] [Server thread/DEBUG] [tombstone/]: A new grave of the player pablito was created at position [x:166, y:-54, z:-433, dim:minecraft:overworld]
+[07Jul2025 00:04:36.490] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[07Jul2025 00:04:37.989] [Server thread/DEBUG] [twilightforest/]: Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) respawned and received items held in storage
+[07Jul2025 00:04:39.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to funado69]
+[07Jul2025 00:06:13.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[07Jul2025 00:06:29.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to pablito]
+[07Jul2025 00:06:45.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to pablito]
+[07Jul2025 00:07:02.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Peaceful]
+[07Jul2025 00:07:02.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to pablito]
+[07Jul2025 00:07:16.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to pablito]
+[07Jul2025 00:07:37.655] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 00:07:37.679] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 00:11:07.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Hard]

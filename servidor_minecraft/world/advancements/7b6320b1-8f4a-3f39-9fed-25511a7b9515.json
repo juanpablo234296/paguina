@@ -6777,6 +6777,12 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
+    "criteria": {
+      "has_chaotic_hexahedron": "2025-07-06 23:58:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/oak_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-07-06 23:14:21 +0000"
@@ -6804,6 +6810,12 @@
   "cfm:recipes/decorations/oak_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-07-06 23:14:21 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
+    "criteria": {
+      "obtain_chaotic_hexahedron": "2025-07-06 23:58:41 +0000"
     },
     "done": true
   },

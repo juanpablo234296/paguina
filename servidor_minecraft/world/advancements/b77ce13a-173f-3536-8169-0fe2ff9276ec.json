@@ -7028,5 +7028,29 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/scepter_of_sealed_chaos": {
+    "criteria": {
+      "has_chaotic_hexahedron": "2025-07-06 23:58:41 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2025-07-07 00:06:27 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/labyrinth/obtain_chaotic_hexahedron": {
+    "criteria": {
+      "obtain_chaotic_hexahedron": "2025-07-06 23:58:41 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/soul_silk": {
+    "criteria": {
+      "has_soul_cloth": "2025-07-07 00:00:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
