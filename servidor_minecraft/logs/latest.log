@@ -111,3 +111,14 @@
 [07Jul2025 00:31:07.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
 [07Jul2025 00:31:11.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [The Silence of the Forest]
 [07Jul2025 00:31:38.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[07Jul2025 00:33:26.422] [Worker-Main-67/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 00:33:26.425] [Worker-Main-67/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 00:33:26.427] [Worker-Main-67/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 00:33:26.444] [Worker-Main-67/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 00:33:26.445] [Worker-Main-67/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 00:33:26.447] [Worker-Main-67/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 00:33:26.449] [Worker-Main-67/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 00:33:26.449] [Worker-Main-67/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 00:33:26.449] [Worker-Main-67/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 00:34:50.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Zombie
+[07Jul2025 00:34:51.002] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved

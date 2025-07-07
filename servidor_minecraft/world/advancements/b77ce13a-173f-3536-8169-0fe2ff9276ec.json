@@ -7088,5 +7088,11 @@
     },
     "done": true
   },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "kobold": "2025-07-07 00:31:11 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

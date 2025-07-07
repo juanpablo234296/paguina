@@ -10894,3 +10894,37 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [07Jul2025 00:31:07.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to PoH159]
 [07Jul2025 00:31:11.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [The Silence of the Forest]
 [07Jul2025 00:31:38.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[07Jul2025 00:32:40.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 00:32:40.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 00:32:42.175] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_90 at (1070 | 42 | -215)
+[07Jul2025 00:32:42.175] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/jukebox_room with rotation CLOCKWISE_90 at (1070 | 42 | -215)
+[07Jul2025 00:32:42.175] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/corridor/fire with rotation COUNTERCLOCKWISE_90 at (1071 | 33 | -226)
+[07Jul2025 00:32:42.175] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/corridor/fire with rotation COUNTERCLOCKWISE_90 at (1071 | 33 | -226)
+[07Jul2025 00:32:42.175] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (1064 | 6 | -227)
+[07Jul2025 00:32:42.176] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation COUNTERCLOCKWISE_90 at (1064 | 6 | -227)
+[07Jul2025 00:32:42.176] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1063 | 6 | -222)
+[07Jul2025 00:32:42.178] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/room/spawner_room with rotation NONE at (1063 | 6 | -222)
+[07Jul2025 00:32:42.178] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (1064 | 6 | -213)
+[07Jul2025 00:32:42.178] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_90 at (1064 | 6 | -213)
+[07Jul2025 00:33:03.568] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (1068 | 33 | -208)
+[07Jul2025 00:33:03.568] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (1068 | 33 | -208)
+[07Jul2025 00:33:03.568] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (1059 | 5 | -208)
+[07Jul2025 00:33:03.568] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (1059 | 5 | -208)
+[07Jul2025 00:33:03.575] [Worker-Main-61/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (1068 | 33 | -208)
+[07Jul2025 00:33:03.575] [Worker-Main-61/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation CLOCKWISE_180 at (1068 | 33 | -208)
+[07Jul2025 00:33:03.576] [Worker-Main-61/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (1059 | 5 | -208)
+[07Jul2025 00:33:03.576] [Worker-Main-61/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (1059 | 5 | -208)
+[07Jul2025 00:33:26.422] [Worker-Main-67/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 00:33:26.425] [Worker-Main-67/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 00:33:26.427] [Worker-Main-67/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 00:33:26.444] [Worker-Main-67/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 00:33:26.445] [Worker-Main-67/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 00:33:26.447] [Worker-Main-67/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 00:33:26.449] [Worker-Main-67/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 00:33:26.449] [Worker-Main-67/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 00:33:26.449] [Worker-Main-67/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[07Jul2025 00:34:50.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Zombie
+[07Jul2025 00:34:50.990] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:1188, y:67, z:-539, dim:minecraft:overworld]
+[07Jul2025 00:34:51.002] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[07Jul2025 00:37:40.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 00:37:40.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
