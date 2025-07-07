@@ -179,3 +179,17 @@
 [07Jul2025 02:12:37.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the weather to clear]
 [07Jul2025 02:12:43.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Hard]
 [07Jul2025 02:12:58.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[07Jul2025 02:15:31.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> italo
+[07Jul2025 02:17:33.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PoH159> dime
+[07Jul2025 02:17:39.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PoH159> q a pasao
+[07Jul2025 02:18:01.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> estoy aplanando
+[07Jul2025 02:21:48.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[07Jul2025 02:21:53.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> quieres ver italo?¡+
+[07Jul2025 02:22:05.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PoH159> a ver xd
+[07Jul2025 02:22:32.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported PoH159 to pablito]
+[07Jul2025 02:22:38.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[07Jul2025 02:27:29.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PoH159 lost connection: Disconnected
+[07Jul2025 02:27:29.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 left the game
+[07Jul2025 02:27:29.954] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PoH159
+[07Jul2025 02:31:10.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[07Jul2025 02:32:55.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
