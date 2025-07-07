@@ -157,3 +157,25 @@
 [07Jul2025 01:47:52.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
 [07Jul2025 01:47:59.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
 [07Jul2025 01:51:07.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[07Jul2025 01:53:24.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[07Jul2025 01:53:32.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[07Jul2025 01:57:04.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[07Jul2025 01:57:12.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[07Jul2025 01:59:47.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[07Jul2025 02:01:35.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[07Jul2025 02:02:34.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Gave 1 [Diamond Pickaxe] to pablito]
+[07Jul2025 02:02:41.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Gave 1 [Diamond Pickaxe] to pablito]
+[07Jul2025 02:02:45.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[07Jul2025 02:10:51.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Gave 1 [Diamond Shovel] to pablito]
+[07Jul2025 02:11:58.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[07Jul2025 02:12:05.064] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PoH159[/127.113.115.119:34567] logged in with entity id 74692 at (882.3000000119209, 64.0, -272.55035374765504)
+[07Jul2025 02:12:05.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 joined the game
+[07Jul2025 02:12:05.100] [Server thread/INFO] [Jade/]: Syncing config to PoH159 (7b6320b1-8f4a-3f39-9fed-25511a7b9515)
+[07Jul2025 02:12:06.874] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PoH159 (18)
+[07Jul2025 02:12:06.874] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PoH159
+[07Jul2025 02:12:13.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7b6320b1-8f4a-3f39-9fed-25511a7b9515
+[07Jul2025 02:12:14.901] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7b6320b1-8f4a-3f39-9fed-25511a7b9515
+[07Jul2025 02:12:14.902] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PoH159 (7b6320b1-8f4a-3f39-9fed-25511a7b9515) successfully connected to voice chat
+[07Jul2025 02:12:37.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the weather to clear]
+[07Jul2025 02:12:43.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Hard]
+[07Jul2025 02:12:58.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
