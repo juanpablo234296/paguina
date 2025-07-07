@@ -7681,77 +7681,89 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "cfm:recipes/decorations/diving_board": {
     "criteria": {
-      "log_spam_fixer": "2025-07-07 03:13:40 +0000"
+      "has_wheat": "2025-07-07 00:29:15 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
-      "log_spam_fixer": "2025-07-07 03:13:40 +0000"
+      "has_wheat": "2025-07-07 00:29:15 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "cfm:recipes/decorations/door_mat": {
     "criteria": {
-      "log_spam_fixer": "2025-07-07 03:13:40 +0000"
+      "has_wheat": "2025-07-07 00:29:15 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "vinery:recipes/basket": {
     "criteria": {
-      "log_spam_fixer": "2025-07-07 03:13:40 +0000"
+      "has_wheat": "2025-07-07 00:29:15 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "meadow:recipes/cheese_tart": {
     "criteria": {
-      "log_spam_fixer": "2025-07-07 03:13:40 +0000"
+      "has_wheat": "2025-07-07 00:29:15 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
-      "log_spam_fixer": "2025-07-07 03:13:40 +0000"
+      "has_wheat": "2025-07-07 00:29:15 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "some_assembly_required:recipes/food/crafting_shapeless/burger_bun": {
     "criteria": {
-      "log_spam_fixer": "2025-07-07 03:13:40 +0000"
+      "has_wheat": "2025-07-07 00:29:15 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
-      "log_spam_fixer": "2025-07-07 03:13:40 +0000"
+      "has_wheat": "2025-07-07 00:29:15 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
     "criteria": {
-      "log_spam_fixer": "2025-07-07 03:13:40 +0000"
+      "has_wheat": "2025-07-07 00:29:15 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "vinery:recipes/straw_hat": {
     "criteria": {
-      "log_spam_fixer": "2025-07-07 03:13:40 +0000"
+      "has_wheat": "2025-07-07 00:29:15 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "meadow:recipes/cheesecake": {
     "criteria": {
-      "log_spam_fixer": "2025-07-07 03:13:40 +0000"
+      "has_wheat": "2025-07-07 00:29:15 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "brewery:recipes/rope": {
     "criteria": {
-      "log_spam_fixer": "2025-07-07 03:13:40 +0000"
+      "has_wheat": "2025-07-07 00:29:15 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "brewery:recipes/pretzel": {
+    "criteria": {
+      "has_wheat": "2025-07-07 00:29:15 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/gingerbread": {
+    "criteria": {
+      "has_wheat": "2025-07-07 00:29:15 +0000"
+    },
+    "done": true
   },
   "aether:recipes/tools/holystone_pickaxe": {
     "criteria": {
@@ -7780,12 +7792,6 @@
   "aether:recipes/decorations/holystone_stonecutter": {
     "criteria": {
       "has_holystone": "2025-07-07 00:31:32 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/diving_board": {
-    "criteria": {
-      "has_wheat": "2025-07-07 00:29:15 +0000"
     },
     "done": true
   },
@@ -7819,13 +7825,6 @@
     },
     "done": true
   },
-  "brewery:main/wild_crops": {
-    "criteria": {
-      "barley_seeds": "2025-07-07 00:56:31 +0000",
-      "hops_seeds": "2025-07-07 00:56:24 +0000"
-    },
-    "done": false
-  },
   "aether:recipes/building_blocks/holystone_stairs": {
     "criteria": {
       "has_holystone": "2025-07-07 00:31:32 +0000"
@@ -7838,33 +7837,9 @@
     },
     "done": true
   },
-  "aether:recipes/tools/netherite_pickaxe_repairing": {
-    "criteria": {
-      "has_netherite_pickaxe": "2025-07-07 01:09:43 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
-    "criteria": {
-      "has_stone": "2025-07-07 03:06:52 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/building_blocks/holystone_brick_stairs_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-07-07 00:31:32 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/leather_helmet_repairing": {
-    "criteria": {
-      "has_leather_helmet": "2025-07-07 01:17:49 +0000"
-    },
-    "done": true
-  },
-  "aether:valkyrie_loot": {
-    "criteria": {
-      "valkyrie_shovel": "2025-07-07 01:17:47 +0000"
     },
     "done": true
   },
@@ -7874,51 +7849,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/pie_crust": {
-    "criteria": {
-      "has_wheat": "2025-07-07 00:29:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_stained_glass_pane": {
-    "criteria": {
-      "has_glass": "2025-07-07 02:47:20 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/door_mat": {
-    "criteria": {
-      "has_wheat": "2025-07-07 00:29:15 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/building_blocks/holystone_bricks": {
     "criteria": {
       "has_holystone": "2025-07-07 00:31:32 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/basket": {
-    "criteria": {
-      "has_wheat": "2025-07-07 00:29:15 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/cheese_tart": {
-    "criteria": {
-      "has_wheat": "2025-07-07 00:29:15 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
-    "criteria": {
-      "has_wheat": "2025-07-07 00:29:15 +0000"
-    },
-    "done": true
-  },
-  "some_assembly_required:recipes/food/crafting_shapeless/burger_bun": {
-    "criteria": {
-      "has_wheat": "2025-07-07 00:29:15 +0000"
     },
     "done": true
   },
@@ -7928,39 +7861,15 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/rock_path": {
-    "criteria": {
-      "has_stone": "2025-07-07 03:06:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/wheat_dough_from_water": {
-    "criteria": {
-      "has_wheat": "2025-07-07 00:29:15 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/building_blocks/holystone_slab": {
     "criteria": {
       "has_holystone": "2025-07-07 00:31:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2025-07-07 03:09:12 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/tools/holystone_hoe": {
     "criteria": {
       "has_holystone": "2025-07-07 00:31:32 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/door_mat": {
-    "criteria": {
-      "has_wheat": "2025-07-07 00:29:15 +0000"
     },
     "done": true
   },
@@ -7976,45 +7885,15 @@
     },
     "done": true
   },
-  "vinery:recipes/straw_hat": {
-    "criteria": {
-      "has_wheat": "2025-07-07 00:29:15 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/tools/holystone_shovel": {
     "criteria": {
       "has_holystone": "2025-07-07 00:31:32 +0000"
     },
     "done": true
   },
-  "meadow:recipes/cheesecake": {
-    "criteria": {
-      "has_wheat": "2025-07-07 00:29:15 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/tools/wooden_shovel_repairing": {
-    "criteria": {
-      "has_wooden_shovel": "2025-07-07 02:56:09 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/building_blocks/mossy_holystone_with_vine": {
     "criteria": {
       "has_holystone": "2025-07-07 00:31:32 +0000"
-    },
-    "done": true
-  },
-  "brewery:recipes/rope": {
-    "criteria": {
-      "has_wheat": "2025-07-07 00:29:15 +0000"
-    },
-    "done": true
-  },
-  "brewery:recipes/pretzel": {
-    "criteria": {
-      "has_wheat": "2025-07-07 00:29:15 +0000"
     },
     "done": true
   },
@@ -8030,15 +7909,64 @@
     },
     "done": true
   },
-  "brewery:recipes/gingerbread": {
-    "criteria": {
-      "has_wheat": "2025-07-07 00:29:15 +0000"
-    },
-    "done": true
-  },
   "aether:recipes/redstone/holystone_button": {
     "criteria": {
       "has_holystone": "2025-07-07 00:31:32 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/wild_crops": {
+    "criteria": {
+      "barley_seeds": "2025-07-07 00:56:31 +0000",
+      "hops_seeds": "2025-07-07 00:56:24 +0000"
+    },
+    "done": false
+  },
+  "aether:recipes/tools/netherite_pickaxe_repairing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2025-07-07 01:09:43 +0000"
+    },
+    "done": true
+  },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_shovel": "2025-07-07 01:17:47 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_helmet_repairing": {
+    "criteria": {
+      "has_leather_helmet": "2025-07-07 01:17:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2025-07-07 02:47:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/tools/wooden_shovel_repairing": {
+    "criteria": {
+      "has_wooden_shovel": "2025-07-07 02:56:09 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_stone": "2025-07-07 03:06:52 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/rock_path": {
+    "criteria": {
+      "has_stone": "2025-07-07 03:06:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2025-07-07 03:09:12 +0000"
     },
     "done": true
   },
