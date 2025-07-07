@@ -132,3 +132,12 @@
 [07Jul2025 01:01:51.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Spectator Mode]
 [07Jul2025 01:02:05.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
 [07Jul2025 01:02:08.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[07Jul2025 01:04:58.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Kicked funado69: Kicked by an operator]
+[07Jul2025 01:04:58.598] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 lost connection: Kicked by an operator
+[07Jul2025 01:04:58.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 left the game
+[07Jul2025 01:04:58.599] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client funado69
+[07Jul2025 01:09:37.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Gave 1 [Diamond Pickaxe] to pablito]
+[07Jul2025 01:09:43.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Gave 1 [Netherite Pickaxe] to pablito]
+[07Jul2025 01:09:51.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Gave 1 [Diamond Shovel] to pablito]
+[07Jul2025 01:09:57.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[07Jul2025 01:10:06.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]

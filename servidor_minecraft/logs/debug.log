@@ -10949,3 +10949,18 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [07Jul2025 01:02:08.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
 [07Jul2025 01:02:40.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07Jul2025 01:02:40.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 01:04:58.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Kicked funado69: Kicked by an operator]
+[07Jul2025 01:04:58.598] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 lost connection: Kicked by an operator
+[07Jul2025 01:04:58.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 left the game
+[07Jul2025 01:04:58.599] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of funado69
+[07Jul2025 01:04:58.599] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client funado69
+[07Jul2025 01:04:58.713] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player b77ce13a-173f-3536-8169-0fe2ff9276ec does not have a secret
+[07Jul2025 01:07:40.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 01:07:40.108] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07Jul2025 01:09:37.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Gave 1 [Diamond Pickaxe] to pablito]
+[07Jul2025 01:09:43.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Gave 1 [Netherite Pickaxe] to pablito]
+[07Jul2025 01:09:51.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Gave 1 [Diamond Shovel] to pablito]
+[07Jul2025 01:09:57.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[07Jul2025 01:10:06.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[07Jul2025 01:12:40.077] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07Jul2025 01:12:40.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

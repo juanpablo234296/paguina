@@ -7765,6 +7765,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/netherite_pickaxe_repairing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2025-07-07 01:09:43 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/building_blocks/holystone_brick_stairs_from_holystone_stonecutting": {
     "criteria": {
       "has_holystone": "2025-07-07 00:31:32 +0000"
