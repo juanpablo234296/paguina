@@ -6221,30 +6221,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2025-07-08 03:39:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/bred_all_animals": {
-    "criteria": {
-      "minecraft:bee": "2025-07-08 03:39:09 +0000"
-    },
-    "done": false
-  },
-  "the_bumblezone:beehemoth/tamed_beehemoth": {
-    "criteria": {
-      "tamed_beehemoth": "2025-07-08 03:19:06 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/wine_bottle": {
-    "criteria": {
-      "has_glass_bottle": "2025-07-08 03:16:43 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/honey_cookie": {
     "criteria": {
       "has_honey_bottle": "2025-07-08 03:16:34 +0000"
@@ -6263,15 +6239,63 @@
     },
     "done": true
   },
+  "vinery:recipes/wine_bottle": {
+    "criteria": {
+      "has_glass_bottle": "2025-07-08 03:16:43 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/lime_picket_fence": {
     "criteria": {
       "has_concrete": "2025-07-08 03:18:48 +0000"
     },
     "done": true
   },
+  "the_bumblezone:beehemoth/tamed_beehemoth": {
+    "criteria": {
+      "tamed_beehemoth": "2025-07-08 03:19:06 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:effects/getting_protection": {
     "criteria": {
       "getting_protection": "2025-07-08 03:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-08 03:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:bee": "2025-07-08 03:39:09 +0000"
+    },
+    "done": false
+  },
+  "brewery:main/get_beer_haley": {
+    "criteria": {
+      "beer_haley": "2025-07-08 03:42:55 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_whiskey_cristelwalker": {
+    "criteria": {
+      "whiskey_cristelwalker": "2025-07-08 03:44:55 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_beer_hops": {
+    "criteria": {
+      "beer_hops": "2025-07-08 03:49:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-07-08 03:57:44 +0000"
     },
     "done": true
   },

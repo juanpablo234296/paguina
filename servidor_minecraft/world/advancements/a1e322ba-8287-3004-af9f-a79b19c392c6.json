@@ -6916,93 +6916,9 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "born_in_chaos_v1:exorcism": {
     "criteria": {
-      "log_spam_fixer": "2025-07-08 03:05:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 03:05:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 03:05:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 03:05:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 03:05:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 03:05:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 03:05:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 03:05:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 03:05:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 03:05:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 03:05:29 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 03:05:29 +0000"
-    },
-    "done": false
-  },
-  "cfm:recipes/decorations/diving_board": {
-    "criteria": {
-      "has_wheat": "2025-07-08 02:36:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/honey_bottle": {
-    "criteria": {
-      "has_honey_block": "2025-07-08 03:06:01 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:armor/honey_bee_leggings_flower_pollen": {
-    "criteria": {
-      "honey_bee_leggings_flower_pollen": "2025-07-08 01:36:34 +0000"
+      "exorcism_0": "2025-07-07 23:30:38 +0000"
     },
     "done": true
   },
@@ -7012,9 +6928,21 @@
     },
     "done": true
   },
-  "aether:recipes/decorations/skyroot_beehive": {
+  "the_bumblezone:armor/honey_bee_leggings_flower_pollen": {
     "criteria": {
-      "has_honeycomb": "2025-07-08 03:01:21 +0000"
+      "honey_bee_leggings_flower_pollen": "2025-07-08 01:36:34 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/oat_seeds": {
+    "criteria": {
+      "has_wheat_seeds": "2025-07-08 01:36:58 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:armor/carpenter_bee_boots_wall_hanging": {
+    "criteria": {
+      "carpenter_bee_boots_wall_hanging": "2025-07-08 01:48:09 +0000"
     },
     "done": true
   },
@@ -7024,15 +6952,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/pie_crust": {
+  "dungeonnowloading:recipes/combat/explosive_barrel": {
+    "criteria": {
+      "has_gunpowder": "2025-07-08 01:55:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-08 01:55:31 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/diving_board": {
     "criteria": {
       "has_wheat": "2025-07-08 02:36:05 +0000"
     },
     "done": true
   },
-  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+  "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
-      "teleport_to_bumblezone_pearl": "2025-07-08 03:00:52 +0000"
+      "has_wheat": "2025-07-08 02:36:05 +0000"
     },
     "done": true
   },
@@ -7045,12 +6985,6 @@
   "vinery:recipes/basket": {
     "criteria": {
       "has_wheat": "2025-07-08 02:36:05 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/oat_seeds": {
-    "criteria": {
-      "has_wheat_seeds": "2025-07-08 01:36:58 +0000"
     },
     "done": true
   },
@@ -7072,18 +7006,6 @@
     },
     "done": true
   },
-  "meadow:recipes/climbing_rope_topmount": {
-    "criteria": {
-      "has_lead": "2025-07-08 02:59:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/beehive": {
-    "criteria": {
-      "has_honeycomb": "2025-07-08 03:01:21 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
       "has_wheat": "2025-07-08 02:36:05 +0000"
@@ -7096,33 +7018,9 @@
     },
     "done": true
   },
-  "the_bumblezone:armor/carpenter_bee_boots_wall_hanging": {
-    "criteria": {
-      "carpenter_bee_boots_wall_hanging": "2025-07-08 01:48:09 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:recipes/combat/explosive_barrel": {
-    "criteria": {
-      "has_gunpowder": "2025-07-08 01:55:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/cherry_cabinet": {
-    "criteria": {
-      "has_cherry_trapdoor": "2025-07-08 02:42:03 +0000"
-    },
-    "done": true
-  },
   "vinery:recipes/straw_hat": {
     "criteria": {
       "has_wheat": "2025-07-08 02:36:05 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:exorcism": {
-    "criteria": {
-      "exorcism_0": "2025-07-07 23:30:38 +0000"
     },
     "done": true
   },
@@ -7138,12 +7036,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tnt": {
-    "criteria": {
-      "has_gunpowder": "2025-07-08 01:55:31 +0000"
-    },
-    "done": true
-  },
   "brewery:recipes/pretzel": {
     "criteria": {
       "has_wheat": "2025-07-08 02:36:05 +0000"
@@ -7156,9 +7048,75 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/cherry_cabinet": {
+    "criteria": {
+      "has_cherry_trapdoor": "2025-07-08 02:42:03 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/climbing_rope_topmount": {
+    "criteria": {
+      "has_lead": "2025-07-08 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2025-07-08 03:00:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/decorations/skyroot_beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-07-08 03:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-07-08 03:01:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/honeycomb_block": {
     "criteria": {
       "has_honeycomb": "2025-07-08 03:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-07-08 03:06:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-07-08 03:58:53 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-08 03:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-07-08 03:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-08 03:58:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-08 03:58:53 +0000"
     },
     "done": true
   },
