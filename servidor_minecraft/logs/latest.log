@@ -82,3 +82,36 @@
 [08Jul2025 02:02:59.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Disconnected
 [08Jul2025 02:02:59.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
 [08Jul2025 02:02:59.015] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
+[08Jul2025 02:04:29.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook fell from a high place
+[08Jul2025 02:04:29.070] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[08Jul2025 02:05:54.476] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucyyxd[/127.209.237.17:51159] logged in with entity id 46039 at (841.957912556982, 63.0, -633.4052834017579)
+[08Jul2025 02:05:54.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd joined the game
+[08Jul2025 02:05:54.534] [Server thread/INFO] [Jade/]: Syncing config to lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce)
+[08Jul2025 02:05:54.817] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucyyxd (18)
+[08Jul2025 02:05:54.818] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[08Jul2025 02:06:11.521] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[08Jul2025 02:06:12.521] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[08Jul2025 02:06:12.521] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) successfully connected to voice chat
+[08Jul2025 02:06:41.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucyyxd> T
+[08Jul2025 02:06:58.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was doomed to fall by Creeper
+[08Jul2025 02:06:58.817] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[08Jul2025 02:07:30.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucyyxd> 699999999999999999999999999999999
+[08Jul2025 02:09:02.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was slain by Chort
+[08Jul2025 02:09:02.863] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[08Jul2025 02:09:16.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was slain by Chort
+[08Jul2025 02:09:17.008] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[08Jul2025 02:09:53.471] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:50407] logged in with entity id 46967 at (1240.2040609831568, 63.0, -541.2153425550853)
+[08Jul2025 02:09:53.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[08Jul2025 02:09:53.502] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[08Jul2025 02:09:56.517] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[08Jul2025 02:09:56.518] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[08Jul2025 02:10:08.281] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[08Jul2025 02:10:09.298] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[08Jul2025 02:10:09.298] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[08Jul2025 02:10:15.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[08Jul2025 02:10:21.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
+[08Jul2025 02:10:43.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by lucyyxd
+[08Jul2025 02:10:43.422] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[08Jul2025 02:11:05.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Ambush]
+[08Jul2025 02:12:16.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]
+[08Jul2025 02:12:31.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
