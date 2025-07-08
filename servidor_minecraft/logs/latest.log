@@ -233,3 +233,22 @@
 [08Jul2025 03:12:39.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
 [08Jul2025 03:12:39.674] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
 [08Jul2025 03:13:09.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Winning Favors]
+[08Jul2025 03:15:51.870] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bee['Dash the Speedy Bee'/69437, l='ServerLevel[world]', x=-359.35, y=43.40, z=21.65] died: Dash the Speedy Bee drowned
+[08Jul2025 03:16:02.685] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucyyxd[/127.209.237.17:35239] logged in with entity id 69916 at (-112.5982684784645, 43.0, -122.0382050294231)
+[08Jul2025 03:16:02.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd joined the game
+[08Jul2025 03:16:02.759] [Server thread/INFO] [Jade/]: Syncing config to lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce)
+[08Jul2025 03:16:03.437] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucyyxd (18)
+[08Jul2025 03:16:03.438] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[08Jul2025 03:16:17.187] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[08Jul2025 03:16:18.157] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[08Jul2025 03:16:18.157] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) successfully connected to voice chat
+[08Jul2025 03:17:21.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 4 entities to Chantikook]
+[08Jul2025 03:19:06.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Winning Favors]
+[08Jul2025 03:19:56.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Best Friends Forever]
+[08Jul2025 03:20:58.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]
+[08Jul2025 03:21:02.422] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bee['Peter the Spider-Killing Bee'/65467, l='ServerLevel[world]', x=-173.42, y=38.70, z=-139.68] died: Peter the Spider-Killing Bee drowned
+[08Jul2025 03:21:06.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Kira_R to pablito]
+[08Jul2025 03:21:44.710] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Bee['Tiombe the Shy Bee'/65459, l='ServerLevel[world]', x=-175.42, y=33.43, z=-164.51] died: Tiombe the Shy Bee drowned
+[08Jul2025 03:23:17.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 4 entities to pablito]
+[08Jul2025 03:23:46.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 4 entities to pablito]
+[08Jul2025 03:24:11.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Winning Favors]

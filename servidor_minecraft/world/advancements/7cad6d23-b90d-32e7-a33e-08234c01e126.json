@@ -8007,73 +8007,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-08 03:12:28 +0000"
+      "log_spam_fixer": "2025-07-08 03:22:28 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-08 03:12:28 +0000"
+      "log_spam_fixer": "2025-07-08 03:22:28 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-08 03:12:28 +0000"
+      "log_spam_fixer": "2025-07-08 03:22:28 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-08 03:12:28 +0000"
+      "log_spam_fixer": "2025-07-08 03:22:28 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-08 03:12:28 +0000"
+      "log_spam_fixer": "2025-07-08 03:22:28 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-08 03:12:28 +0000"
+      "log_spam_fixer": "2025-07-08 03:22:28 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-08 03:12:28 +0000"
+      "log_spam_fixer": "2025-07-08 03:22:28 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-08 03:12:28 +0000"
+      "log_spam_fixer": "2025-07-08 03:22:28 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-08 03:12:28 +0000"
+      "log_spam_fixer": "2025-07-08 03:22:28 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-08 03:12:28 +0000"
+      "log_spam_fixer": "2025-07-08 03:22:28 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-08 03:12:28 +0000"
+      "log_spam_fixer": "2025-07-08 03:22:28 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-08 03:12:28 +0000"
+      "log_spam_fixer": "2025-07-08 03:22:28 +0000"
     },
     "done": false
   },
@@ -8106,6 +8106,12 @@
       "has_birch_planks": "2025-07-08 02:45:47 +0000"
     },
     "done": true
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_dance_floor": "2025-07-08 03:17:22 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/decorations/birch_table": {
     "criteria": {
@@ -8203,9 +8209,21 @@
     },
     "done": true
   },
+  "the_bumblezone:beehemoth/tamed_beehemoth": {
+    "criteria": {
+      "tamed_beehemoth": "2025-07-08 03:13:09 +0000"
+    },
+    "done": true
+  },
   "vinery:recipes/birch_wine_rack_big": {
     "criteria": {
       "has_birch_planks": "2025-07-08 02:45:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-08 03:13:07 +0000"
     },
     "done": true
   },
@@ -8224,6 +8242,18 @@
   "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
     "criteria": {
       "bee_hit_wrath_of_the_hive": "2025-07-08 03:03:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-08 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-08 03:13:07 +0000"
     },
     "done": true
   },
@@ -8284,6 +8314,12 @@
   "cfm:recipes/decorations/birch_kitchen_counter": {
     "criteria": {
       "has_planks": "2025-07-08 02:45:47 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/getting_protection": {
+    "criteria": {
+      "getting_protection": "2025-07-08 03:13:09 +0000"
     },
     "done": true
   },
