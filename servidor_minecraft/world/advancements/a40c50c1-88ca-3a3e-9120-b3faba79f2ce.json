@@ -5909,9 +5909,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/brown_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-07-08 02:23:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-07-08 02:11:06 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_picket_gate": {
+    "criteria": {
+      "has_concrete": "2025-07-08 02:23:13 +0000"
     },
     "done": true
   },

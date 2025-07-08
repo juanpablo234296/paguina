@@ -120,3 +120,20 @@
 [08Jul2025 02:18:58.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
 [08Jul2025 02:18:58.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
 [08Jul2025 02:18:58.675] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[08Jul2025 02:26:23.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was slain by Chort
+[08Jul2025 02:26:24.883] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[08Jul2025 02:32:37.038] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:53487] logged in with entity id 52613 at (832.9529453401344, 77.0, -640.1025724466027)
+[08Jul2025 02:32:37.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[08Jul2025 02:32:37.106] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[08Jul2025 02:32:38.730] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[08Jul2025 02:32:38.731] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[08Jul2025 02:32:47.661] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[08Jul2025 02:32:48.656] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[08Jul2025 02:32:48.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[08Jul2025 02:34:12.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was doomed to fall by pablito
+[08Jul2025 02:34:12.496] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[08Jul2025 02:35:27.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to lucyyxd]
+[08Jul2025 02:35:48.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by Chort
+[08Jul2025 02:35:48.124] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[08Jul2025 02:40:11.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
+[08Jul2025 02:41:02.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
