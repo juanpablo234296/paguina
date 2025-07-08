@@ -350,3 +350,7 @@
 [08Jul2025 04:12:08.556] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
 [08Jul2025 04:12:09.557] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
 [08Jul2025 04:12:09.557] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
+[08Jul2025 04:16:57.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was slain by Nightmare Stalker
+[08Jul2025 04:16:57.767] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[08Jul2025 04:20:59.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was slain by Chort
+[08Jul2025 04:20:59.957] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
