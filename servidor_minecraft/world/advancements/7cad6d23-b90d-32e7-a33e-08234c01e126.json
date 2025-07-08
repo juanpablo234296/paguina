@@ -8192,6 +8192,12 @@
     },
     "done": false
   },
+  "brewery:main/get_beer_haley": {
+    "criteria": {
+      "beer_haley": "2025-07-08 03:42:19 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:structures/enter_throne_pillar": {
     "criteria": {
       "in_throne_pillar": "2025-07-08 03:29:40 +0000"

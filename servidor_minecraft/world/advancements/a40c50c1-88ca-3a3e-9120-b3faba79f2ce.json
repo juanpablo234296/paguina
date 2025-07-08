@@ -6221,6 +6221,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-08 03:39:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:bee": "2025-07-08 03:39:09 +0000"
+    },
+    "done": false
+  },
   "the_bumblezone:beehemoth/tamed_beehemoth": {
     "criteria": {
       "tamed_beehemoth": "2025-07-08 03:19:06 +0000"
