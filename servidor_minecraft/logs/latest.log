@@ -53,3 +53,32 @@
 [08Jul2025 01:53:11.206] [Server thread/INFO] [Jade/]: Syncing config to lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce)
 [08Jul2025 01:53:14.709] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucyyxd (18)
 [08Jul2025 01:53:14.710] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[08Jul2025 01:53:30.726] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chantikook[/127.8.127.102:36905] logged in with entity id 42369 at (776.8616012404206, 64.0, -601.6999999880791)
+[08Jul2025 01:53:30.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook joined the game
+[08Jul2025 01:53:30.803] [Server thread/INFO] [Jade/]: Syncing config to Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede)
+[08Jul2025 01:53:31.070] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Chantikook (18)
+[08Jul2025 01:53:31.071] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Chantikook
+[08Jul2025 01:53:31.145] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[08Jul2025 01:53:32.146] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[08Jul2025 01:53:32.146] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) successfully connected to voice chat
+[08Jul2025 01:53:38.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was shot by Skeleton
+[08Jul2025 01:53:38.068] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[08Jul2025 01:53:45.674] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[08Jul2025 01:53:46.675] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[08Jul2025 01:53:46.676] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) successfully connected to voice chat
+[08Jul2025 01:56:20.097] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:45553] logged in with entity id 43248 at (816.278423754873, 63.0, -674.1351451461982)
+[08Jul2025 01:56:20.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[08Jul2025 01:56:20.174] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[08Jul2025 01:56:26.312] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[08Jul2025 01:56:26.313] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[08Jul2025 01:56:38.652] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[08Jul2025 01:56:39.706] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[08Jul2025 01:56:39.706] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[08Jul2025 01:57:55.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
+[08Jul2025 01:58:56.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the weather to clear]
+[08Jul2025 01:59:32.723] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[08Jul2025 01:59:32.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[08Jul2025 01:59:32.723] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[08Jul2025 02:02:59.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Disconnected
+[08Jul2025 02:02:59.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
+[08Jul2025 02:02:59.015] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd

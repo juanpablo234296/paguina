@@ -805,6 +805,7 @@
       "minecraft:pillager": "2025-07-05 01:52:30 +0000",
       "minecraft:skeleton": "2025-07-03 05:14:05 +0000",
       "minecraft:spider": "2025-07-03 03:28:36 +0000",
+      "minecraft:creeper": "2025-07-08 01:55:30 +0000",
       "minecraft:enderman": "2025-07-04 19:03:07 +0000",
       "minecraft:endermite": "2025-07-04 02:26:29 +0000",
       "minecraft:zombie": "2025-07-03 04:02:45 +0000",
@@ -6913,12 +6914,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "requirement": "2025-07-08 01:52:25 +0000"
-    },
-    "done": false
-  },
   "the_bumblezone:armor/honey_bee_leggings_flower_pollen": {
     "criteria": {
       "honey_bee_leggings_flower_pollen": "2025-07-08 01:36:34 +0000"
@@ -6928,6 +6923,12 @@
   "the_bumblezone:armor/honey_bee_leggings_pollen_removal": {
     "criteria": {
       "honey_bee_leggings_pollen_removal": "2025-07-08 00:08:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-08 01:55:31 +0000"
     },
     "done": true
   },
@@ -6943,9 +6944,21 @@
     },
     "done": true
   },
+  "dungeonnowloading:recipes/combat/explosive_barrel": {
+    "criteria": {
+      "has_gunpowder": "2025-07-08 01:55:31 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:exorcism": {
     "criteria": {
       "exorcism_0": "2025-07-07 23:30:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-08 01:55:31 +0000"
     },
     "done": true
   },
