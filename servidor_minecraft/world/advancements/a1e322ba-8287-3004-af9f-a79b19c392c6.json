@@ -85,6 +85,8 @@
   },
   "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
+      "sugar_water_floor": "2025-07-08 03:00:53 +0000",
+      "hive_wall": "2025-07-08 03:00:57 +0000",
       "bumbling_beepartments": "2025-06-30 22:10:52 +0000"
     },
     "done": false
@@ -6914,9 +6916,87 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 03:05:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 03:05:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 03:05:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 03:05:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 03:05:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 03:05:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 03:05:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 03:05:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 03:05:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 03:05:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 03:05:29 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 03:05:29 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/diving_board": {
     "criteria": {
       "has_wheat": "2025-07-08 02:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-07-08 03:06:01 +0000"
     },
     "done": true
   },
@@ -6932,6 +7012,12 @@
     },
     "done": true
   },
+  "aether:recipes/decorations/skyroot_beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-07-08 03:01:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2025-07-08 01:55:31 +0000"
@@ -6941,6 +7027,12 @@
   "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
       "has_wheat": "2025-07-08 02:36:05 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2025-07-08 03:00:52 +0000"
     },
     "done": true
   },
@@ -6977,6 +7069,18 @@
   "some_assembly_required:recipes/food/crafting_shapeless/burger_bun": {
     "criteria": {
       "has_wheat": "2025-07-08 02:36:05 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/climbing_rope_topmount": {
+    "criteria": {
+      "has_lead": "2025-07-08 02:59:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-07-08 03:01:21 +0000"
     },
     "done": true
   },
@@ -7049,6 +7153,12 @@
   "brewery:recipes/gingerbread": {
     "criteria": {
       "has_wheat": "2025-07-08 02:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-07-08 03:01:21 +0000"
     },
     "done": true
   },
