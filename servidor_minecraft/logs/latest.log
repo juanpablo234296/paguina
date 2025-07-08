@@ -13,3 +13,43 @@
 [08Jul2025 00:59:27.554] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook lost connection: Disconnected
 [08Jul2025 00:59:27.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook left the game
 [08Jul2025 00:59:27.555] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Chantikook
+[08Jul2025 01:34:34.833] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chantikook[/127.8.127.102:40211] logged in with entity id 36610 at (848.8368383176645, 69.0, -638.3477397198209)
+[08Jul2025 01:34:34.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook joined the game
+[08Jul2025 01:34:34.865] [Server thread/INFO] [Jade/]: Syncing config to Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede)
+[08Jul2025 01:34:37.180] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Chantikook (18)
+[08Jul2025 01:34:37.180] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Chantikook
+[08Jul2025 01:34:47.455] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[08Jul2025 01:34:48.551] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[08Jul2025 01:34:48.552] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) successfully connected to voice chat
+[08Jul2025 01:35:01.267] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/35761, l='ServerLevel[world]', x=488.70, y=20.00, z=-449.65] died, message: 'Leatherworker was slain by Zombie'
+[08Jul2025 01:35:07.570] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/35763, l='ServerLevel[world]', x=486.35, y=20.06, z=-449.54] died, message: 'Unemployed was slain by Zombie'
+[08Jul2025 01:36:38.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was burnt to a crisp whilst fighting Seared Spirit
+[08Jul2025 01:36:38.714] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[08Jul2025 01:43:57.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
+[08Jul2025 01:44:18.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> holi
+[08Jul2025 01:45:49.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> pablito?
+[08Jul2025 01:45:54.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by Enderman
+[08Jul2025 01:45:54.574] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[08Jul2025 01:48:24.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] el mismo
+[08Jul2025 01:48:39.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> pablito necesitamos decirte algo
+[08Jul2025 01:48:50.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] que paso?
+[08Jul2025 01:49:03.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> viste la casa de dani?
+[08Jul2025 01:49:13.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] que paso con ella?
+[08Jul2025 01:49:22.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> como tiene concreto?
+[08Jul2025 01:49:34.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> y ademas como puse las lamparas abajo de su piso flotante
+[08Jul2025 01:49:39.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> queremos respuestas
+[08Jul2025 01:50:03.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] preguntale a el
+[08Jul2025 01:50:05.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[08Jul2025 01:50:05.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hahhah<--[HERE]
+[08Jul2025 01:50:10.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] jajjajjaj
+[08Jul2025 01:50:24.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> no te parece sospechoso
+[08Jul2025 01:50:27.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> -.-
+[08Jul2025 01:51:23.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] un poco
+[08Jul2025 01:52:06.969] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook lost connection: Disconnected
+[08Jul2025 01:52:06.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook left the game
+[08Jul2025 01:52:06.969] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Chantikook
+[08Jul2025 01:53:11.131] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucyyxd[/127.209.237.17:46141] logged in with entity id 42305 at (826.5, 63.0, -636.5)
+[08Jul2025 01:53:11.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd joined the game
+[08Jul2025 01:53:11.206] [Server thread/INFO] [Jade/]: Syncing config to lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce)
+[08Jul2025 01:53:14.709] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucyyxd (18)
+[08Jul2025 01:53:14.710] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd

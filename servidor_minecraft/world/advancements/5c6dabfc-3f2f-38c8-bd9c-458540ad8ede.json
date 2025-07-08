@@ -7493,87 +7493,9 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 00:59:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 00:59:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 00:59:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 00:59:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 00:59:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 00:59:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 00:59:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 00:59:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 00:59:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 00:59:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 00:59:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 00:59:25 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-07-07 23:39:44 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/neighborhood_brawl": {
-    "criteria": {
-      "coded_trigger": "2025-07-07 23:39:58 +0000"
     },
     "done": true
   },
@@ -7625,15 +7547,21 @@
     },
     "done": true
   },
-  "mynethersdelight:recipes/misc/stick_alt": {
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
-      "has_the_recipe": "2025-07-07 23:51:28 +0000"
+      "has_leather": "2025-07-07 23:39:44 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+  "tombstone:adventure/neighborhood_brawl": {
     "criteria": {
-      "has_spider_eye": "2025-07-08 00:03:48 +0000"
+      "coded_trigger": "2025-07-07 23:39:58 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/misc/stick_alt": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 23:51:28 +0000"
     },
     "done": true
   },
@@ -7643,15 +7571,94 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-08 00:03:48 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/wood/cherry_banister": {
     "criteria": {
       "has_item": "2025-07-08 00:57:25 +0000"
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+  "incendium:technical/on_player_hurt": {
     "criteria": {
-      "has_leather": "2025-07-07 23:39:44 +0000"
+      "requirement": "2025-07-08 01:51:45 +0000",
+      "log_spam_fixer": "2025-07-08 01:51:25 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 01:51:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 01:51:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 01:51:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 01:51:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 01:51:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 01:51:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 01:51:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 01:51:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 01:51:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 01:51:25 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-08 01:51:25 +0000"
+    },
+    "done": false
+  },
+  "cfm:recipes/decorations/white_picket_fence": {
+    "criteria": {
+      "has_concrete": "2025-07-08 01:45:02 +0000"
     },
     "done": true
   },

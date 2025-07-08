@@ -6913,9 +6913,33 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-08 01:52:25 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:armor/honey_bee_leggings_flower_pollen": {
+    "criteria": {
+      "honey_bee_leggings_flower_pollen": "2025-07-08 01:36:34 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:armor/honey_bee_leggings_pollen_removal": {
     "criteria": {
       "honey_bee_leggings_pollen_removal": "2025-07-08 00:08:27 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/oat_seeds": {
+    "criteria": {
+      "has_wheat_seeds": "2025-07-08 01:36:58 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:armor/carpenter_bee_boots_wall_hanging": {
+    "criteria": {
+      "carpenter_bee_boots_wall_hanging": "2025-07-08 01:48:09 +0000"
     },
     "done": true
   },
