@@ -5897,9 +5897,27 @@
     },
     "done": true
   },
+  "vinery:main/wine_somelier": {
+    "criteria": {
+      "vinery:cherry_wine": "2025-07-08 02:14:38 +0000"
+    },
+    "done": false
+  },
+  "vinery:main/the_noble_drop": {
+    "criteria": {
+      "have_any_wine": "2025-07-08 02:14:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-07-08 02:11:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-07-08 02:14:37 +0000"
     },
     "done": true
   },

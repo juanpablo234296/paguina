@@ -115,3 +115,8 @@
 [08Jul2025 02:11:05.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Ambush]
 [08Jul2025 02:12:16.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]
 [08Jul2025 02:12:31.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[08Jul2025 02:14:37.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [What a Deal!]
+[08Jul2025 02:14:38.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [The Noble Drop]
+[08Jul2025 02:18:58.674] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[08Jul2025 02:18:58.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[08Jul2025 02:18:58.675] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito

@@ -7589,5 +7589,11 @@
     },
     "done": true
   },
+  "aether:recipes/tools/wooden_shovel_repairing": {
+    "criteria": {
+      "has_wooden_shovel": "2025-07-08 02:19:09 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
