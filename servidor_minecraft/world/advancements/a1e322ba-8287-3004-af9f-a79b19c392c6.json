@@ -6913,6 +6913,12 @@
     },
     "done": true
   },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "requirement": "2025-07-08 00:07:25 +0000"
+    },
+    "done": false
+  },
   "born_in_chaos_v1:exorcism": {
     "criteria": {
       "exorcism_0": "2025-07-07 23:30:38 +0000"

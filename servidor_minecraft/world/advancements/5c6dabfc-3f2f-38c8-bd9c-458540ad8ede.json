@@ -1249,6 +1249,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-05 02:37:46 +0000",
       "minecraft:spider": "2025-07-04 02:06:33 +0000",
+      "minecraft:witch": "2025-07-08 00:03:47 +0000",
       "minecraft:zombie": "2025-07-03 03:45:18 +0000"
     },
     "done": false
@@ -7554,6 +7555,18 @@
   "mynethersdelight:recipes/misc/stick_alt": {
     "criteria": {
       "has_the_recipe": "2025-07-07 23:51:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-08 00:03:48 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ambush": {
+    "criteria": {
+      "coded_trigger": "2025-07-08 00:03:47 +0000"
     },
     "done": true
   },
