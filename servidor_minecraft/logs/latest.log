@@ -137,3 +137,23 @@
 [08Jul2025 02:35:48.124] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
 [08Jul2025 02:40:11.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
 [08Jul2025 02:41:02.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[08Jul2025 02:47:23.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Peaceful]
+[08Jul2025 02:47:31.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Hard]
+[08Jul2025 02:47:58.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was slain by Kira_R
+[08Jul2025 02:47:58.667] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[08Jul2025 02:48:16.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported lucyyxd to pablito]
+[08Jul2025 02:48:38.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 4 entities to pablito]
+[08Jul2025 02:48:50.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the weather to clear]
+[08Jul2025 02:48:57.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported lucyyxd to pablito]
+[08Jul2025 02:49:03.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
+[08Jul2025 02:49:19.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported lucyyxd to Kira_R]
+[08Jul2025 02:49:22.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
+[08Jul2025 02:50:43.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
+[08Jul2025 02:51:01.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was doomed to fall by lucyyxd
+[08Jul2025 02:51:01.338] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[08Jul2025 02:51:08.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
+[08Jul2025 02:51:47.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 4 entities to pablito]
+[08Jul2025 02:51:56.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[08Jul2025 02:52:54.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to lucyyxd]
+[08Jul2025 02:53:08.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]
+[08Jul2025 02:53:59.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]

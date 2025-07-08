@@ -13478,3 +13478,31 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [08Jul2025 02:41:02.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
 [08Jul2025 02:42:25.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jul2025 02:42:25.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 02:47:23.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Peaceful]
+[08Jul2025 02:47:25.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 02:47:25.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 02:47:31.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Hard]
+[08Jul2025 02:47:58.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was slain by Kira_R
+[08Jul2025 02:47:58.638] [Server thread/DEBUG] [tombstone/]: A new grave of the player lucyyxd was created at position [x:853, y:63, z:-633, dim:minecraft:overworld]
+[08Jul2025 02:47:58.667] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[08Jul2025 02:48:05.841] [Server thread/DEBUG] [twilightforest/]: Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) respawned and received items held in storage
+[08Jul2025 02:48:16.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported lucyyxd to pablito]
+[08Jul2025 02:48:38.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 4 entities to pablito]
+[08Jul2025 02:48:50.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the weather to clear]
+[08Jul2025 02:48:57.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported lucyyxd to pablito]
+[08Jul2025 02:49:03.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
+[08Jul2025 02:49:19.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported lucyyxd to Kira_R]
+[08Jul2025 02:49:22.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
+[08Jul2025 02:50:43.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
+[08Jul2025 02:51:01.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was doomed to fall by lucyyxd
+[08Jul2025 02:51:01.337] [Server thread/DEBUG] [tombstone/]: A new grave of the player Chantikook was created at position [x:1276, y:63, z:-494, dim:minecraft:overworld]
+[08Jul2025 02:51:01.338] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[08Jul2025 02:51:04.906] [Server thread/DEBUG] [twilightforest/]: Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) respawned and received items held in storage
+[08Jul2025 02:51:08.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
+[08Jul2025 02:51:47.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported 4 entities to pablito]
+[08Jul2025 02:51:56.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[08Jul2025 02:52:25.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 02:52:25.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 02:52:54.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to lucyyxd]
+[08Jul2025 02:53:08.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]
+[08Jul2025 02:53:59.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
