@@ -11403,3 +11403,11 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [08Jul2025 00:52:00.462] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
 [08Jul2025 00:52:25.310] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jul2025 00:52:25.335] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 00:57:25.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 00:57:25.325] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 00:59:27.554] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook lost connection: Disconnected
+[08Jul2025 00:59:27.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook left the game
+[08Jul2025 00:59:27.555] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Chantikook
+[08Jul2025 00:59:27.555] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Chantikook
+[08Jul2025 01:02:25.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 01:02:25.297] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
