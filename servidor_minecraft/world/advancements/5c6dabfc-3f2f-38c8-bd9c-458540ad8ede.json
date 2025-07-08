@@ -7551,6 +7551,12 @@
     },
     "done": true
   },
+  "mynethersdelight:recipes/misc/stick_alt": {
+    "criteria": {
+      "has_the_recipe": "2025-07-07 23:51:28 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
       "has_leather": "2025-07-07 23:39:44 +0000"
