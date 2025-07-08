@@ -11378,3 +11378,13 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [08Jul2025 00:07:42.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
 [08Jul2025 00:07:42.457] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of lucyyxd
 [08Jul2025 00:07:42.457] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
+[08Jul2025 00:12:25.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 00:12:25.333] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 00:17:25.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 00:17:25.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 00:18:19.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Restless Spirit
+[08Jul2025 00:18:19.714] [Server thread/DEBUG] [tombstone/]: A new grave of the player Chantikook was created at position [x:801, y:63, z:-659, dim:minecraft:overworld]
+[08Jul2025 00:18:19.720] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[08Jul2025 00:18:21.363] [Server thread/DEBUG] [twilightforest/]: Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) respawned and received items held in storage
+[08Jul2025 00:22:25.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 00:22:25.321] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

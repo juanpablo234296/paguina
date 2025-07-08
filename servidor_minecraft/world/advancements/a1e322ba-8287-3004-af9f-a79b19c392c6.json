@@ -6913,11 +6913,11 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "the_bumblezone:armor/honey_bee_leggings_pollen_removal": {
     "criteria": {
-      "requirement": "2025-07-08 00:07:25 +0000"
+      "honey_bee_leggings_pollen_removal": "2025-07-08 00:08:27 +0000"
     },
-    "done": false
+    "done": true
   },
   "born_in_chaos_v1:exorcism": {
     "criteria": {
