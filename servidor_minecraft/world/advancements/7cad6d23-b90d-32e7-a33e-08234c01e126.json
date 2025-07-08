@@ -8005,78 +8005,6 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 03:22:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 03:22:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 03:22:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 03:22:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 03:22:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 03:22:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 03:22:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 03:22:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 03:22:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 03:22:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 03:22:28 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 03:22:28 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/decorations/birch_cabinet": {
     "criteria": {
       "has_planks": "2025-07-08 02:45:47 +0000"
@@ -8109,6 +8037,7 @@
   },
   "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
+      "in_throne_pillar": "2025-07-08 03:29:40 +0000",
       "in_dance_floor": "2025-07-08 03:17:22 +0000"
     },
     "done": false
@@ -8262,6 +8191,12 @@
       "carve_wax_5": "2025-07-08 03:09:13 +0000"
     },
     "done": false
+  },
+  "the_bumblezone:structures/enter_throne_pillar": {
+    "criteria": {
+      "in_throne_pillar": "2025-07-08 03:29:40 +0000"
+    },
+    "done": true
   },
   "cfm:recipes/decorations/birch_chair": {
     "criteria": {
