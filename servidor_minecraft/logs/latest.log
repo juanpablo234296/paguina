@@ -2135,3 +2135,6 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [09Jul2025 21:25:49.342] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
 [09Jul2025 21:25:50.342] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
 [09Jul2025 21:25:50.346] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
+[09Jul2025 21:57:43.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kira_R lost connection: Disconnected
+[09Jul2025 21:57:43.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R left the game
+[09Jul2025 21:57:43.383] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kira_R
