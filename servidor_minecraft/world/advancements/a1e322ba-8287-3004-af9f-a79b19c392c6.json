@@ -7120,5 +7120,11 @@
     },
     "done": true
   },
+  "the_bumblezone:armor/craft_flower_headwear": {
+    "criteria": {
+      "obtain_flower_headwear": "2025-07-09 02:29:08 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

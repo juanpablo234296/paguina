@@ -2146,3 +2146,11 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [09Jul2025 02:23:53.800] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
 [09Jul2025 02:23:54.834] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
 [09Jul2025 02:23:54.837] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
+[09Jul2025 02:33:34.473] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chantikook[/127.8.127.102:50067] logged in with entity id 3980 at (855.266866659674, 69.0, -634.0106131206411)
+[09Jul2025 02:33:34.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook joined the game
+[09Jul2025 02:33:34.567] [Server thread/INFO] [Jade/]: Syncing config to Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede)
+[09Jul2025 02:33:40.249] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Chantikook (18)
+[09Jul2025 02:33:40.250] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Chantikook
+[09Jul2025 02:33:57.672] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[09Jul2025 02:33:58.679] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[09Jul2025 02:33:58.679] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) successfully connected to voice chat
