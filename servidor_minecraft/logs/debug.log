@@ -8680,3 +8680,37 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [09Jul2025 02:43:38.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [09Jul2025 02:48:38.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jul2025 02:48:38.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 02:53:25.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Chort
+[09Jul2025 02:53:25.352] [Server thread/DEBUG] [tombstone/]: A new grave of the player Chantikook was created at position [x:809, y:63, z:-656, dim:minecraft:overworld]
+[09Jul2025 02:53:25.361] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[09Jul2025 02:53:26.886] [Server thread/DEBUG] [twilightforest/]: Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) respawned and received items held in storage
+[09Jul2025 02:53:27.178] [Worker-Main-26/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09Jul2025 02:53:27.178] [Worker-Main-26/DEBUG] [mixin/]: Mixing common.accessor.WorldGenRegionAccessor from aether.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09Jul2025 02:53:27.179] [Worker-Main-26/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09Jul2025 02:53:27.179] [Worker-Main-26/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from the_bumblezone-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09Jul2025 02:53:27.179] [Worker-Main-26/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mes-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09Jul2025 02:53:27.179] [Worker-Main-26/DEBUG] [mixin/]: Mixing world.WorldGenRegionAccessor from mns-common.mixins.json into net.minecraft.server.level.WorldGenRegion
+[09Jul2025 02:53:27.180] [Worker-Main-26/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[09Jul2025 02:53:27.182] [Worker-Main-26/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[09Jul2025 02:53:27.182] [Worker-Main-26/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[09Jul2025 02:53:27.960] [Worker-Main-27/DEBUG] [mixin/]: Mixing world.NoiseChunkAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[09Jul2025 02:53:27.960] [Worker-Main-27/DEBUG] [mixin/]: Mixing world.NoiseChunkMixin from the_bumblezone-common.mixins.json into net.minecraft.world.level.levelgen.NoiseChunk
+[09Jul2025 02:53:27.961] [Worker-Main-27/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$1()Lnet/minecraft/world/level/biome/Climate$Sampler; to md2e8a7c$lambda$injectWrapNew$1$0 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin
+[09Jul2025 02:53:27.961] [Worker-Main-27/DEBUG] [mixin/]: Renaming synthetic method lambda$injectWrapNew$0()Lnet/minecraft/world/level/biome/BiomeSource; to md2e8a7c$lambda$injectWrapNew$0$1 in the_bumblezone-common.mixins.json:world.NoiseChunkMixin
+[09Jul2025 02:53:27.962] [Worker-Main-27/DEBUG] [mixin/]: Mixing ChunkNoiseSamplerMixin from mixins.mofus_better_end_.json into net.minecraft.world.level.levelgen.NoiseChunk
+[09Jul2025 02:53:27.969] [Worker-Main-27/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[09Jul2025 02:53:27.970] [Worker-Main-27/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[09Jul2025 02:53:38.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 02:53:38.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 02:53:50.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> hay algun admi??
+[09Jul2025 02:54:03.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> naaaa estoy en la chucha
+[09Jul2025 02:54:07.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> nop, solo en discord esta dany puedes pedirle
+[09Jul2025 02:54:11.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> esta jugando valorant
+[09Jul2025 02:54:19.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> que verguneza
+[09Jul2025 02:54:25.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> mas rato entro entonces
+[09Jul2025 02:54:27.395] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook lost connection: Disconnected
+[09Jul2025 02:54:27.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook left the game
+[09Jul2025 02:54:27.398] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Chantikook
+[09Jul2025 02:54:27.398] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Chantikook
+[09Jul2025 02:58:38.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 02:58:38.800] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
