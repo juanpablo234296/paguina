@@ -2138,3 +2138,4 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [09Jul2025 21:57:43.377] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kira_R lost connection: Disconnected
 [09Jul2025 21:57:43.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R left the game
 [09Jul2025 21:57:43.383] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kira_R
+[09Jul2025 22:07:02.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
