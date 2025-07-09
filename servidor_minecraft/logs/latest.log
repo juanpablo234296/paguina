@@ -2137,3 +2137,12 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [09Jul2025 02:03:36.616] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [09Jul2025 02:03:36.624] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'orders-numerical.gl.at.ply.gg:4221'
 [09Jul2025 02:03:36.625] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 4221
+[09Jul2025 02:23:45.357] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kira_R[/127.241.34.139:36123] logged in with entity id 1287 at (824.3854489793677, 63.5625, -636.5938817590257)
+[09Jul2025 02:23:45.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R joined the game
+[09Jul2025 02:23:45.466] [Server thread/INFO] [Jade/]: Syncing config to Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6)
+[09Jul2025 02:23:47.405] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kira_R (18)
+[09Jul2025 02:23:47.408] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kira_R
+[09Jul2025 02:23:47.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2166ms or 43 ticks behind
+[09Jul2025 02:23:53.800] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
+[09Jul2025 02:23:54.834] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
+[09Jul2025 02:23:54.837] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
