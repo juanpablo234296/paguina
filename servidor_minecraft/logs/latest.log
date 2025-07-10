@@ -2145,3 +2145,18 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [10Jul2025 03:21:26.771] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
 [10Jul2025 03:21:27.745] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
 [10Jul2025 03:21:27.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) successfully connected to voice chat
+[10Jul2025 03:25:54.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Don't Count Your Moas...]
+[10Jul2025 03:25:55.660] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:56487] logged in with entity id 7410 at (837.8737999685113, 77.0, -644.1168466516381)
+[10Jul2025 03:25:55.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[10Jul2025 03:25:55.778] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[10Jul2025 03:25:57.445] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[10Jul2025 03:25:57.446] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[10Jul2025 03:26:05.456] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[10Jul2025 03:26:06.458] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[10Jul2025 03:26:06.458] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[10Jul2025 03:26:24.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
+[10Jul2025 03:26:37.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucyyxd> w
+[10Jul2025 03:26:57.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[10Jul2025 03:28:26.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to lucyyxd]
+[10Jul2025 03:31:51.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to lucyyxd]
+[10Jul2025 03:33:57.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Don't Count Your Moas...]

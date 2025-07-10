@@ -8005,87 +8005,15 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "twilightforest:recipes/decorations/wood/cherry_banister": {
     "criteria": {
-      "log_spam_fixer": "2025-07-08 04:00:32 +0000"
+      "has_item": "2025-07-08 02:42:43 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 04:00:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 04:00:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 04:00:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 04:00:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 04:00:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 04:00:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 04:00:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 04:00:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 04:00:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 04:00:32 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-08 04:00:32 +0000"
-    },
-    "done": false
+    "done": true
   },
   "cfm:recipes/decorations/birch_cabinet": {
     "criteria": {
       "has_planks": "2025-07-08 02:45:47 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/food/skyroot_milk_bucket_moa_egg_cake": {
-    "criteria": {
-      "has_moa_egg": "2025-07-08 03:57:32 +0000"
     },
     "done": true
   },
@@ -8113,28 +8041,9 @@
     },
     "done": true
   },
-  "the_bumblezone:structures/enter_all_structures": {
-    "criteria": {
-      "in_throne_pillar": "2025-07-08 03:29:40 +0000",
-      "in_dance_floor": "2025-07-08 03:17:22 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/decorations/birch_table": {
     "criteria": {
       "has_planks": "2025-07-08 02:45:47 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/honeycomb_from_honeycomb_block": {
-    "criteria": {
-      "has_honeycomb_block": "2025-07-08 03:01:51 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:armor/craft_flower_headwear": {
-    "criteria": {
-      "obtain_flower_headwear": "2025-07-08 03:09:39 +0000"
     },
     "done": true
   },
@@ -8153,18 +8062,6 @@
   "vinery:recipes/birch_wine_rack_small": {
     "criteria": {
       "has_birch_planks": "2025-07-08 02:45:47 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/incubation/white_moa_incubation": {
-    "criteria": {
-      "has_white_moa_egg": "2025-07-08 03:57:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/honey_bottle": {
-    "criteria": {
-      "has_honey_block": "2025-07-08 03:03:15 +0000"
     },
     "done": true
   },
@@ -8192,21 +8089,9 @@
     },
     "done": true
   },
-  "aether:recipes/decorations/skyroot_beehive": {
-    "criteria": {
-      "has_honeycomb": "2025-07-08 02:57:27 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/birch_coffee_table": {
     "criteria": {
       "has_planks": "2025-07-08 02:45:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_tulip": {
-    "criteria": {
-      "has_red_flower": "2025-07-08 03:08:40 +0000"
     },
     "done": true
   },
@@ -8216,27 +8101,9 @@
     },
     "done": true
   },
-  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
-    "criteria": {
-      "teleport_to_bumblezone_pearl": "2025-07-08 03:00:56 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:beehemoth/tamed_beehemoth": {
-    "criteria": {
-      "tamed_beehemoth": "2025-07-08 03:13:09 +0000"
-    },
-    "done": true
-  },
   "vinery:recipes/birch_wine_rack_big": {
     "criteria": {
       "has_birch_planks": "2025-07-08 02:45:47 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/honey_cookie": {
-    "criteria": {
-      "has_honey_bottle": "2025-07-08 03:13:07 +0000"
     },
     "done": true
   },
@@ -8246,57 +8113,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/beehive": {
-    "criteria": {
-      "has_honeycomb": "2025-07-08 02:57:27 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
-    "criteria": {
-      "bee_hit_wrath_of_the_hive": "2025-07-08 03:03:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_honey_bottle": {
-    "criteria": {
-      "has_honey_bottle": "2025-07-08 03:13:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/honey_block": {
-    "criteria": {
-      "has_honey_bottle": "2025-07-08 03:13:07 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:combs_and_wax/carve_carvable_wax": {
-    "criteria": {
-      "carve_wax_5": "2025-07-08 03:09:13 +0000"
-    },
-    "done": false
-  },
-  "brewery:main/get_beer_haley": {
-    "criteria": {
-      "beer_haley": "2025-07-08 03:42:19 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:structures/enter_throne_pillar": {
-    "criteria": {
-      "in_throne_pillar": "2025-07-08 03:29:40 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/birch_chair": {
     "criteria": {
       "has_planks": "2025-07-08 02:45:47 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/food/moa_egg_cake": {
-    "criteria": {
-      "has_moa_egg": "2025-07-08 03:57:32 +0000"
     },
     "done": true
   },
@@ -8318,24 +8137,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
-    "criteria": {
-      "has_lilac": "2025-07-08 03:09:52 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/decorations/wood/cherry_banister": {
-    "criteria": {
-      "has_item": "2025-07-08 02:42:43 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_red_tulip": {
-    "criteria": {
-      "has_red_tulip": "2025-07-08 03:08:40 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/birch_kitchen_storage_cabinet": {
     "criteria": {
       "has_birch_planks": "2025-07-08 02:45:47 +0000"
@@ -8348,9 +8149,9 @@
     },
     "done": true
   },
-  "the_bumblezone:effects/getting_protection": {
+  "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
     "criteria": {
-      "getting_protection": "2025-07-08 03:13:09 +0000"
+      "has_birch_planks": "2025-07-08 02:45:47 +0000"
     },
     "done": true
   },
@@ -8360,15 +8161,124 @@
     },
     "done": true
   },
-  "brewery:main/get_beer_hops": {
+  "aether:recipes/decorations/skyroot_beehive": {
     "criteria": {
-      "beer_hops": "2025-07-08 03:47:08 +0000"
+      "has_honeycomb": "2025-07-08 02:57:27 +0000"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/birch_mail_box": {
+  "minecraft:recipes/decorations/beehive": {
     "criteria": {
-      "has_birch_planks": "2025-07-08 02:45:47 +0000"
+      "has_honeycomb": "2025-07-08 02:57:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-07-08 02:57:27 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2025-07-08 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/honeycomb_from_honeycomb_block": {
+    "criteria": {
+      "has_honeycomb_block": "2025-07-08 03:01:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/honey_bottle": {
+    "criteria": {
+      "has_honey_block": "2025-07-08 03:03:15 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/bee_hit_wrath_of_the_hive": {
+    "criteria": {
+      "bee_hit_wrath_of_the_hive": "2025-07-08 03:03:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-07-08 03:08:40 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_red_tulip": {
+    "criteria": {
+      "has_red_tulip": "2025-07-08 03:08:40 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:combs_and_wax/carve_carvable_wax": {
+    "criteria": {
+      "carve_wax_5": "2025-07-08 03:09:13 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:armor/craft_flower_headwear": {
+    "criteria": {
+      "obtain_flower_headwear": "2025-07-08 03:09:39 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-07-08 03:09:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/honey_cookie": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-08 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-08 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-07-08 03:13:07 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:beehemoth/tamed_beehemoth": {
+    "criteria": {
+      "tamed_beehemoth": "2025-07-08 03:13:09 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:effects/getting_protection": {
+    "criteria": {
+      "getting_protection": "2025-07-08 03:13:09 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_throne_pillar": "2025-07-08 03:29:40 +0000",
+      "in_dance_floor": "2025-07-08 03:17:22 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:structures/enter_throne_pillar": {
+    "criteria": {
+      "in_throne_pillar": "2025-07-08 03:29:40 +0000"
+    },
+    "done": true
+  },
+  "brewery:main/get_beer_haley": {
+    "criteria": {
+      "beer_haley": "2025-07-08 03:42:19 +0000"
     },
     "done": true
   },
@@ -8378,15 +8288,33 @@
     },
     "done": true
   },
-  "aether:obtain_egg": {
+  "brewery:main/get_beer_hops": {
     "criteria": {
-      "moa_egg": "2025-07-08 03:57:32 +0000"
+      "beer_hops": "2025-07-08 03:47:08 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/honeycomb_block": {
+  "aether:recipes/food/skyroot_milk_bucket_moa_egg_cake": {
     "criteria": {
-      "has_honeycomb": "2025-07-08 02:57:27 +0000"
+      "has_moa_egg": "2025-07-08 03:57:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/incubation/white_moa_incubation": {
+    "criteria": {
+      "has_white_moa_egg": "2025-07-08 03:57:32 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/food/moa_egg_cake": {
+    "criteria": {
+      "has_moa_egg": "2025-07-08 03:57:32 +0000"
+    },
+    "done": true
+  },
+  "aether:obtain_egg": {
+    "criteria": {
+      "moa_egg": "2025-07-08 03:57:32 +0000"
     },
     "done": true
   },
