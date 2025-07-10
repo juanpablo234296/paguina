@@ -2167,3 +2167,36 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [10Jul2025 03:42:07.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
 [10Jul2025 03:42:27.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Eye of The Storm]
 [10Jul2025 03:42:54.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[10Jul2025 03:44:34.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[10Jul2025 03:44:43.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[10Jul2025 03:45:10.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [No Step on Snake]
+[10Jul2025 03:45:28.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was poked to death by a sweet berry bush
+[10Jul2025 03:45:29.401] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[10Jul2025 03:47:46.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[10Jul2025 03:48:41.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[10Jul2025 03:49:08.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[10Jul2025 03:49:52.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Dungeon Now Loading]
+[10Jul2025 03:49:57.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[10Jul2025 03:49:58.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Chort
+[10Jul2025 03:49:58.157] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[10Jul2025 03:50:04.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
+[10Jul2025 03:50:29.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[10Jul2025 03:50:54.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[10Jul2025 03:51:08.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Chort
+[10Jul2025 03:51:08.649] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[10Jul2025 03:52:55.960] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: funado69[/127.40.17.13:58157] logged in with entity id 12627 at (1188.6394990926312, 67.0, -538.4917776407093)
+[10Jul2025 03:52:55.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 joined the game
+[10Jul2025 03:52:55.991] [Server thread/INFO] [Jade/]: Syncing config to funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec)
+[10Jul2025 03:52:57.621] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of funado69 (18)
+[10Jul2025 03:52:57.621] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[10Jul2025 03:53:06.206] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[10Jul2025 03:53:07.207] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[10Jul2025 03:53:07.207] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) successfully connected to voice chat
+[10Jul2025 03:53:39.870] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kira_R[/127.241.34.139:33543] logged in with entity id 13441 at (853.4825856001181, 69.0, -643.9909880152003)
+[10Jul2025 03:53:39.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R joined the game
+[10Jul2025 03:53:39.943] [Server thread/INFO] [Jade/]: Syncing config to Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6)
+[10Jul2025 03:53:41.664] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kira_R (18)
+[10Jul2025 03:53:41.664] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kira_R
+[10Jul2025 03:53:49.193] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
+[10Jul2025 03:53:50.196] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
+[10Jul2025 03:53:50.196] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat

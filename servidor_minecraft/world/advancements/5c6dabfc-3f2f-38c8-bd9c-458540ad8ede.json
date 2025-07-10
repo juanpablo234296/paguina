@@ -7804,9 +7804,27 @@
     },
     "done": true
   },
+  "brewery:main/drying_expertise": {
+    "criteria": {
+      "silo": "2025-07-10 03:40:30 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:candles/obtain_all_colored_super_candles": {
+    "criteria": {
+      "pink_super_candle": "2025-07-10 03:48:38 +0000"
+    },
+    "done": false
+  },
   "aether:recipes/incubation/white_moa_incubation": {
     "criteria": {
       "has_white_moa_egg": "2025-07-10 03:25:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/cherry_cabinet": {
+    "criteria": {
+      "has_cherry_trapdoor": "2025-07-10 03:44:28 +0000"
     },
     "done": true
   },
