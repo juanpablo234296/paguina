@@ -2271,3 +2271,76 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [10Jul2025 04:11:02.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Ice Bucket Challenge]
 [10Jul2025 04:11:04.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
 [10Jul2025 04:12:13.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[10Jul2025 04:15:27.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Kira_R
+[10Jul2025 04:15:28.267] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[10Jul2025 04:16:08.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]
+[10Jul2025 04:16:26.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by funado69
+[10Jul2025 04:16:26.441] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[10Jul2025 04:16:29.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]
+[10Jul2025 04:16:33.346] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> SAPO QLIAO
+[10Jul2025 04:16:36.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Chort
+[10Jul2025 04:16:36.425] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[10Jul2025 04:16:37.297] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito was kicked for floating too long!
+[10Jul2025 04:16:37.350] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Flying is not enabled on this server
+[10Jul2025 04:16:37.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[10Jul2025 04:16:37.351] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[10Jul2025 04:16:50.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 was kicked for floating too long!
+[10Jul2025 04:16:51.040] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 lost connection: Flying is not enabled on this server
+[10Jul2025 04:16:51.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 left the game
+[10Jul2025 04:16:51.040] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client funado69
+[10Jul2025 04:17:08.956] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:44871] logged in with entity id 21181 at (852.2236642789638, 81.11071530842175, -370.2186886330469)
+[10Jul2025 04:17:08.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[10Jul2025 04:17:09.017] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[10Jul2025 04:17:09.182] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[10Jul2025 04:17:09.183] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[10Jul2025 04:17:15.757] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: funado69[/127.40.17.13:48967] logged in with entity id 21309 at (820.451249594981, 79.14998983419157, -367.3077278506991)
+[10Jul2025 04:17:15.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 joined the game
+[10Jul2025 04:17:15.822] [Server thread/INFO] [Jade/]: Syncing config to funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec)
+[10Jul2025 04:17:16.010] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of funado69 (18)
+[10Jul2025 04:17:16.011] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[10Jul2025 04:17:18.367] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[10Jul2025 04:17:19.373] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[10Jul2025 04:17:19.374] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[10Jul2025 04:17:26.989] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[10Jul2025 04:17:27.989] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[10Jul2025 04:17:27.989] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) successfully connected to voice chat
+[10Jul2025 04:17:39.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
+[10Jul2025 04:17:43.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[10Jul2025 04:19:35.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[10Jul2025 04:19:38.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Kira_R
+[10Jul2025 04:19:38.513] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[10Jul2025 04:19:43.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[10Jul2025 04:21:19.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has completed the challenge [Naga Armorer]
+[10Jul2025 04:21:30.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has completed the challenge [Naga Armorer]
+[10Jul2025 04:22:33.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the weather to clear]
+[10Jul2025 04:22:54.438] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Chantikook) moved wrongly! 0.2801738338047244
+[10Jul2025 04:22:54.488] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Chantikook) moved wrongly! 0.2815617063619129
+[10Jul2025 04:22:54.641] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Chantikook) moved wrongly! 0.2974281393245519
+[10Jul2025 04:22:54.692] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Chantikook) moved wrongly! 0.39815420229183474
+[10Jul2025 04:22:54.693] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito) moved wrongly! 0.25179949422567915
+[10Jul2025 04:23:13.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [You Are A Pirate]
+[10Jul2025 04:23:54.535] [Worker-Main-14/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[10Jul2025 04:23:54.537] [Worker-Main-14/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[10Jul2025 04:24:19.726] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito) moved too quickly! 0.8058189524349473,0.0,-10.368523554786861
+[10Jul2025 04:24:19.727] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Chantikook) moved too quickly! 0.3248734650885581,0.0,-10.390949799028022
+[10Jul2025 04:24:19.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Chantikook) moved too quickly! 0.331544708742058,0.0,-10.79072693016451
+[10Jul2025 04:24:19.728] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito) moved too quickly! 0.836812497079336,0.0,-10.767319458903557
+[10Jul2025 04:24:19.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Chantikook) moved too quickly! 0.331544708742058,0.0,-11.190506802339542
+[10Jul2025 04:24:19.729] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito) moved too quickly! 0.8678060528443439,0.0,-11.166115506110373
+[10Jul2025 04:24:19.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Chantikook) moved too quickly! 0.331544708742058,0.0,-11.590289141449148
+[10Jul2025 04:24:19.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito) moved too quickly! 0.8987996186178862,0.0,-11.564911682098227
+[10Jul2025 04:24:19.731] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Chantikook) moved too quickly! 0.331544708742058,0.0,-11.99007370079994
+[10Jul2025 04:24:19.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito) moved too quickly! 0.929793193399064,0.0,-11.96370797398913
+[10Jul2025 04:24:19.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito) moved too quickly! 0.9607867762872502,0.0,-12.36250437019271
+[10Jul2025 04:24:19.733] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Chantikook) moved too quickly! 0.331544708742058,0.0,-12.389860258367662
+[10Jul2025 04:24:19.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Chantikook) moved too quickly! 0.331544708742058,0.0,-12.789648614330645
+[10Jul2025 04:24:19.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito) moved too quickly! 0.9917803664716303,0.0,-12.761300860277515
+[10Jul2025 04:24:19.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of Chantikook) moved too quickly! 0.3327946995173079,0.0,-13.189438588849043
+[10Jul2025 04:24:19.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of pablito) moved too quickly! 1.0227739632227895,0.0,-13.160097434855743
+[10Jul2025 04:24:19.739] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2424ms or 48 ticks behind
+[10Jul2025 04:24:50.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was killed by magic
+[10Jul2025 04:24:50.672] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[10Jul2025 04:24:52.786] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2521ms or 50 ticks behind
+[10Jul2025 04:24:56.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
+[10Jul2025 04:24:59.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Under The Tide]
+[10Jul2025 04:25:09.501] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'

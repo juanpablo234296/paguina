@@ -8319,15 +8319,64 @@
     },
     "done": true
   },
-  "meadow:recipes/wooden_bucket": {
+  "farmersdelight:main/plant_all_crops": {
     "criteria": {
-      "has_planks": "2025-07-10 04:00:09 +0000"
+      "sweet_berries": "2025-07-10 03:34:39 +0000",
+      "wheat": "2025-07-10 03:36:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-10 03:36:15 +0000"
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/novelty_hat": {
+  "alexsmobs:alexsmobs/guster": {
     "criteria": {
-      "sopa_de_macaco": "2025-07-10 04:09:14 +0000"
+      "killed_by": "2025-07-10 03:42:27 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-07-10 03:45:10 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:fiery_set": {
+    "criteria": {
+      "fiery_sword": "2025-07-10 03:47:10 +0000"
+    },
+    "done": false
+  },
+  "rusticdelight:recipes/food/cherry_blossom_roll": {
+    "criteria": {
+      "has_cherry_leaves": "2025-07-10 03:47:17 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/cherry_hedge": {
+    "criteria": {
+      "has_cherry_leaves": "2025-07-10 03:47:17 +0000"
+    },
+    "done": true
+  },
+  "rusticdelight:recipes/food/cherry_blossom_cookie": {
+    "criteria": {
+      "has_cherry_leaves": "2025-07-10 03:47:17 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:candles/obtain_all_colored_super_candles": {
+    "criteria": {
+      "pink_super_candle": "2025-07-10 03:48:16 +0000"
+    },
+    "done": false
+  },
+  "meadow:recipes/wooden_bucket": {
+    "criteria": {
+      "has_planks": "2025-07-10 04:00:09 +0000"
     },
     "done": true
   },
@@ -8354,12 +8403,6 @@
       "has_oak_planks": "2025-07-10 04:00:09 +0000"
     },
     "done": true
-  },
-  "the_bumblezone:candles/obtain_all_colored_super_candles": {
-    "criteria": {
-      "pink_super_candle": "2025-07-10 03:48:16 +0000"
-    },
-    "done": false
   },
   "refurbished_furniture:recipes/misc/constructing/oak_crate": {
     "criteria": {
@@ -8403,25 +8446,6 @@
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
-    "criteria": {
-      "sweet_berries": "2025-07-10 03:34:39 +0000",
-      "wheat": "2025-07-10 03:36:15 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:fiery_set": {
-    "criteria": {
-      "fiery_sword": "2025-07-10 03:47:10 +0000"
-    },
-    "done": false
-  },
-  "rusticdelight:recipes/food/cherry_blossom_roll": {
-    "criteria": {
-      "has_cherry_leaves": "2025-07-10 03:47:17 +0000"
-    },
-    "done": true
-  },
   "meadow:recipes/patched_bed": {
     "criteria": {
       "has_planks": "2025-07-10 04:00:09 +0000"
@@ -8443,12 +8467,6 @@
   "cfm:recipes/decorations/oak_desk": {
     "criteria": {
       "has_planks": "2025-07-10 04:00:09 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/guster": {
-    "criteria": {
-      "killed_by": "2025-07-10 03:42:27 +0000"
     },
     "done": true
   },
@@ -8530,12 +8548,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/rattlesnake": {
-    "criteria": {
-      "killed": "2025-07-10 03:45:10 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/oak_mail_box": {
     "criteria": {
       "has_oak_planks": "2025-07-10 04:00:09 +0000"
@@ -8584,18 +8596,6 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/cherry_hedge": {
-    "criteria": {
-      "has_cherry_leaves": "2025-07-10 03:47:17 +0000"
-    },
-    "done": true
-  },
-  "rusticdelight:recipes/food/cherry_blossom_cookie": {
-    "criteria": {
-      "has_cherry_leaves": "2025-07-10 03:47:17 +0000"
-    },
-    "done": true
-  },
   "meadow:recipes/wooden_flower_pot": {
     "criteria": {
       "has_oak_planks": "2025-07-10 04:00:09 +0000"
@@ -8638,15 +8638,15 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2025-07-10 03:36:15 +0000"
-    },
-    "done": true
-  },
   "bakery:recipes/brick_counter": {
     "criteria": {
       "has_oak_planks": "2025-07-10 04:00:09 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/novelty_hat": {
+    "criteria": {
+      "sopa_de_macaco": "2025-07-10 04:09:14 +0000"
     },
     "done": true
   },
