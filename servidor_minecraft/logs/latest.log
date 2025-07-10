@@ -2134,3 +2134,14 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [10Jul2025 03:09:31.891] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
 [10Jul2025 03:09:32.889] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
 [10Jul2025 03:09:32.892] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) successfully connected to voice chat
+[10Jul2025 03:13:50.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Baby Skeleton
+[10Jul2025 03:13:50.085] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[10Jul2025 03:15:21.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola
+[10Jul2025 03:21:15.668] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucyyxd[/127.209.237.17:40991] logged in with entity id 5326 at (402.30000001192093, 62.0, -682.3000000119209)
+[10Jul2025 03:21:15.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd joined the game
+[10Jul2025 03:21:15.710] [Server thread/INFO] [Jade/]: Syncing config to lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce)
+[10Jul2025 03:21:18.901] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucyyxd (18)
+[10Jul2025 03:21:18.902] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[10Jul2025 03:21:26.771] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[10Jul2025 03:21:27.745] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[10Jul2025 03:21:27.746] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) successfully connected to voice chat
