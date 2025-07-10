@@ -2344,3 +2344,43 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [10Jul2025 04:24:56.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
 [10Jul2025 04:24:59.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Under The Tide]
 [10Jul2025 04:25:09.501] [Worker-Main-13/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[10Jul2025 04:27:23.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[10Jul2025 04:27:23.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[10Jul2025 04:27:23.298] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[10Jul2025 04:27:52.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook drowned
+[10Jul2025 04:27:52.494] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[10Jul2025 04:27:56.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> xD
+[10Jul2025 04:28:24.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[10Jul2025 04:29:30.708] [Worker-Main-20/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:minecraft_empty
+[10Jul2025 04:29:38.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Smoke On The Water]
+[10Jul2025 04:29:42.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Chantikook to lucyyxd
+[10Jul2025 04:32:17.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Jul2025 04:32:17.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Jul2025 04:32:17.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Jul2025 04:32:17.407] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Server closed
+[10Jul2025 04:32:17.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
+[10Jul2025 04:32:17.417] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook lost connection: Server closed
+[10Jul2025 04:32:17.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook left the game
+[10Jul2025 04:32:17.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Jul2025 04:32:18.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Jul2025 04:32:20.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Jul2025 04:32:20.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[10Jul2025 04:32:20.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[10Jul2025 04:32:20.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Jul2025 04:32:20.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_abyss
+[10Jul2025 04:32:20.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mofus_better_end_:broken_constellation
+[10Jul2025 04:32:20.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[10Jul2025 04:32:20.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_mirror_realm
+[10Jul2025 04:32:20.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Jul2025 04:32:20.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Jul2025 04:32:20.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[10Jul2025 04:32:20.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[10Jul2025 04:32:20.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Jul2025 04:32:20.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[10Jul2025 04:32:20.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
+[10Jul2025 04:32:20.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[10Jul2025 04:32:20.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_mirror_realm): All chunks are saved
+[10Jul2025 04:32:20.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Jul2025 04:32:20.175] [Server thread/INFO] [Framework/]: Unloading server configs...
+[10Jul2025 04:32:20.176] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[10Jul2025 04:32:20.189] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
