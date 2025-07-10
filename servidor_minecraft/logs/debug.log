@@ -9221,3 +9221,27 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [10Jul2025 05:39:40.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to funado69]
 [10Jul2025 05:41:02.531] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Jul2025 05:41:02.554] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 05:46:02.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 05:46:02.551] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 05:47:43.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [A Seedy Place]
+[10Jul2025 05:49:07.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was slain by funado69
+[10Jul2025 05:49:08.903] [Server thread/DEBUG] [tombstone/]: A new grave of the player lucyyxd was created at position [x:852, y:69, z:-644, dim:minecraft:overworld]
+[10Jul2025 05:49:08.945] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[10Jul2025 05:49:09.859] [Server thread/DEBUG] [twilightforest/]: Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) respawned and received items held in storage
+[10Jul2025 05:49:18.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to funado69]
+[10Jul2025 05:50:27.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[10Jul2025 05:50:35.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[10Jul2025 05:51:02.524] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 05:51:02.547] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 05:51:35.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to funado69]
+[10Jul2025 05:51:38.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[10Jul2025 05:51:48.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 fell from a high place
+[10Jul2025 05:51:49.197] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:845, y:69, z:-646, dim:minecraft:overworld]
+[10Jul2025 05:51:49.221] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[10Jul2025 05:51:50.568] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[10Jul2025 05:53:31.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[10Jul2025 05:53:57.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[10Jul2025 05:54:47.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Kira_R
+[10Jul2025 05:54:47.391] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:854, y:69, z:-648, dim:minecraft:overworld]
+[10Jul2025 05:54:47.429] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[10Jul2025 05:54:57.475] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage

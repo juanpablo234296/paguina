@@ -2176,3 +2176,17 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [10Jul2025 05:36:28.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
 [10Jul2025 05:37:37.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
 [10Jul2025 05:39:40.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to funado69]
+[10Jul2025 05:47:43.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [A Seedy Place]
+[10Jul2025 05:49:07.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was slain by funado69
+[10Jul2025 05:49:08.945] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[10Jul2025 05:49:18.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to funado69]
+[10Jul2025 05:50:27.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[10Jul2025 05:50:35.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[10Jul2025 05:51:35.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to funado69]
+[10Jul2025 05:51:38.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[10Jul2025 05:51:48.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 fell from a high place
+[10Jul2025 05:51:49.221] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[10Jul2025 05:53:31.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[10Jul2025 05:53:57.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[10Jul2025 05:54:47.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Kira_R
+[10Jul2025 05:54:47.429] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
