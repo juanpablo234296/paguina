@@ -1896,6 +1896,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "honey_bottle": "2025-07-10 04:04:33 +0000",
       "sweet_berries": "2025-07-08 00:53:14 +0000",
       "baked_potato": "2025-07-05 04:54:45 +0000",
       "rotten_flesh": "2025-07-05 04:13:12 +0000",
@@ -7800,73 +7801,73 @@
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-07-10 04:00:07 +0000"
+      "log_spam_fixer": "2025-07-10 04:10:07 +0000"
     },
     "done": false
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-10 04:00:07 +0000"
+      "log_spam_fixer": "2025-07-10 04:10:07 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-07-10 04:00:07 +0000"
+      "log_spam_fixer": "2025-07-10 04:10:07 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-07-10 04:00:07 +0000"
+      "log_spam_fixer": "2025-07-10 04:10:07 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-10 04:00:07 +0000"
+      "log_spam_fixer": "2025-07-10 04:10:07 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-10 04:00:07 +0000"
+      "log_spam_fixer": "2025-07-10 04:10:07 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-07-10 04:00:07 +0000"
+      "log_spam_fixer": "2025-07-10 04:10:07 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-10 04:00:07 +0000"
+      "log_spam_fixer": "2025-07-10 04:10:07 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-10 04:00:07 +0000"
+      "log_spam_fixer": "2025-07-10 04:10:07 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-07-10 04:00:07 +0000"
+      "log_spam_fixer": "2025-07-10 04:10:07 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-07-10 04:00:07 +0000"
+      "log_spam_fixer": "2025-07-10 04:10:07 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-07-10 04:00:07 +0000"
+      "log_spam_fixer": "2025-07-10 04:10:07 +0000"
     },
     "done": false
   },
@@ -7891,6 +7892,12 @@
   "aether:recipes/incubation/white_moa_incubation": {
     "criteria": {
       "has_white_moa_egg": "2025-07-10 03:25:54 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grass_slab": {
+    "criteria": {
+      "has_grass_block": "2025-07-10 04:09:04 +0000"
     },
     "done": true
   },

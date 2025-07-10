@@ -2248,3 +2248,26 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [10Jul2025 04:02:29.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> se escapara el hamster
 [10Jul2025 04:02:48.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
 [10Jul2025 04:02:56.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[10Jul2025 04:08:12.006] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player b77ce13a-173f-3536-8169-0fe2ff9276ec timed out
+[10Jul2025 04:08:12.006] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player funado69
+[10Jul2025 04:08:12.007] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[10Jul2025 04:08:27.442] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 lost connection: Timed out
+[10Jul2025 04:08:27.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 left the game
+[10Jul2025 04:08:27.446] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client funado69
+[10Jul2025 04:08:27.503] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Jul2025 04:08:56.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[10Jul2025 04:09:01.750] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: funado69[/127.40.17.13:39905] logged in with entity id 18597 at (840.6681440162624, 100.0, -374.9814699414623)
+[10Jul2025 04:09:01.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 joined the game
+[10Jul2025 04:09:01.807] [Server thread/INFO] [Jade/]: Syncing config to funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec)
+[10Jul2025 04:09:02.060] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of funado69 (18)
+[10Jul2025 04:09:02.061] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[10Jul2025 04:09:14.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [He Was Number One!]
+[10Jul2025 04:09:15.641] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[10Jul2025 04:09:16.642] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[10Jul2025 04:09:16.643] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) successfully connected to voice chat
+[10Jul2025 04:09:58.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[10Jul2025 04:10:47.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[10Jul2025 04:11:01.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Who is Cutting Onions?]
+[10Jul2025 04:11:02.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Ice Bucket Challenge]
+[10Jul2025 04:11:04.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[10Jul2025 04:12:13.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
