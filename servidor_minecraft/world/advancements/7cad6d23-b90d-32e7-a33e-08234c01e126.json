@@ -8318,5 +8318,18 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-07-10 03:34:39 +0000",
+      "wheat": "2025-07-10 03:36:15 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-07-10 03:36:15 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
