@@ -2200,3 +2200,51 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [10Jul2025 03:53:49.193] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
 [10Jul2025 03:53:50.196] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
 [10Jul2025 03:53:50.196] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
+[10Jul2025 03:55:06.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported funado69 to pablito]
+[10Jul2025 03:55:17.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was shot by funado69 using [Gunnarr’s Valor]
+[10Jul2025 03:55:17.102] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[10Jul2025 03:55:46.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was slain by funado69
+[10Jul2025 03:55:47.336] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[10Jul2025 03:57:41.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[10Jul2025 03:57:54.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[10Jul2025 03:58:29.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito moved too quickly! -17.339153670156065,4.0,9.229419988903032
+[10Jul2025 03:58:29.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[10Jul2025 03:58:44.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[10Jul2025 03:58:49.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[10Jul2025 03:59:17.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]
+[10Jul2025 03:59:17.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=845, y=64, z=-617} BlockPos{x=846, y=62, z=-617}
+[10Jul2025 03:59:17.797] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=845, y=64, z=-617} BlockPos{x=846, y=62, z=-617}
+[10Jul2025 03:59:22.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=855, y=64, z=-618} BlockPos{x=856, y=62, z=-618}
+[10Jul2025 03:59:23.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=859, y=64, z=-620} BlockPos{x=860, y=62, z=-621}
+[10Jul2025 03:59:24.498] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=862, y=64, z=-622} BlockPos{x=862, y=62, z=-624}
+[10Jul2025 03:59:24.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=862, y=64, z=-622} BlockPos{x=862, y=62, z=-624}
+[10Jul2025 03:59:24.604] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=862, y=64, z=-622} BlockPos{x=862, y=62, z=-624}
+[10Jul2025 03:59:24.756] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=863, y=64, z=-622} BlockPos{x=864, y=62, z=-622}
+[10Jul2025 03:59:24.804] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=863, y=64, z=-622} BlockPos{x=864, y=62, z=-622}
+[10Jul2025 03:59:24.852] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=863, y=64, z=-622} BlockPos{x=864, y=62, z=-622}
+[10Jul2025 03:59:30.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by funado69
+[10Jul2025 03:59:31.565] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[10Jul2025 03:59:32.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=851, y=64, z=-606} BlockPos{x=850, y=62, z=-606}
+[10Jul2025 03:59:32.518] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=850, y=64, z=-608} BlockPos{x=848, y=62, z=-608}
+[10Jul2025 03:59:32.556] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=850, y=64, z=-608} BlockPos{x=848, y=62, z=-608}
+[10Jul2025 03:59:34.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]
+[10Jul2025 03:59:51.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Kira_R
+[10Jul2025 03:59:52.023] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[10Jul2025 03:59:54.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Kira_R
+[10Jul2025 03:59:54.458] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[10Jul2025 03:59:58.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]
+[10Jul2025 03:59:59.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [Funeral Theft]
+[10Jul2025 04:00:09.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Forbidden Fruit]
+[10Jul2025 04:00:09.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Funeral Theft]
+[10Jul2025 04:00:34.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by funado69
+[10Jul2025 04:00:34.796] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[10Jul2025 04:00:38.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]
+[10Jul2025 04:00:54.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by pablito
+[10Jul2025 04:00:54.632] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[10Jul2025 04:01:42.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[10Jul2025 04:01:43.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[10Jul2025 04:01:46.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]
+[10Jul2025 04:02:25.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> dame semillas pablitoo
+[10Jul2025 04:02:29.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> se escapara el hamster
+[10Jul2025 04:02:48.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[10Jul2025 04:02:56.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
