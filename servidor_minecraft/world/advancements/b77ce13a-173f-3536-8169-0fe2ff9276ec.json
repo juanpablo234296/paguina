@@ -7544,6 +7544,12 @@
     },
     "done": true
   },
+  "the_bumblezone:armor/craft_flower_headwear": {
+    "criteria": {
+      "obtain_flower_headwear": "2025-07-10 05:55:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_hanging_sign": {
     "criteria": {
       "has_stripped_logs": "2025-07-10 05:47:00 +0000"

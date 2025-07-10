@@ -2190,3 +2190,11 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [10Jul2025 05:53:57.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
 [10Jul2025 05:54:47.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Kira_R
 [10Jul2025 05:54:47.429] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[10Jul2025 06:00:39.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[10Jul2025 06:00:48.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[10Jul2025 06:03:15.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was slain by Kira_R
+[10Jul2025 06:03:16.313] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[10Jul2025 06:04:11.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by lucyyxd
+[10Jul2025 06:04:11.423] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[10Jul2025 06:04:24.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was slain by funado69
+[10Jul2025 06:04:24.587] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
