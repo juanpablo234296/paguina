@@ -122,6 +122,7 @@
       "minecraft:dripstone_caves": "2025-07-04 02:18:18 +0000",
       "minecraft:cold_ocean": "2025-07-03 05:35:32 +0000",
       "minecraft:forest": "2025-07-03 02:43:41 +0000",
+      "minecraft:lush_caves": "2025-07-11 02:37:53 +0000",
       "minecraft:deep_cold_ocean": "2025-07-03 05:37:40 +0000",
       "minecraft:windswept_forest": "2025-07-05 01:37:33 +0000",
       "minecraft:jungle": "2025-07-05 01:31:04 +0000",
@@ -7425,6 +7426,186 @@
       "sweet_berries": "2025-07-10 06:01:57 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-07-11 02:17:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/magenta_dye_from_lilac": {
+    "criteria": {
+      "has_lilac": "2025-07-11 02:17:34 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/window_sill": {
+    "criteria": {
+      "has_flower_pot": "2025-07-11 02:20:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-11 02:35:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_piston": {
+    "criteria": {
+      "has_redstone": "2025-07-11 02:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-07-11 02:42:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-11 02:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-07-11 02:42:10 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/bow_repairing": {
+    "criteria": {
+      "has_bow": "2025-07-11 02:45:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2025-07-11 02:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-11 02:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-07-11 02:45:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-07-11 02:35:12 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/misc/book_of_lore": {
+    "criteria": {
+      "has_book": "2025-07-11 02:42:10 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_stand": {
+    "criteria": {
+      "has_brick": "2025-07-11 02:40:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/redstone/skyroot_lectern": {
+    "criteria": {
+      "has_book": "2025-07-11 02:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 02:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-07-11 02:35:12 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-07-11 02:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-07-11 02:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 02:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-11 02:35:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-07-11 02:40:07 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/spawner_frame": {
+    "criteria": {
+      "has_spawner_fragment": "2025-07-11 02:36:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-07-11 02:40:07 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/skyroot_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-11 02:42:10 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/baking_station": {
+    "criteria": {
+      "has_brick": "2025-07-11 02:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-11 02:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-07-11 02:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-11 02:35:12 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

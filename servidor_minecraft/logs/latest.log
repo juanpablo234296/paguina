@@ -2205,3 +2205,153 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [11Jul2025 02:17:23.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Kira_R
 [11Jul2025 02:17:23.549] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
 [11Jul2025 02:18:13.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [Sowing the Future]
+[11Jul2025 02:22:05.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> dany te presento a chanti
+[11Jul2025 02:22:28.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] la trata como un objeto ;9
+[11Jul2025 02:23:06.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> 1110,171,99
+[11Jul2025 02:23:26.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ayyyyyyyyyyyy
+[11Jul2025 02:23:32.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[11Jul2025 02:23:44.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] tp y cordenadas
+[11Jul2025 02:24:08.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] nose para que lo tengo de admin
+[11Jul2025 02:24:29.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[11Jul2025 02:24:29.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: tp @a 1110,171,99<--[HERE]
+[11Jul2025 02:25:19.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported 3 entities to 1110.500000, 171.000000, 99.500000
+[11Jul2025 02:25:21.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 was kicked for floating too long!
+[11Jul2025 02:25:22.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kira_R was kicked for floating too long!
+[11Jul2025 02:25:22.044] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 lost connection: Flying is not enabled on this server
+[11Jul2025 02:25:22.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 left the game
+[11Jul2025 02:25:22.044] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client funado69
+[11Jul2025 02:25:22.093] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kira_R lost connection: Flying is not enabled on this server
+[11Jul2025 02:25:22.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R left the game
+[11Jul2025 02:25:22.093] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kira_R
+[11Jul2025 02:25:22.543] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook was kicked for floating too long!
+[11Jul2025 02:25:22.593] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook lost connection: Flying is not enabled on this server
+[11Jul2025 02:25:22.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook left the game
+[11Jul2025 02:25:22.594] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Chantikook
+[11Jul2025 02:25:49.762] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kira_R[/127.241.34.139:56637] logged in with entity id 8978 at (1113.8861423598185, 111.6359232886375, 101.69621095743922)
+[11Jul2025 02:25:49.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R joined the game
+[11Jul2025 02:25:49.793] [Server thread/INFO] [Jade/]: Syncing config to Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6)
+[11Jul2025 02:25:50.416] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kira_R (18)
+[11Jul2025 02:25:50.417] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kira_R
+[11Jul2025 02:25:50.446] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: funado69[/127.32.3.107:59195] logged in with entity id 8979 at (1110.5, 111.6359232886375, 99.5)
+[11Jul2025 02:25:50.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 joined the game
+[11Jul2025 02:25:50.481] [Server thread/INFO] [Jade/]: Syncing config to funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec)
+[11Jul2025 02:25:50.643] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of funado69 (18)
+[11Jul2025 02:25:50.643] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[11Jul2025 02:25:58.906] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
+[11Jul2025 02:25:59.909] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
+[11Jul2025 02:25:59.910] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
+[11Jul2025 02:25:59.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R fell from a high place
+[11Jul2025 02:26:00.007] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[11Jul2025 02:26:00.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[11Jul2025 02:26:01.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[11Jul2025 02:26:01.342] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) successfully connected to voice chat
+[11Jul2025 02:26:01.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 fell from a high place
+[11Jul2025 02:26:02.309] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 02:26:20.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[11Jul2025 02:26:40.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Kira_R
+[11Jul2025 02:26:40.835] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 02:26:46.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] ya les hice tp
+[11Jul2025 02:27:09.039] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chantikook[/127.8.127.102:48649] logged in with entity id 10564 at (1110.5, 157.7488358371311, 99.5)
+[11Jul2025 02:27:09.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook joined the game
+[11Jul2025 02:27:09.159] [Server thread/INFO] [Jade/]: Syncing config to Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede)
+[11Jul2025 02:27:09.438] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Chantikook (18)
+[11Jul2025 02:27:09.438] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Chantikook
+[11Jul2025 02:27:50.355] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[11Jul2025 02:27:51.355] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[11Jul2025 02:27:51.356] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) successfully connected to voice chat
+[11Jul2025 02:27:55.344] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook was kicked for floating too long!
+[11Jul2025 02:27:55.390] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook lost connection: Flying is not enabled on this server
+[11Jul2025 02:27:55.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook left the game
+[11Jul2025 02:27:55.391] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Chantikook
+[11Jul2025 02:28:30.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 13000]
+[11Jul2025 02:28:38.800] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chantikook[/127.8.127.102:47581] logged in with entity id 11207 at (1110.5, 138.97588705473177, 99.5)
+[11Jul2025 02:28:38.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook joined the game
+[11Jul2025 02:28:38.881] [Server thread/INFO] [Jade/]: Syncing config to Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede)
+[11Jul2025 02:28:39.207] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Chantikook (18)
+[11Jul2025 02:28:39.208] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Chantikook
+[11Jul2025 02:29:02.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[11Jul2025 02:29:03.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[11Jul2025 02:29:03.627] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) successfully connected to voice chat
+[11Jul2025 02:29:07.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook was kicked for floating too long!
+[11Jul2025 02:29:07.081] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook lost connection: Flying is not enabled on this server
+[11Jul2025 02:29:07.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook left the game
+[11Jul2025 02:29:07.081] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Chantikook
+[11Jul2025 02:29:24.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Creeper
+[11Jul2025 02:29:25.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was blown up by Creeper
+[11Jul2025 02:29:26.232] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 02:30:09.093] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chantikook[/127.8.127.102:60533] logged in with entity id 11819 at (1110.5, 99.14610540524491, 99.5)
+[11Jul2025 02:30:09.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook joined the game
+[11Jul2025 02:30:09.189] [Server thread/INFO] [Jade/]: Syncing config to Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede)
+[11Jul2025 02:30:09.378] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Chantikook (18)
+[11Jul2025 02:30:09.379] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Chantikook
+[11Jul2025 02:30:31.189] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[11Jul2025 02:30:32.201] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[11Jul2025 02:30:32.202] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) successfully connected to voice chat
+[11Jul2025 02:30:32.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook fell from a high place
+[11Jul2025 02:30:32.686] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 02:31:31.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[11Jul2025 02:31:36.540] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2101ms or 42 ticks behind
+[11Jul2025 02:31:37.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hola chanti
+[11Jul2025 02:31:45.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[11Jul2025 02:31:55.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[11Jul2025 02:32:07.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was shot by Skeleton
+[11Jul2025 02:32:07.297] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[11Jul2025 02:32:11.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[11Jul2025 02:32:14.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[11Jul2025 02:32:21.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
+[11Jul2025 02:32:36.657] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[11Jul2025 02:32:49.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[11Jul2025 02:32:58.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[11Jul2025 02:34:57.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[11Jul2025 02:36:03.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[11Jul2025 02:36:03.333] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 02:36:20.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Creeper
+[11Jul2025 02:36:20.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[11Jul2025 02:36:21.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was blown up by Creeper
+[11Jul2025 02:36:21.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was blown up by Creeper
+[11Jul2025 02:36:21.769] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 02:36:21.772] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 02:36:40.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[11Jul2025 02:37:02.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Jul2025 02:37:02.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7say JAJJAJJAJJA<--[HERE]
+[11Jul2025 02:37:43.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[11Jul2025 02:38:15.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[11Jul2025 02:38:15.926] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 02:38:30.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[11Jul2025 02:38:45.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Kira_R
+[11Jul2025 02:38:46.220] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 02:38:58.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[11Jul2025 02:40:10.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was shot by Skeleton
+[11Jul2025 02:40:10.325] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 02:40:24.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[11Jul2025 02:43:23.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[11Jul2025 02:44:33.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[11Jul2025 02:44:33.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 7say yo<--[HERE]
+[11Jul2025 02:45:04.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] yo
+[11Jul2025 02:46:34.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] kira mira DM
+[11Jul2025 02:46:44.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] a
+[11Jul2025 02:46:51.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[11Jul2025 02:47:20.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] a
+[11Jul2025 02:47:27.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was spiked to death
+[11Jul2025 02:47:27.615] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 02:47:27.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[11Jul2025 02:47:31.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was spiked to death
+[11Jul2025 02:47:31.789] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 02:47:38.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Creeper
+[11Jul2025 02:47:42.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was spiked to death
+[11Jul2025 02:47:42.381] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 02:47:47.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[11Jul2025 02:48:19.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to Kira_R]
+[11Jul2025 02:48:23.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[11Jul2025 02:48:31.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[11Jul2025 02:48:42.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[11Jul2025 02:49:13.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[11Jul2025 02:49:19.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[11Jul2025 02:49:40.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[11Jul2025 02:49:53.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[11Jul2025 02:49:55.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to Kira_R]
+[11Jul2025 02:50:07.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was spiked to death
+[11Jul2025 02:50:07.679] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[11Jul2025 02:50:13.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was shot by Skeleton
+[11Jul2025 02:50:14.040] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 02:50:40.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]

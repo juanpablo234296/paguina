@@ -119,12 +119,15 @@
       "minecraft:frozen_river": "2025-07-07 22:10:13 +0000",
       "minecraft:birch_forest": "2025-06-30 22:57:18 +0000",
       "minecraft:beach": "2025-07-03 03:52:39 +0000",
+      "minecraft:dark_forest": "2025-07-11 02:34:58 +0000",
       "minecraft:river": "2025-06-30 22:57:11 +0000",
       "minecraft:stony_shore": "2025-07-10 04:48:08 +0000",
       "minecraft:dripstone_caves": "2025-07-10 05:15:49 +0000",
       "minecraft:cold_ocean": "2025-07-03 05:35:12 +0000",
       "minecraft:forest": "2025-06-30 22:51:28 +0000",
+      "minecraft:lush_caves": "2025-07-11 02:40:24 +0000",
       "minecraft:deep_cold_ocean": "2025-07-03 05:42:04 +0000",
+      "minecraft:windswept_forest": "2025-07-11 02:25:20 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-07 22:45:11 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-05 03:23:03 +0000",
       "minecraft:meadow": "2025-07-10 05:09:31 +0000",
@@ -8106,6 +8109,318 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-07-10 05:16:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_table": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_sink": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_chair": {
+    "criteria": {
+      "has_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/stick": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/spruce_wine_rack_big": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_railing": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_desk": {
+    "criteria": {
+      "has_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/spruce_wine_rack_small": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/grapevine_pot": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dark_cherry_shelf": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_button": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_stairs": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_park_bench": {
+    "criteria": {
+      "has_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-07-11 02:40:43 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_fence": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_slab": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_cabinetry": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/shutter_block": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_trapdoor": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_barn_door": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_crate": {
+    "criteria": {
+      "has_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/chair": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/table": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/cheese_rack": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_desk": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_barn_trapdoor": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_fence_gate": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_pressure_plate": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_door": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-07-11 02:32:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_table": {
+    "criteria": {
+      "has_planks": "2025-07-11 02:46:26 +0000"
     },
     "done": true
   },
