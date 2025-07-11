@@ -2124,3 +2124,12 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [11Jul2025 22:01:13.093] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
 [11Jul2025 22:01:13.103] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'orders-numerical.gl.at.ply.gg:4221'
 [11Jul2025 22:01:13.103] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 4221
+[11Jul2025 22:10:28.570] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:55955] logged in with entity id 1274 at (1155.287841796875, 63.085764312744146, -1680.129638671875)
+[11Jul2025 22:10:28.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[11Jul2025 22:10:28.863] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[11Jul2025 22:10:31.362] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[11Jul2025 22:10:31.364] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[11Jul2025 22:10:31.366] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2961ms or 59 ticks behind
+[11Jul2025 22:10:42.139] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[11Jul2025 22:10:43.127] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[11Jul2025 22:10:43.130] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
