@@ -11175,3 +11175,29 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [11Jul2025 03:01:05.513] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:1026, y:-28, z:137, dim:minecraft:overworld]
 [11Jul2025 03:01:05.516] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
 [11Jul2025 03:01:06.768] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[11Jul2025 03:01:43.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was shot by Skeleton
+[11Jul2025 03:01:43.509] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:1026, y:-28, z:123, dim:minecraft:overworld]
+[11Jul2025 03:01:43.512] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 03:01:44.961] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[11Jul2025 03:01:53.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 03:01:53.804] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 03:04:35.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Creeper
+[11Jul2025 03:04:37.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was blown up by Creeper
+[11Jul2025 03:04:37.862] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:1026, y:-28, z:137, dim:minecraft:overworld]
+[11Jul2025 03:04:37.867] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 03:04:40.974] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[11Jul2025 03:05:10.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] dime ando cenando jajjajja
+[11Jul2025 03:05:22.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[11Jul2025 03:05:31.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no se donde queda la casa tuya jkajjajja
+[11Jul2025 03:05:45.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] osea las cordenadas
+[11Jul2025 03:06:07.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook blew up
+[11Jul2025 03:06:07.676] [Server thread/DEBUG] [tombstone/]: A new grave of the player Chantikook was created at position [x:1021, y:-31, z:123, dim:minecraft:overworld]
+[11Jul2025 03:06:07.679] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 03:06:16.949] [Server thread/DEBUG] [twilightforest/]: Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) respawned and received items held in storage
+[11Jul2025 03:06:19.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Take Aim]
+[11Jul2025 03:06:37.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[11Jul2025 03:06:53.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 03:06:53.807] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 03:06:57.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no se donde queda la casa tuya jkajjajja
+[11Jul2025 03:07:22.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] kira entoncesi si sabes lo de la terminal o no que me voy a mimir
+[11Jul2025 03:10:35.661] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/9568, l='ServerLevel[world]', x=1070.30, y=96.50, z=119.15] died, message: 'Fisherman was shot by Pillager'

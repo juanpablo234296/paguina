@@ -8154,6 +8154,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-07-11 02:59:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_storage_cabinet": {
     "criteria": {
       "has_spruce_planks": "2025-07-11 02:46:26 +0000"
@@ -8187,6 +8193,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-11 02:59:42 +0000"
     },
     "done": true
   },
@@ -8241,6 +8253,12 @@
   "meadow:recipes/pine_planks": {
     "criteria": {
       "has_the_recipe": "2025-07-11 02:40:43 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-07-11 02:59:42 +0000"
     },
     "done": true
   },
@@ -8301,6 +8319,12 @@
   "meadow:recipes/pine_trapdoor": {
     "criteria": {
       "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-07-11 02:59:42 +0000"
     },
     "done": true
   },

@@ -2408,3 +2408,19 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [11Jul2025 03:00:20.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
 [11Jul2025 03:01:05.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was shot by Skeleton
 [11Jul2025 03:01:05.516] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 03:01:43.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was shot by Skeleton
+[11Jul2025 03:01:43.512] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 03:04:35.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Creeper
+[11Jul2025 03:04:37.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was blown up by Creeper
+[11Jul2025 03:04:37.867] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 03:05:10.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] dime ando cenando jajjajja
+[11Jul2025 03:05:22.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[11Jul2025 03:05:31.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no se donde queda la casa tuya jkajjajja
+[11Jul2025 03:05:45.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] osea las cordenadas
+[11Jul2025 03:06:07.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook blew up
+[11Jul2025 03:06:07.679] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 03:06:19.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Take Aim]
+[11Jul2025 03:06:37.185] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[11Jul2025 03:06:57.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no se donde queda la casa tuya jkajjajja
+[11Jul2025 03:07:22.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] kira entoncesi si sabes lo de la terminal o no que me voy a mimir
+[11Jul2025 03:10:35.661] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/9568, l='ServerLevel[world]', x=1070.30, y=96.50, z=119.15] died, message: 'Fisherman was shot by Pillager'

@@ -7451,6 +7451,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_coffee_table": {
     "criteria": {
       "has_planks": "2025-07-11 02:53:16 +0000"
@@ -7466,6 +7472,12 @@
   "cfm:recipes/decorations/spruce_chair": {
     "criteria": {
       "has_planks": "2025-07-11 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
     },
     "done": true
   },
@@ -7487,6 +7499,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-11 03:06:19 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_piston": {
     "criteria": {
       "has_redstone": "2025-07-11 02:35:12 +0000"
@@ -7505,6 +7523,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/redstone/skyroot_note_block": {
     "criteria": {
       "has_redstone": "2025-07-11 02:35:12 +0000"
@@ -7520,6 +7544,12 @@
   "vinery:recipes/spruce_wine_rack_small": {
     "criteria": {
       "has_spruce_planks": "2025-07-11 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/green_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
     },
     "done": true
   },
@@ -7547,6 +7577,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/purple_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2025-07-11 02:35:12 +0000"
@@ -7559,15 +7595,39 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/light_gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
     "criteria": {
       "has_spruce_planks": "2025-07-11 02:53:16 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/black_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/blue_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_crate": {
     "criteria": {
       "has_spruce_planks": "2025-07-11 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
     },
     "done": true
   },
@@ -7589,6 +7649,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/misc/book_of_lore": {
     "criteria": {
       "has_book": "2025-07-11 02:42:10 +0000"
@@ -7598,6 +7670,12 @@
   "bakery:recipes/cake_stand": {
     "criteria": {
       "has_brick": "2025-07-11 02:40:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
     },
     "done": true
   },
@@ -7619,6 +7697,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/gray_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_acacia_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-07-11 02:35:12 +0000"
@@ -7631,9 +7721,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/dark_oak_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bricks": {
     "criteria": {
       "has_brick": "2025-07-11 02:40:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/orange_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
     },
     "done": true
   },
@@ -7649,6 +7751,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/white_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-07-11 02:35:12 +0000"
@@ -7658,6 +7772,18 @@
   "cfm:recipes/decorations/spruce_crate": {
     "criteria": {
       "has_planks": "2025-07-11 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/brown_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/yellow_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
     },
     "done": true
   },
@@ -7673,9 +7799,21 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/pink_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-07-11 02:40:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
     },
     "done": true
   },
@@ -7691,6 +7829,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/warped_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/cyan_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/baking_station": {
     "criteria": {
       "has_brick": "2025-07-11 02:40:07 +0000"
@@ -7700,6 +7850,12 @@
   "cfm:recipes/decorations/spruce_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-07-11 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_crimson_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
     },
     "done": true
   },
@@ -7733,15 +7889,39 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_jungle_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-07-11 02:40:07 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
     "criteria": {
       "has_spruce_planks": "2025-07-11 02:53:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/magenta_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/lime_picket_gate": {
+    "criteria": {
+      "has_gate": "2025-07-11 02:58:41 +0000"
     },
     "done": true
   },
