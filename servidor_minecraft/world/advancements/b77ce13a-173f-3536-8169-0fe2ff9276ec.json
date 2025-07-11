@@ -137,6 +137,7 @@
   },
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
+      "entered_tower_of_the_undead": "2025-07-11 05:20:29 +0000",
       "entered_fishing_ship": "2025-07-05 03:02:24 +0000",
       "entered_deep_crypt": "2025-07-11 03:20:57 +0000",
       "entered_sunken_shrine": "2025-07-05 03:03:23 +0000",
@@ -8581,6 +8582,18 @@
   "refurbished_furniture:recipes/frying/glow_berry_jam": {
     "criteria": {
       "has_ingredient": "2025-07-11 04:33:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-11 05:12:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-07-11 05:12:22 +0000"
     },
     "done": true
   },
