@@ -138,6 +138,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_fishing_ship": "2025-07-05 03:02:24 +0000",
+      "entered_deep_crypt": "2025-07-11 03:20:57 +0000",
       "entered_sunken_shrine": "2025-07-05 03:03:23 +0000",
       "entered_ruined_building": "2025-06-30 18:59:22 +0000",
       "entered_witch_tower": "2025-07-04 00:42:49 +0000"
@@ -8317,6 +8318,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-11 03:27:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/mangrove_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-07-11 02:56:35 +0000"
@@ -8395,6 +8402,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-11 03:27:47 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_acacia_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-07-11 02:56:35 +0000"
@@ -8406,6 +8419,12 @@
       "has_gate": "2025-07-11 02:56:35 +0000"
     },
     "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_deep_crypt": "2025-07-11 03:20:57 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/decorations/red_picket_gate": {
     "criteria": {
@@ -8458,6 +8477,12 @@
   "cfm:recipes/decorations/stripped_crimson_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-07-11 02:56:35 +0000"
+    },
+    "done": true
+  },
+  "nordic_structures:tyfingroathswearadvancement": {
+    "criteria": {
+      "tyfingroathswearadvancement_0": "2025-07-11 03:23:24 +0000"
     },
     "done": true
   },
