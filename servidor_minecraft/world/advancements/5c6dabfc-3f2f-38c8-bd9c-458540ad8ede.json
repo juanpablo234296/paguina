@@ -7989,45 +7989,9 @@
     },
     "done": true
   },
-  "meadow:recipes/stripped_pine_wood": {
-    "criteria": {
-      "has_stripped_pine_log": "2025-07-10 05:11:13 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "tomato_seeds": "2025-07-10 04:59:45 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/woodcutter": {
-    "criteria": {
-      "has_pine_log": "2025-07-10 05:11:15 +0000"
-    },
-    "done": true
-  },
-  "farm_and_charm:recipes/tomato_bag": {
-    "criteria": {
-      "has_tomato": "2025-07-10 05:02:28 +0000"
-    },
-    "done": true
-  },
   "spawn:recipes/tuna/tuna_sandwich_from_bread": {
     "criteria": {
       "has_item": "2025-07-10 04:54:43 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/dumplings": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-10 05:03:39 +0000"
-    },
-    "done": true
-  },
-  "farm_and_charm:recipes/strawberry_bag": {
-    "criteria": {
-      "has_strawberry": "2025-07-10 05:04:26 +0000"
     },
     "done": true
   },
@@ -8037,21 +8001,9 @@
     },
     "done": true
   },
-  "meadow:main/find_meadow": {
-    "criteria": {
-      "meadow": "2025-07-10 05:09:31 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
     "criteria": {
       "has_bread": "2025-07-10 04:54:43 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/pine_wood": {
-    "criteria": {
-      "has_pine_log": "2025-07-10 05:11:15 +0000"
     },
     "done": true
   },
@@ -8061,33 +8013,27 @@
     },
     "done": true
   },
-  "meadow:recipes/fire_log": {
+  "farmersdelight:main/get_fd_seed": {
     "criteria": {
-      "has_pine_log": "2025-07-10 05:11:15 +0000"
+      "tomato_seeds": "2025-07-10 04:59:45 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/tomato_bag": {
+    "criteria": {
+      "has_tomato": "2025-07-10 05:02:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-10 05:03:39 +0000"
     },
     "done": true
   },
   "farmersdelight:recipes/food/barbecue_stick": {
     "criteria": {
       "has_onion": "2025-07-10 05:03:39 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/limestone_bricks_wall": {
-    "criteria": {
-      "has_cobbled_limestone": "2025-07-10 05:08:24 +0000"
-    },
-    "done": true
-  },
-  "farm_and_charm:recipes/corn_bag": {
-    "criteria": {
-      "has_corn": "2025-07-10 05:05:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dripstone_block": {
-    "criteria": {
-      "has_pointed_dripstone": "2025-07-10 05:16:02 +0000"
     },
     "done": true
   },
@@ -8103,9 +8049,63 @@
     },
     "done": true
   },
+  "farm_and_charm:recipes/strawberry_bag": {
+    "criteria": {
+      "has_strawberry": "2025-07-10 05:04:26 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:recipes/corn_bag": {
+    "criteria": {
+      "has_corn": "2025-07-10 05:05:57 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/limestone_bricks_wall": {
+    "criteria": {
+      "has_cobbled_limestone": "2025-07-10 05:08:24 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/limestone": {
     "criteria": {
       "has_cobbled_limestone": "2025-07-10 05:08:24 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/find_meadow": {
+    "criteria": {
+      "meadow": "2025-07-10 05:09:31 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/stripped_pine_wood": {
+    "criteria": {
+      "has_stripped_pine_log": "2025-07-10 05:11:13 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/woodcutter": {
+    "criteria": {
+      "has_pine_log": "2025-07-10 05:11:15 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_wood": {
+    "criteria": {
+      "has_pine_log": "2025-07-10 05:11:15 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/fire_log": {
+    "criteria": {
+      "has_pine_log": "2025-07-10 05:11:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2025-07-10 05:16:02 +0000"
     },
     "done": true
   },

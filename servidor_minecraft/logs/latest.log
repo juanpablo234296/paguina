@@ -2160,3 +2160,48 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [11Jul2025 01:58:48.884] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) successfully connected to voice chat
 [11Jul2025 01:59:49.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Kira_R
 [11Jul2025 01:59:50.141] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 02:00:04.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Kira_R
+[11Jul2025 02:00:04.588] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 02:07:30.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[11Jul2025 02:07:30.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... funado69  run summon minecraft:creeper<--[HERE]
+[11Jul2025 02:07:48.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Creeper
+[11Jul2025 02:07:50.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was blown up by Creeper
+[11Jul2025 02:07:50.916] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 02:08:00.183] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 was kicked for floating too long!
+[11Jul2025 02:08:00.184] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 lost connection: Flying is not enabled on this server
+[11Jul2025 02:08:00.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 left the game
+[11Jul2025 02:08:00.188] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client funado69
+[11Jul2025 02:08:00.255] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Jul2025 02:08:23.091] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: funado69[/127.32.3.107:34827] logged in with entity id 4038 at (838.7545425756506, 79.32476691508852, -391.69445923251703)
+[11Jul2025 02:08:23.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 joined the game
+[11Jul2025 02:08:23.135] [Server thread/INFO] [Jade/]: Syncing config to funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec)
+[11Jul2025 02:08:23.394] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of funado69 (18)
+[11Jul2025 02:08:23.394] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[11Jul2025 02:08:33.704] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[11Jul2025 02:08:34.719] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[11Jul2025 02:08:34.720] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) successfully connected to voice chat
+[11Jul2025 02:08:40.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[11Jul2025 02:10:17.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> zzzzzzzzzz
+[11Jul2025 02:10:19.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> duerme csmre
+[11Jul2025 02:11:59.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[11Jul2025 02:13:30.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Kira_R
+[11Jul2025 02:13:31.230] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 02:13:36.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[11Jul2025 02:13:45.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[11Jul2025 02:15:33.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chantikook[/127.8.127.102:37723] logged in with entity id 5747 at (1619.9278895669509, 96.0, -2112.127615656721)
+[11Jul2025 02:15:33.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook joined the game
+[11Jul2025 02:15:33.765] [Server thread/INFO] [Jade/]: Syncing config to Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede)
+[11Jul2025 02:15:36.328] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2639ms or 52 ticks behind
+[11Jul2025 02:15:41.534] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Skeleton['Skeleton'/5971, l='ServerLevel[world]', x=1500.96, y=21.00, z=-2273.48]
+[11Jul2025 02:15:41.536] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Chantikook (18)
+[11Jul2025 02:15:41.536] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Chantikook
+[11Jul2025 02:15:43.004] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Zombie['Zombie'/6020, l='ServerLevel[world]', x=1610.50, y=-28.00, z=-2288.08]
+[11Jul2025 02:15:43.575] [Worker-Main-54/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[11Jul2025 02:15:43.576] [Worker-Main-54/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[11Jul2025 02:16:18.022] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[11Jul2025 02:16:19.027] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[11Jul2025 02:16:19.028] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) successfully connected to voice chat
+[11Jul2025 02:16:50.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> chantiiiiiiiii klk
+[11Jul2025 02:17:23.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Kira_R
+[11Jul2025 02:17:23.549] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 02:18:13.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [Sowing the Future]
