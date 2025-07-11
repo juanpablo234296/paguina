@@ -12792,3 +12792,60 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [11Jul2025 06:15:33.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> DANIIIIIIIIIIIIIIIIIIIIIIIIIIIIII
 [11Jul2025 06:15:37.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> PORFAVOOOOOR
 [11Jul2025 06:15:45.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Chantikook> QUIERO IR AL NETHER
+[11Jul2025 06:17:09.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to funado69]
+[11Jul2025 06:17:17.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[11Jul2025 06:17:25.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[11Jul2025 06:17:29.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[11Jul2025 06:18:08.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 06:18:08.305] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 06:21:29.570] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook lost connection: Disconnected
+[11Jul2025 06:21:29.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook left the game
+[11Jul2025 06:21:29.571] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Chantikook
+[11Jul2025 06:21:29.571] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Chantikook
+[11Jul2025 06:21:39.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[11Jul2025 06:22:02.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[11Jul2025 06:22:10.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[11Jul2025 06:22:50.349] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 lost connection: Disconnected
+[11Jul2025 06:22:50.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 left the game
+[11Jul2025 06:22:50.349] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of funado69
+[11Jul2025 06:22:50.349] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client funado69
+[11Jul2025 06:23:08.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 06:23:08.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 06:23:28.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> voy a ir a dormir mis papas ya me pvtearon xd
+[11Jul2025 06:23:43.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> no vemo mañanaa
+[11Jul2025 06:23:45.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> besos
+[11Jul2025 06:23:56.201] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kira_R lost connection: Disconnected
+[11Jul2025 06:23:56.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R left the game
+[11Jul2025 06:23:56.202] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Kira_R
+[11Jul2025 06:23:56.202] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kira_R
+[11Jul2025 06:24:59.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[11Jul2025 06:24:59.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Jul2025 06:24:59.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Jul2025 06:24:59.652] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Server closed
+[11Jul2025 06:24:59.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
+[11Jul2025 06:24:59.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Jul2025 06:24:59.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Jul2025 06:25:00.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Jul2025 06:25:00.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Jul2025 06:25:00.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_mirror_realm
+[11Jul2025 06:25:00.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/faded_conquest_2:the_abyss
+[11Jul2025 06:25:00.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[11Jul2025 06:25:00.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/mofus_better_end_:broken_constellation
+[11Jul2025 06:25:00.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[11Jul2025 06:25:00.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/aether:the_aether
+[11Jul2025 06:25:00.702] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 06:25:00.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 06:25:00.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Jul2025 06:25:00.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Jul2025 06:25:00.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Jul2025 06:25:00.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_mirror_realm): All chunks are saved
+[11Jul2025 06:25:00.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_abyss): All chunks are saved
+[11Jul2025 06:25:00.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[11Jul2025 06:25:00.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (broken_constellation): All chunks are saved
+[11Jul2025 06:25:00.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[11Jul2025 06:25:00.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_aether): All chunks are saved
+[11Jul2025 06:25:00.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11Jul2025 06:25:02.224] [Server thread/INFO] [Framework/]: Unloading server configs...
+[11Jul2025 06:25:02.225] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[11Jul2025 06:25:02.227] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[11Jul2025 06:25:02.231] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
