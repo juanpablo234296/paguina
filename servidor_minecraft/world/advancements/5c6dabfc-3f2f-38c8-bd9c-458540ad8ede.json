@@ -8570,9 +8570,63 @@
     },
     "done": true
   },
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+    "criteria": {
+      "has_item": "2025-07-11 05:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-07-11 05:52:53 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-07-11 05:52:35 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/tools/diamond_hoe_repairing": {
     "criteria": {
       "has_diamond_hoe": "2025-07-11 05:37:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-11 05:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-11 05:53:00 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/crafting/polished_netherrack": {
+    "criteria": {
+      "has_items": "2025-07-11 05:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-11 05:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-11 05:53:00 +0000"
+    },
+    "done": true
+  },
+  "netheroverhaul:bruger_the_burger": {
+    "criteria": {
+      "bruger_the_burger": "2025-07-11 05:52:35 +0000"
     },
     "done": true
   },
@@ -8588,6 +8642,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-11 05:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-11 05:52:35 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/rock_path": {
     "criteria": {
       "has_andesite": "2025-07-11 04:46:58 +0000"
@@ -8600,9 +8666,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-11 05:53:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-11 05:53:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
     "criteria": {
       "has_andesite": "2025-07-11 04:46:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-11 05:52:35 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/crafting/ominous_quartz": {
+    "criteria": {
+      "has_items": "2025-07-11 05:53:00 +0000"
     },
     "done": true
   },

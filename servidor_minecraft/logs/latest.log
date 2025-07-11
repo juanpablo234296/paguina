@@ -3908,3 +3908,42 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [11Jul2025 05:56:02.531] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [16, 2], pos: MutableBlockPos{x=260, y=74, z=35}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
 [11Jul2025 05:56:02.531] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [16, 2], pos: MutableBlockPos{x=260, y=73, z=35}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
 [11Jul2025 05:56:02.531] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [16, 2], pos: MutableBlockPos{x=260, y=72, z=35}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[11Jul2025 05:56:04.099] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [16, -3], pos: MutableBlockPos{x=262, y=81, z=-45}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[11Jul2025 05:56:04.100] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [16, -3], pos: MutableBlockPos{x=259, y=82, z=-47}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[11Jul2025 05:56:04.101] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [16, -3], pos: MutableBlockPos{x=261, y=121, z=-45}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / hearths:minecraft/nether_wastes/netherrack_lakes]
+[11Jul2025 05:56:31.152] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2971ms or 59 ticks behind
+[11Jul2025 05:56:31.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook moved too quickly! 5048.983485610873,-87.95327914164065,-2552.624275439911
+[11Jul2025 05:57:08.384] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[11Jul2025 05:57:24.876] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 05:57:24.882] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 05:57:24.883] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 05:57:24.886] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 05:57:24.889] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 05:57:24.901] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 05:57:24.902] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 05:57:24.907] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 05:57:24.909] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 05:57:24.909] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 05:57:24.916] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 05:57:24.928] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 05:57:24.936] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 05:57:25.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 moved too quickly! -5045.191764548348,88.07840000152588,2553.5142597444337
+[11Jul2025 05:57:25.932] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook moved too quickly! -5.9050293371274165,-1.0,-8.152949379134043
+[11Jul2025 05:57:25.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kira_R moved too quickly! 9.658228920490501,-2.676470876144279,1.4620798694580799
+[11Jul2025 05:57:30.653] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7272ms or 145 ticks behind
+[11Jul2025 05:57:48.825] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3194ms or 63 ticks behind
+[11Jul2025 05:58:18.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to lucyyxd]
+[11Jul2025 05:58:53.773] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[11Jul2025 05:58:53.773] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[11Jul2025 05:58:53.773] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[11Jul2025 05:58:53.773] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[11Jul2025 05:58:53.774] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[11Jul2025 05:58:53.774] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[11Jul2025 05:58:53.774] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[11Jul2025 05:58:57.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Chantikook moved too quickly! 8.9738967810963,0.0,-4.638975081640638
+[11Jul2025 05:58:57.994] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd moved too quickly! 5.010763420629701,-1.4199999868869781,-8.686060354571964
+[11Jul2025 05:58:58.029] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4598ms or 91 ticks behind
+[11Jul2025 05:59:16.651] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3670ms or 73 ticks behind
+[11Jul2025 05:59:26.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[11Jul2025 06:03:48.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [The Silence of the Forest]
+[11Jul2025 06:04:56.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1104, y=79, z=-604} BlockPos{x=1102, y=80, z=-601}

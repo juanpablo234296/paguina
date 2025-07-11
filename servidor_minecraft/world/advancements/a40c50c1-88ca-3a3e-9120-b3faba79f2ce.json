@@ -7835,6 +7835,18 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-07-11 05:53:06 +0000"
+    },
+    "done": false
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-07-11 05:53:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-07-11 04:32:48 +0000"
@@ -7925,6 +7937,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/wooden_pickaxe_repairing": {
+    "criteria": {
+      "has_wooden_pickaxe": "2025-07-11 05:54:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/target": {
     "criteria": {
       "has_redstone": "2025-07-11 04:55:22 +0000"
@@ -7940,6 +7958,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-07-11 04:32:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/firefly_particle_spawner": {
+    "criteria": {
+      "has_jar": "2025-07-11 06:01:02 +0000"
     },
     "done": true
   },
@@ -8006,6 +8030,12 @@
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-07-11 04:55:22 +0000"
+    },
+    "done": true
+  },
+  "netheroverhaul:bruger_the_burger": {
+    "criteria": {
+      "bruger_the_burger": "2025-07-11 05:53:03 +0000"
     },
     "done": true
   },
@@ -8087,6 +8117,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-11 05:53:03 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/decorations/skyroot_jukebox": {
     "criteria": {
       "has_diamond": "2025-07-11 04:32:48 +0000"
@@ -8153,6 +8189,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-11 05:53:03 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-07-11 05:21:26 +0000"
@@ -8192,6 +8234,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-07-11 05:21:26 +0000"
+    },
+    "done": true
+  },
+  "nethers_exoticism:rambutan_adv": {
+    "criteria": {
+      "rambutan_adv": "2025-07-11 05:54:02 +0000"
     },
     "done": true
   },
