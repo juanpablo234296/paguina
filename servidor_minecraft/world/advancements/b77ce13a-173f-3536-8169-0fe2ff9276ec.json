@@ -8312,15 +8312,15 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
+  "tombstone:adventure/discreet_search": {
     "criteria": {
-      "has_gate": "2025-07-11 02:56:35 +0000"
+      "coded_trigger": "2025-07-11 02:55:10 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lapis_block": {
+  "cfm:recipes/decorations/stripped_spruce_upgraded_gate": {
     "criteria": {
-      "has_lapis_lazuli": "2025-07-11 03:27:47 +0000"
+      "has_gate": "2025-07-11 02:56:35 +0000"
     },
     "done": true
   },
@@ -8333,12 +8333,6 @@
   "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-07-11 02:56:35 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/fermentation_barrel": {
-    "criteria": {
-      "has_barrel": "2025-07-11 03:06:59 +0000"
     },
     "done": true
   },
@@ -8402,12 +8396,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/blue_dye": {
-    "criteria": {
-      "has_lapis_lazuli": "2025-07-11 03:27:47 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_acacia_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-07-11 02:56:35 +0000"
@@ -8420,12 +8408,6 @@
     },
     "done": true
   },
-  "dungeons_enhanced:seven_world_wonders": {
-    "criteria": {
-      "entered_deep_crypt": "2025-07-11 03:20:57 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/decorations/red_picket_gate": {
     "criteria": {
       "has_gate": "2025-07-11 02:56:35 +0000"
@@ -8435,12 +8417,6 @@
   "cfm:recipes/decorations/yellow_picket_gate": {
     "criteria": {
       "has_gate": "2025-07-11 02:56:35 +0000"
-    },
-    "done": true
-  },
-  "brewery:recipes/barrel_main": {
-    "criteria": {
-      "has_barrel": "2025-07-11 03:06:59 +0000"
     },
     "done": true
   },
@@ -8480,12 +8456,6 @@
     },
     "done": true
   },
-  "nordic_structures:tyfingroathswearadvancement": {
-    "criteria": {
-      "tyfingroathswearadvancement_0": "2025-07-11 03:23:24 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_jungle_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-07-11 02:56:35 +0000"
@@ -8498,12 +8468,6 @@
     },
     "done": true
   },
-  "tombstone:adventure/discreet_search": {
-    "criteria": {
-      "coded_trigger": "2025-07-11 02:55:10 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/magenta_picket_gate": {
     "criteria": {
       "has_gate": "2025-07-11 02:56:35 +0000"
@@ -8513,6 +8477,60 @@
   "cfm:recipes/decorations/lime_picket_gate": {
     "criteria": {
       "has_gate": "2025-07-11 02:56:35 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2025-07-11 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/barrel_main": {
+    "criteria": {
+      "has_barrel": "2025-07-11 03:06:59 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_deep_crypt": "2025-07-11 03:20:57 +0000"
+    },
+    "done": false
+  },
+  "nordic_structures:tyfingroathswearadvancement": {
+    "criteria": {
+      "tyfingroathswearadvancement_0": "2025-07-11 03:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-11 03:27:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-07-11 03:27:47 +0000"
+    },
+    "done": true
+  },
+  "mynethersdelight:recipes/cooking/hotcream": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-11 04:27:37 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/building_blocks/obsidian_from_bucket_freezing": {
+    "criteria": {
+      "has_lava_bucket": "2025-07-11 04:27:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-07-11 04:27:37 +0000"
     },
     "done": true
   },

@@ -8033,5 +8033,11 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:adventure/void_blossom_defeat": {
+    "criteria": {
+      "bosses_of_mass_destruction:void_blossom": "2025-07-11 04:29:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

@@ -9236,3 +9236,74 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [11Jul2025 04:23:04.917] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of funado69 to connected: {disabled=false, disconnected=false, uuid=b77ce13a-173f-3536-8169-0fe2ff9276ec, name=funado69, group=null}
 [11Jul2025 04:23:04.917] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) successfully connected to voice chat
 [11Jul2025 04:23:05.064] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of funado69: {disabled=false, disconnected=false, uuid=b77ce13a-173f-3536-8169-0fe2ff9276ec, name=funado69, group=null}
+[11Jul2025 04:23:24.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by Void Blossom
+[11Jul2025 04:23:24.892] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kira_R was created at position [x:1284, y:-59, z:352, dim:minecraft:overworld]
+[11Jul2025 04:23:24.933] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[11Jul2025 04:23:46.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to Chantikook]
+[11Jul2025 04:23:50.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[11Jul2025 04:23:51.725] [Server thread/DEBUG] [twilightforest/]: Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) respawned and received items held in storage
+[11Jul2025 04:24:56.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to Kira_R]
+[11Jul2025 04:24:57.110] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 04:24:57.137] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 04:24:57.690] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=855, y=74, z=-643}
+[11Jul2025 04:25:11.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by Void Blossom
+[11Jul2025 04:25:11.346] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kira_R was created at position [x:1294, y:-59, z:352, dim:minecraft:overworld]
+[11Jul2025 04:25:11.369] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[11Jul2025 04:25:12.767] [Server thread/DEBUG] [twilightforest/]: Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) respawned and received items held in storage
+[11Jul2025 04:25:15.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[11Jul2025 04:25:21.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was slain by Void Blossom
+[11Jul2025 04:25:22.064] [Server thread/DEBUG] [tombstone/]: A new grave of the player lucyyxd was created at position [x:1296, y:-58, z:352, dim:minecraft:overworld]
+[11Jul2025 04:25:22.093] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[11Jul2025 04:25:22.797] [Server thread/DEBUG] [twilightforest/]: Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) respawned and received items held in storage
+[11Jul2025 04:25:43.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to Chantikook]
+[11Jul2025 04:25:44.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to Kira_R]
+[11Jul2025 04:25:45.395] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=855, y=74, z=-643}
+[11Jul2025 04:26:16.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Void Blossom
+[11Jul2025 04:26:16.541] [Server thread/DEBUG] [tombstone/]: A new grave of the player Chantikook was created at position [x:1304, y:-56, z:379, dim:minecraft:overworld]
+[11Jul2025 04:26:16.568] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 04:26:18.466] [Server thread/DEBUG] [twilightforest/]: Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) respawned and received items held in storage
+[11Jul2025 04:26:27.456] [Server thread/DEBUG] [mixin/]: Mixing gameplay.CooldownInstanceAccessor from the_bumblezone-common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[11Jul2025 04:26:47.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was pummeled by Void Blossom
+[11Jul2025 04:26:47.757] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kira_R was created at position [x:1264, y:-59, z:381, dim:minecraft:overworld]
+[11Jul2025 04:26:47.761] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[11Jul2025 04:26:50.653] [Server thread/DEBUG] [twilightforest/]: Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) respawned and received items held in storage
+[11Jul2025 04:26:58.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to Chantikook]
+[11Jul2025 04:27:09.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Void Blossom
+[11Jul2025 04:27:09.643] [Server thread/DEBUG] [tombstone/]: A new grave of the player Chantikook was created at position [x:1306, y:-56, z:379, dim:minecraft:overworld]
+[11Jul2025 04:27:09.668] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 04:27:10.907] [Server thread/DEBUG] [twilightforest/]: Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) respawned and received items held in storage
+[11Jul2025 04:27:37.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was pummeled by Void Blossom
+[11Jul2025 04:27:37.560] [Server thread/DEBUG] [tombstone/]: A new grave of the player Chantikook was created at position [x:1306, y:-56, z:379, dim:minecraft:overworld]
+[11Jul2025 04:27:37.566] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 04:27:37.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [Hot Stuff]
+[11Jul2025 04:27:39.398] [Server thread/DEBUG] [twilightforest/]: Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) respawned and received items held in storage
+[11Jul2025 04:28:07.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd was killed trying to hurt Void Blossom
+[11Jul2025 04:28:08.251] [Server thread/DEBUG] [tombstone/]: A new grave of the player lucyyxd was created at position [x:1280, y:-59, z:371, dim:minecraft:overworld]
+[11Jul2025 04:28:08.273] [Server thread/INFO] [tombstone/]: The player lucyyxd has successfully been saved
+[11Jul2025 04:28:09.399] [Server thread/DEBUG] [twilightforest/]: Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) respawned and received items held in storage
+[11Jul2025 04:28:22.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by Void Blossom
+[11Jul2025 04:28:22.042] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kira_R was created at position [x:1308, y:-56, z:369, dim:minecraft:overworld]
+[11Jul2025 04:28:22.068] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[11Jul2025 04:28:24.589] [Server thread/DEBUG] [twilightforest/]: Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) respawned and received items held in storage
+[11Jul2025 04:28:33.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to Chantikook]
+[11Jul2025 04:28:42.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was pummeled by Void Blossom
+[11Jul2025 04:28:42.406] [Server thread/DEBUG] [tombstone/]: A new grave of the player Chantikook was created at position [x:1272, y:-59, z:380, dim:minecraft:overworld]
+[11Jul2025 04:28:42.410] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 04:28:43.959] [Server thread/DEBUG] [twilightforest/]: Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) respawned and received items held in storage
+[11Jul2025 04:29:33.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Extreme Weeding]
+[11Jul2025 04:29:52.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[11Jul2025 04:29:56.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 04:29:57.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 04:30:20.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was killed by magic whilst trying to escape funado69
+[11Jul2025 04:30:20.622] [Server thread/DEBUG] [tombstone/]: A new grave of the player Chantikook was created at position [x:1269, y:-59, z:374, dim:minecraft:overworld]
+[11Jul2025 04:30:20.626] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 04:30:22.106] [Server thread/DEBUG] [twilightforest/]: Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) respawned and received items held in storage
+[11Jul2025 04:31:15.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[11Jul2025 04:31:36.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[11Jul2025 04:31:49.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was shot by funado69
+[11Jul2025 04:31:49.114] [Server thread/DEBUG] [tombstone/]: A new grave of the player Chantikook was created at position [x:1293, y:-59, z:385, dim:minecraft:overworld]
+[11Jul2025 04:31:49.126] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 04:31:53.081] [Server thread/DEBUG] [twilightforest/]: Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) respawned and received items held in storage
+[11Jul2025 04:31:57.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[11Jul2025 04:32:24.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[11Jul2025 04:32:48.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Diamonds!]

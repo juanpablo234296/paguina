@@ -8112,6 +8112,114 @@
     },
     "done": true
   },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-07-11 02:32:59 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_planks": {
+    "criteria": {
+      "has_the_recipe": "2025-07-11 02:40:43 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/stick": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_railing": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_button": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_stairs": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_fence": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_slab": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/shutter_block": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_trapdoor": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_barn_door": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/chair": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/table": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/cheese_rack": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_barn_trapdoor": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_fence_gate": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_pressure_plate": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/pine_door": {
+    "criteria": {
+      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_table": {
     "criteria": {
       "has_spruce_planks": "2025-07-11 02:46:26 +0000"
@@ -8136,12 +8244,6 @@
     },
     "done": true
   },
-  "meadow:recipes/stick": {
-    "criteria": {
-      "has_pine_planks": "2025-07-11 02:40:44 +0000"
-    },
-    "done": true
-  },
   "vinery:recipes/spruce_wine_rack_big": {
     "criteria": {
       "has_spruce_planks": "2025-07-11 02:46:26 +0000"
@@ -8154,27 +8256,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-07-11 03:29:50 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
-    "criteria": {
-      "has_glow_berries": "2025-07-11 02:59:42 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_kitchen_storage_cabinet": {
     "criteria": {
       "has_spruce_planks": "2025-07-11 02:46:26 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/pine_railing": {
-    "criteria": {
-      "has_pine_planks": "2025-07-11 02:40:44 +0000"
     },
     "done": true
   },
@@ -8196,21 +8280,9 @@
     },
     "done": true
   },
-  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-11 03:31:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-07-11 02:46:26 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-07-11 02:59:42 +0000"
     },
     "done": true
   },
@@ -8232,12 +8304,6 @@
     },
     "done": true
   },
-  "meadow:recipes/pine_button": {
-    "criteria": {
-      "has_pine_planks": "2025-07-11 02:40:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-11 02:46:26 +0000"
@@ -8250,57 +8316,9 @@
     },
     "done": true
   },
-  "meadow:recipes/pine_stairs": {
-    "criteria": {
-      "has_pine_planks": "2025-07-11 02:40:44 +0000"
-    },
-    "done": true
-  },
-  "some_assembly_required:recipes/decorations/crafting_shaped/sandwiching_station": {
-    "criteria": {
-      "has_smooth_stone": "2025-07-11 03:13:12 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/spruce_park_bench": {
     "criteria": {
       "has_planks": "2025-07-11 02:46:26 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/pine_planks": {
-    "criteria": {
-      "has_the_recipe": "2025-07-11 02:40:43 +0000"
-    },
-    "done": true
-  },
-  "naturalist:recipes/naturalist/glow_goop": {
-    "criteria": {
-      "has_glow_berries": "2025-07-11 02:59:42 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/horse_feed": {
-    "criteria": {
-      "has_golden_carrot": "2025-07-11 02:50:45 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/cake_stand": {
-    "criteria": {
-      "has_brick": "2025-07-11 02:54:13 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/pine_fence": {
-    "criteria": {
-      "has_pine_planks": "2025-07-11 02:40:44 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/pine_slab": {
-    "criteria": {
-      "has_pine_planks": "2025-07-11 02:40:44 +0000"
     },
     "done": true
   },
@@ -8310,39 +8328,9 @@
     },
     "done": true
   },
-  "vinery:recipes/flower_pot": {
-    "criteria": {
-      "has_brick": "2025-07-11 02:54:13 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/shutter_block": {
-    "criteria": {
-      "has_pine_planks": "2025-07-11 02:40:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-07-11 02:46:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bricks": {
-    "criteria": {
-      "has_brick": "2025-07-11 02:54:13 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/pine_trapdoor": {
-    "criteria": {
-      "has_pine_planks": "2025-07-11 02:40:44 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/frying/glow_berry_jam": {
-    "criteria": {
-      "has_ingredient": "2025-07-11 02:59:42 +0000"
     },
     "done": true
   },
@@ -8352,39 +8340,9 @@
     },
     "done": true
   },
-  "meadow:recipes/pine_barn_door": {
-    "criteria": {
-      "has_pine_planks": "2025-07-11 02:40:44 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:recipes/misc/soul_silk": {
-    "criteria": {
-      "has_soul_cloth": "2025-07-11 03:09:54 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/spruce_crate": {
     "criteria": {
       "has_planks": "2025-07-11 02:46:26 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/chair": {
-    "criteria": {
-      "has_pine_planks": "2025-07-11 02:40:44 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/decorations/skillet": {
-    "criteria": {
-      "has_brick": "2025-07-11 02:54:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-11 03:31:20 +0000"
     },
     "done": true
   },
@@ -8394,63 +8352,15 @@
     },
     "done": true
   },
-  "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-11 03:31:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-07-11 02:54:13 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
     "criteria": {
       "has_spruce_planks": "2025-07-11 02:46:26 +0000"
     },
     "done": true
   },
-  "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-11 03:31:20 +0000"
-    },
-    "done": true
-  },
-  "ribbits:recipes/mossy_oak_planks_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-11 03:31:20 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/baking_station": {
-    "criteria": {
-      "has_brick": "2025-07-11 02:54:13 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/spruce_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-07-11 02:46:26 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/table": {
-    "criteria": {
-      "has_pine_planks": "2025-07-11 02:40:44 +0000"
-    },
-    "done": true
-  },
-  "nordic_structures:tyfingroathswearadvancement": {
-    "criteria": {
-      "tyfingroathswearadvancement_0": "2025-07-11 03:25:36 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/cheese_rack": {
-    "criteria": {
-      "has_pine_planks": "2025-07-11 02:40:44 +0000"
     },
     "done": true
   },
@@ -8496,36 +8406,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-07-11 03:31:20 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/pine_barn_trapdoor": {
-    "criteria": {
-      "has_pine_planks": "2025-07-11 02:40:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/flower_pot": {
-    "criteria": {
-      "has_brick": "2025-07-11 02:54:13 +0000"
-    },
-    "done": true
-  },
-  "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-11 03:31:20 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/pine_fence_gate": {
-    "criteria": {
-      "has_pine_planks": "2025-07-11 02:40:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-07-11 02:46:26 +0000"
@@ -8538,15 +8418,147 @@
     },
     "done": true
   },
-  "meadow:recipes/pine_pressure_plate": {
+  "cfm:recipes/decorations/spruce_table": {
     "criteria": {
-      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+      "has_planks": "2025-07-11 02:46:26 +0000"
     },
     "done": true
   },
-  "meadow:recipes/pine_door": {
+  "farmersdelight:recipes/food/horse_feed": {
     "criteria": {
-      "has_pine_planks": "2025-07-11 02:40:44 +0000"
+      "has_golden_carrot": "2025-07-11 02:50:45 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_stand": {
+    "criteria": {
+      "has_brick": "2025-07-11 02:54:13 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-07-11 02:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-07-11 02:54:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-07-11 02:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-07-11 02:54:13 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/baking_station": {
+    "criteria": {
+      "has_brick": "2025-07-11 02:54:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-07-11 02:54:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2025-07-11 02:59:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-11 02:59:42 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-07-11 02:59:42 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-07-11 02:59:42 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/soul_silk": {
+    "criteria": {
+      "has_soul_cloth": "2025-07-11 03:09:54 +0000"
+    },
+    "done": true
+  },
+  "some_assembly_required:recipes/decorations/crafting_shaped/sandwiching_station": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-11 03:13:12 +0000"
+    },
+    "done": true
+  },
+  "nordic_structures:tyfingroathswearadvancement": {
+    "criteria": {
+      "tyfingroathswearadvancement_0": "2025-07-11 03:25:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-07-11 03:29:50 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_slab_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-11 03:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-11 03:31:20 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_gate_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-11 03:31:20 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_fence_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-11 03:31:20 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-11 03:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-07-11 03:31:20 +0000"
+    },
+    "done": true
+  },
+  "ribbits:recipes/mossy_oak_planks_stairs_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-11 03:31:20 +0000"
     },
     "done": true
   },
@@ -8556,17 +8568,77 @@
     },
     "done": true
   },
-  "dungeons_arise:find_monasteries": {
+  "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "location0": "2025-07-11 02:32:59 +0000"
+      "log_spam_fixer": "2025-07-11 04:29:56 +0000"
     },
-    "done": true
+    "done": false
   },
-  "cfm:recipes/decorations/spruce_table": {
+  "incendium:technical/on_player_hurt": {
     "criteria": {
-      "has_planks": "2025-07-11 02:46:26 +0000"
+      "log_spam_fixer": "2025-07-11 04:29:56 +0000"
     },
-    "done": true
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 04:29:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 04:29:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 04:29:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 04:29:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 04:29:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 04:29:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 04:29:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 04:29:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 04:29:56 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 04:29:56 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
