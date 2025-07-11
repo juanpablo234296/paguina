@@ -9657,3 +9657,183 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [11Jul2025 04:51:59.188] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
 [11Jul2025 04:52:01.620] [Server thread/DEBUG] [twilightforest/]: Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) respawned and received items held in storage
 [11Jul2025 04:52:02.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[11Jul2025 04:55:01.019] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 04:55:01.043] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 04:55:07.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [The Wind Darkening]
+[11Jul2025 04:55:50.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[11Jul2025 04:56:14.605] [Worker-Main-2/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[11Jul2025 04:56:14.605] [Worker-Main-2/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[11Jul2025 04:56:15.462] [Worker-Main-18/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (646 | -11 | 513)
+[11Jul2025 04:56:15.473] [Worker-Main-18/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/room with rotation COUNTERCLOCKWISE_90 at (646 | -11 | 513)
+[11Jul2025 04:56:21.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Wait those were just babies??]
+[11Jul2025 04:56:28.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by Adult Endermite
+[11Jul2025 04:56:28.269] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kira_R was created at position [x:976, y:-21, z:467, dim:minecraft:overworld]
+[11Jul2025 04:56:28.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [That's not creepy at all....]
+[11Jul2025 04:56:28.283] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[11Jul2025 04:56:47.050] [Server thread/DEBUG] [twilightforest/]: Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) respawned and received items held in storage
+[11Jul2025 04:57:10.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[11Jul2025 04:57:12.819] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=186, y=67, z=-108}
+[11Jul2025 04:57:15.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[11Jul2025 04:57:35.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [The Most Useful Key]
+[11Jul2025 04:57:46.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has reached the goal [A Fast Comeback]
+[11Jul2025 04:57:46.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[11Jul2025 04:58:54.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[11Jul2025 04:58:57.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[11Jul2025 04:59:30.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 moved too quickly! 7.3020698750144675,0.0,7.311289353551047
+[11Jul2025 04:59:30.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3121ms or 62 ticks behind
+[11Jul2025 04:59:48.265] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (1732 | 37 | 564).
+[11Jul2025 04:59:48.267] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[11Jul2025 04:59:48.270] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 4(0) Nodes and 3(0) Rooms
+[11Jul2025 04:59:48.270] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[11Jul2025 04:59:48.270] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 6(0) Rooms
+[11Jul2025 04:59:48.270] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[11Jul2025 04:59:48.270] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 8(3) Nodes and 4(0) Rooms
+[11Jul2025 04:59:48.270] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[11Jul2025 04:59:48.271] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 11(1) Nodes and 5(0) Rooms
+[11Jul2025 04:59:48.271] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[11Jul2025 04:59:48.271] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 11(0) Nodes and 5(0) Rooms
+[11Jul2025 04:59:49.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[11Jul2025 04:59:55.735] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[11Jul2025 04:59:55.736] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[11Jul2025 04:59:55.736] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[11Jul2025 05:00:02.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Deceived Hopes]
+[11Jul2025 05:00:07.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2775ms or 55 ticks behind
+[11Jul2025 05:00:09.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 05:00:09.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 05:00:15.259] [Worker-Main-10/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[11Jul2025 05:00:15.260] [Worker-Main-10/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[11Jul2025 05:00:15.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Diamond Termite
+[11Jul2025 05:00:15.635] [Server thread/DEBUG] [tombstone/]: A new grave of the player Chantikook was created at position [x:1252, y:-19, z:286, dim:minecraft:overworld]
+[11Jul2025 05:00:15.646] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 05:00:17.220] [Server thread/DEBUG] [twilightforest/]: Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) respawned and received items held in storage
+[11Jul2025 05:00:23.627] [Worker-Main-18/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[11Jul2025 05:00:23.628] [Worker-Main-18/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[11Jul2025 05:00:23.628] [Worker-Main-18/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[11Jul2025 05:00:23.628] [Worker-Main-18/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[11Jul2025 05:00:23.934] [Worker-Main-18/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[11Jul2025 05:00:25.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2913ms or 58 ticks behind
+[11Jul2025 05:00:27.661] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/wall with rotation COUNTERCLOCKWISE_90 at (1758 | 10 | 591)
+[11Jul2025 05:00:27.662] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/wall with rotation COUNTERCLOCKWISE_90 at (1758 | 10 | 591)
+[11Jul2025 05:00:27.662] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/wall at (1758 | 10 | 591)
+[11Jul2025 05:00:27.663] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/wall at (1758 | 10 | 591)
+[11Jul2025 05:00:27.663] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (1751 | 10 | 588)
+[11Jul2025 05:00:27.663] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation COUNTERCLOCKWISE_90 at (1751 | 10 | 588)
+[11Jul2025 05:00:27.668] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (1751 | 10 | 588)
+[11Jul2025 05:00:27.668] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (1751 | 10 | 588)
+[11Jul2025 05:00:27.669] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (1746 | 10 | 587)
+[11Jul2025 05:00:27.669] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (1746 | 10 | 587)
+[11Jul2025 05:00:27.669] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (1746 | 10 | 587)
+[11Jul2025 05:00:27.669] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (1746 | 10 | 587)
+[11Jul2025 05:00:28.265] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_180 at (1752 | 15 | 593)
+[11Jul2025 05:00:28.266] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/node/ceiling/dome with rotation CLOCKWISE_180 at (1752 | 15 | 593)
+[11Jul2025 05:00:28.267] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (1752 | 15 | 593)
+[11Jul2025 05:00:28.267] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/node/ceiling/dome at (1752 | 15 | 593)
+[11Jul2025 05:00:28.267] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (1757 | 10 | 599)
+[11Jul2025 05:00:28.270] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (1757 | 10 | 599)
+[11Jul2025 05:00:28.270] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (1757 | 10 | 599)
+[11Jul2025 05:00:28.270] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (1757 | 10 | 599)
+[11Jul2025 05:00:28.271] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/large_wall with rotation CLOCKWISE_90 at (1752 | 10 | 599)
+[11Jul2025 05:00:28.271] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/large_wall with rotation CLOCKWISE_90 at (1752 | 10 | 599)
+[11Jul2025 05:00:28.271] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/large_wall at (1752 | 10 | 599)
+[11Jul2025 05:00:28.271] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/large_wall at (1752 | 10 | 599)
+[11Jul2025 05:00:28.271] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (1747 | 10 | 592)
+[11Jul2025 05:00:28.271] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/crypt_graves with rotation CLOCKWISE_180 at (1747 | 10 | 592)
+[11Jul2025 05:00:28.273] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (1747 | 10 | 592)
+[11Jul2025 05:00:28.273] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/crypt_graves at (1747 | 10 | 592)
+[11Jul2025 05:00:28.274] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (1746 | 10 | 587)
+[11Jul2025 05:00:28.275] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (1746 | 10 | 587)
+[11Jul2025 05:00:28.275] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (1746 | 10 | 587)
+[11Jul2025 05:00:28.276] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (1746 | 10 | 587)
+[11Jul2025 05:00:28.978] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (1759 | 28 | 672)
+[11Jul2025 05:00:28.978] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (1759 | 28 | 672)
+[11Jul2025 05:00:32.026] [Worker-Main-3/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fishing_rod",tag:{Damage:0,Inventory:{Items:[{Count:1b,Slot:1,id:"aquaculture:worm",tag:{Damage:0}},{Count:1b,Slot:2,id:"aquaculture:fishing_line"},{Count:1b,Slot:3,id:"aquaculture:bobber"}],Size:4}}}
+[11Jul2025 05:00:32.027] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:oak_fish_mount
+[11Jul2025 05:00:32.027] [Worker-Main-3/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[11Jul2025 05:00:32.027] [Worker-Main-3/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:fish_fillet_raw"}
+[11Jul2025 05:00:32.028] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[11Jul2025 05:00:32.646] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[11Jul2025 05:00:37.319] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/room/spawner_room with rotation NONE at (1759 | 28 | 672)
+[11Jul2025 05:00:37.320] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/room/spawner_room with rotation NONE at (1759 | 28 | 672)
+[11Jul2025 05:00:37.321] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (1768 | 28 | 673)
+[11Jul2025 05:00:37.321] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (1768 | 28 | 673)
+[11Jul2025 05:00:37.321] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation NONE at (1773 | 28 | 668)
+[11Jul2025 05:00:37.321] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation NONE at (1773 | 28 | 668)
+[11Jul2025 05:00:37.333] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/fireplace with rotation NONE at (1773 | 28 | 668)
+[11Jul2025 05:00:37.333] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/fireplace with rotation NONE at (1773 | 28 | 668)
+[11Jul2025 05:00:38.125] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_180 at (1773 | 37 | 596)
+[11Jul2025 05:00:38.125] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_180 at (1773 | 37 | 596)
+[11Jul2025 05:00:38.125] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (1757 | 10 | 599)
+[11Jul2025 05:00:38.127] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/multipart/large_spawner_cell_open with rotation CLOCKWISE_90 at (1757 | 10 | 599)
+[11Jul2025 05:00:38.127] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (1757 | 10 | 599)
+[11Jul2025 05:00:38.127] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/multipart/large_spawner_cell_open at (1757 | 10 | 599)
+[11Jul2025 05:00:38.127] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (1763 | 10 | 592)
+[11Jul2025 05:00:38.128] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (1763 | 10 | 592)
+[11Jul2025 05:00:38.128] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (1763 | 10 | 592)
+[11Jul2025 05:00:38.128] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (1763 | 10 | 592)
+[11Jul2025 05:00:38.128] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (1746 | 10 | 587)
+[11Jul2025 05:00:38.128] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (1746 | 10 | 587)
+[11Jul2025 05:00:38.128] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (1746 | 10 | 587)
+[11Jul2025 05:00:38.129] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (1746 | 10 | 587)
+[11Jul2025 05:00:38.129] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (1773 | 10 | 593)
+[11Jul2025 05:00:38.129] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/short_node_connector with rotation CLOCKWISE_180 at (1773 | 10 | 593)
+[11Jul2025 05:00:38.129] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (1773 | 10 | 593)
+[11Jul2025 05:00:38.129] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/short_node_connector at (1773 | 10 | 593)
+[11Jul2025 05:00:38.129] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (1768 | 10 | 593)
+[11Jul2025 05:00:38.129] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_4 with rotation NONE at (1768 | 10 | 593)
+[11Jul2025 05:00:38.129] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (1768 | 10 | 593)
+[11Jul2025 05:00:38.130] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_4 at (1768 | 10 | 593)
+[11Jul2025 05:00:38.130] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (1774 | 10 | 588)
+[11Jul2025 05:00:38.130] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (1774 | 10 | 588)
+[11Jul2025 05:00:38.130] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (1774 | 10 | 588)
+[11Jul2025 05:00:38.131] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (1774 | 10 | 588)
+[11Jul2025 05:00:38.131] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation COUNTERCLOCKWISE_90 at (1773 | 1 | 605)
+[11Jul2025 05:00:38.131] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation COUNTERCLOCKWISE_90 at (1773 | 1 | 605)
+[11Jul2025 05:00:38.136] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/multipart/wall with rotation COUNTERCLOCKWISE_90 at (1758 | 10 | 591)
+[11Jul2025 05:00:38.136] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/multipart/wall with rotation COUNTERCLOCKWISE_90 at (1758 | 10 | 591)
+[11Jul2025 05:00:38.136] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/wall at (1758 | 10 | 591)
+[11Jul2025 05:00:38.136] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/multipart/wall at (1758 | 10 | 591)
+[11Jul2025 05:00:38.136] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (1746 | 10 | 587)
+[11Jul2025 05:00:38.136] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/crypt_dead_end with rotation CLOCKWISE_180 at (1746 | 10 | 587)
+[11Jul2025 05:00:38.136] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (1746 | 10 | 587)
+[11Jul2025 05:00:38.136] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/crypt_dead_end at (1746 | 10 | 587)
+[11Jul2025 05:00:38.136] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_fork with rotation CLOCKWISE_180 at (1773 | 9 | 560)
+[11Jul2025 05:00:38.137] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_fork with rotation CLOCKWISE_180 at (1773 | 9 | 560)
+[11Jul2025 05:00:38.137] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_fork at (1773 | 9 | 560)
+[11Jul2025 05:00:38.137] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_fork at (1773 | 9 | 560)
+[11Jul2025 05:00:38.137] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (1774 | 10 | 588)
+[11Jul2025 05:00:38.137] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sarcophagus with rotation CLOCKWISE_180 at (1774 | 10 | 588)
+[11Jul2025 05:00:38.137] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (1774 | 10 | 588)
+[11Jul2025 05:00:38.138] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sarcophagus at (1774 | 10 | 588)
+[11Jul2025 05:00:38.144] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (1773 | 1 | 632)
+[11Jul2025 05:00:38.147] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (1773 | 1 | 632)
+[11Jul2025 05:00:38.153] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_180 at (1773 | 37 | 596)
+[11Jul2025 05:00:38.153] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/dark_hall with rotation CLOCKWISE_180 at (1773 | 37 | 596)
+[11Jul2025 05:00:38.153] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation COUNTERCLOCKWISE_90 at (1773 | 1 | 605)
+[11Jul2025 05:00:38.154] [Worker-Main-3/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation COUNTERCLOCKWISE_90 at (1773 | 1 | 605)
+[11Jul2025 05:00:38.161] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_fork with rotation CLOCKWISE_180 at (1773 | 9 | 560)
+[11Jul2025 05:00:38.162] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_fork with rotation CLOCKWISE_180 at (1773 | 9 | 560)
+[11Jul2025 05:00:38.162] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_fork at (1773 | 9 | 560)
+[11Jul2025 05:00:38.163] [Worker-Main-2/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_fork at (1773 | 9 | 560)
+[11Jul2025 05:00:39.107] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (1773 | 1 | 632)
+[11Jul2025 05:00:39.108] [Worker-Main-10/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/prison_fork with rotation CLOCKWISE_90 at (1773 | 1 | 632)
+[11Jul2025 05:00:43.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[11Jul2025 05:00:48.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Diamond Termite
+[11Jul2025 05:00:48.977] [Server thread/DEBUG] [tombstone/]: A new grave of the player Chantikook was created at position [x:1253, y:-19, z:286, dim:minecraft:overworld]
+[11Jul2025 05:00:48.982] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 05:00:50.804] [Server thread/DEBUG] [twilightforest/]: Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) respawned and received items held in storage
+[11Jul2025 05:01:01.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3536ms or 70 ticks behind
+[11Jul2025 05:01:21.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5261ms or 105 ticks behind
+[11Jul2025 05:01:42.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6215ms or 124 ticks behind
+[11Jul2025 05:02:02.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4397ms or 87 ticks behind
+[11Jul2025 05:02:22.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4866ms or 97 ticks behind
+[11Jul2025 05:02:42.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5076ms or 101 ticks behind
+[11Jul2025 05:03:00.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3081ms or 61 ticks behind
+[11Jul2025 05:03:02.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[11Jul2025 05:03:21.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5824ms or 116 ticks behind
+[11Jul2025 05:03:43.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7219ms or 144 ticks behind
+[11Jul2025 05:04:03.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5362ms or 107 ticks behind
+[11Jul2025 05:04:12.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by Zombie
+[11Jul2025 05:04:12.925] [Server thread/DEBUG] [tombstone/]: A new grave of the player Kira_R was created at position [x:964, y:-41, z:403, dim:minecraft:overworld]
+[11Jul2025 05:04:12.939] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[11Jul2025 05:04:16.291] [Server thread/DEBUG] [twilightforest/]: Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) respawned and received items held in storage
+[11Jul2025 05:04:20.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind

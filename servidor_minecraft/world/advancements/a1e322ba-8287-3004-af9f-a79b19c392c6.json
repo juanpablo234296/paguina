@@ -8039,5 +8039,35 @@
     },
     "done": true
   },
+  "mofus_better_end_:greater_enderman_kills_enderman_advancement": {
+    "criteria": {
+      "greater_enderman_kills_enderman_advancement_0": "2025-07-11 04:56:28 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/teleport_to_grave": {
+    "criteria": {
+      "coded_trigger": "2025-07-11 04:57:46 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-07-11 04:55:07 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:greater_endermite_advancement": {
+    "criteria": {
+      "greater_endermite_advancement_0": "2025-07-11 04:56:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/enchant_grave_key": {
+    "criteria": {
+      "has_upgraded_grave_key": "2025-07-11 04:57:35 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

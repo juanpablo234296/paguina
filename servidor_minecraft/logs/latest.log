@@ -2278,3 +2278,60 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [11Jul2025 04:51:59.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by funado69
 [11Jul2025 04:51:59.188] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
 [11Jul2025 04:52:02.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[11Jul2025 04:55:07.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [The Wind Darkening]
+[11Jul2025 04:55:50.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[11Jul2025 04:56:14.605] [Worker-Main-2/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[11Jul2025 04:56:14.605] [Worker-Main-2/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[11Jul2025 04:56:21.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Wait those were just babies??]
+[11Jul2025 04:56:28.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by Adult Endermite
+[11Jul2025 04:56:28.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [That's not creepy at all....]
+[11Jul2025 04:56:28.283] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[11Jul2025 04:57:10.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[11Jul2025 04:57:12.819] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=186, y=67, z=-108}
+[11Jul2025 04:57:15.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[11Jul2025 04:57:35.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [The Most Useful Key]
+[11Jul2025 04:57:46.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has reached the goal [A Fast Comeback]
+[11Jul2025 04:57:46.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[11Jul2025 04:58:54.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[11Jul2025 04:58:57.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[11Jul2025 04:59:30.477] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 moved too quickly! 7.3020698750144675,0.0,7.311289353551047
+[11Jul2025 04:59:30.502] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3121ms or 62 ticks behind
+[11Jul2025 04:59:49.883] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[11Jul2025 04:59:55.735] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[11Jul2025 04:59:55.736] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[11Jul2025 04:59:55.736] [Worker-Main-18/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'divine_weaponry:zeus_relay'
+[11Jul2025 05:00:02.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Deceived Hopes]
+[11Jul2025 05:00:07.656] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2775ms or 55 ticks behind
+[11Jul2025 05:00:15.259] [Worker-Main-10/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[11Jul2025 05:00:15.260] [Worker-Main-10/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[11Jul2025 05:00:15.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Diamond Termite
+[11Jul2025 05:00:15.646] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 05:00:23.627] [Worker-Main-18/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[11Jul2025 05:00:23.628] [Worker-Main-18/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[11Jul2025 05:00:23.628] [Worker-Main-18/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[11Jul2025 05:00:23.628] [Worker-Main-18/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[11Jul2025 05:00:23.934] [Worker-Main-18/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[11Jul2025 05:00:25.544] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2913ms or 58 ticks behind
+[11Jul2025 05:00:32.026] [Worker-Main-3/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fishing_rod",tag:{Damage:0,Inventory:{Items:[{Count:1b,Slot:1,id:"aquaculture:worm",tag:{Damage:0}},{Count:1b,Slot:2,id:"aquaculture:fishing_line"},{Count:1b,Slot:3,id:"aquaculture:bobber"}],Size:4}}}
+[11Jul2025 05:00:32.027] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:oak_fish_mount
+[11Jul2025 05:00:32.027] [Worker-Main-3/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[11Jul2025 05:00:32.027] [Worker-Main-3/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:fish_fillet_raw"}
+[11Jul2025 05:00:32.028] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[11Jul2025 05:00:32.646] [Worker-Main-10/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:carp
+[11Jul2025 05:00:43.044] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[11Jul2025 05:00:48.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Diamond Termite
+[11Jul2025 05:00:48.982] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 05:01:01.567] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3536ms or 70 ticks behind
+[11Jul2025 05:01:21.792] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5261ms or 105 ticks behind
+[11Jul2025 05:01:42.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6215ms or 124 ticks behind
+[11Jul2025 05:02:02.378] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4397ms or 87 ticks behind
+[11Jul2025 05:02:22.197] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4866ms or 97 ticks behind
+[11Jul2025 05:02:42.257] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5076ms or 101 ticks behind
+[11Jul2025 05:03:00.312] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3081ms or 61 ticks behind
+[11Jul2025 05:03:02.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[11Jul2025 05:03:21.105] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5824ms or 116 ticks behind
+[11Jul2025 05:03:43.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7219ms or 144 ticks behind
+[11Jul2025 05:04:03.643] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5362ms or 107 ticks behind
+[11Jul2025 05:04:12.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by Zombie
+[11Jul2025 05:04:12.939] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[11Jul2025 05:04:20.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2131ms or 42 ticks behind
