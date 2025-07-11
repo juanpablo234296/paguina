@@ -5064,7 +5064,12 @@
   },
   "twilightforest:arborist": {
     "criteria": {
-      "canopy_leaves": "2025-07-07 22:22:41 +0000"
+      "canopy_leaves": "2025-07-07 22:22:41 +0000",
+      "dark_banister": "2025-07-11 06:04:40 +0000",
+      "twilight_oak_log": "2025-07-11 06:04:48 +0000",
+      "twilight_oak_wood": "2025-07-11 06:06:37 +0000",
+      "liveroot": "2025-07-11 06:03:28 +0000",
+      "twilight_oak_leaves": "2025-07-11 06:07:48 +0000"
     },
     "done": false
   },
@@ -7961,6 +7966,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_planks": {
+    "criteria": {
+      "has_item": "2025-07-11 06:04:48 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/decorations/firefly_particle_spawner": {
     "criteria": {
       "has_jar": "2025-07-11 06:01:02 +0000"
@@ -8000,6 +8011,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-07-11 04:32:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/material/raw_ironwood": {
+    "criteria": {
+      "has_item": "2025-07-11 06:03:28 +0000"
     },
     "done": true
   },
@@ -8078,6 +8095,12 @@
   "farmersdelight:recipes/combat/diamond_knife": {
     "criteria": {
       "has_diamond": "2025-07-11 04:32:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/wood/twilight_oak_wood": {
+    "criteria": {
+      "has_item": "2025-07-11 06:04:48 +0000"
     },
     "done": true
   },
