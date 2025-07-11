@@ -2219,3 +2219,62 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [11Jul2025 04:31:57.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
 [11Jul2025 04:32:24.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
 [11Jul2025 04:32:48.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [Diamonds!]
+[11Jul2025 04:34:29.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[11Jul2025 04:34:41.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[11Jul2025 04:35:55.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to funado69]
+[11Jul2025 04:35:59.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[11Jul2025 04:36:32.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Nightmare Stalker
+[11Jul2025 04:36:32.655] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 04:36:47.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has reached the goal [Fighting Nightmares]
+[11Jul2025 04:37:43.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [The Cutest Predator]
+[11Jul2025 04:37:44.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd has made the advancement [The Cutest Predator]
+[11Jul2025 04:38:00.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[11Jul2025 04:38:33.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[11Jul2025 04:39:23.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was doomed to fall by Restless Spirit
+[11Jul2025 04:39:23.970] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[11Jul2025 04:39:38.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has reached the goal [Big Boy]
+[11Jul2025 04:39:45.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Dread Hound
+[11Jul2025 04:39:45.422] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 04:40:20.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to funado69]
+[11Jul2025 04:40:21.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[11Jul2025 04:40:24.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[11Jul2025 04:41:11.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[11Jul2025 04:41:24.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[11Jul2025 04:41:36.210] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kira_R was kicked for floating too long!
+[11Jul2025 04:41:36.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kira_R lost connection: Disconnected
+[11Jul2025 04:41:36.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R left the game
+[11Jul2025 04:41:36.214] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kira_R
+[11Jul2025 04:41:36.265] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Jul2025 04:42:01.742] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kira_R[/127.241.34.139:45899] logged in with entity id 12788 at (1073.1234644684007, -20.85001016580846, 368.75725912148386)
+[11Jul2025 04:42:01.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R joined the game
+[11Jul2025 04:42:01.819] [Server thread/INFO] [Jade/]: Syncing config to Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6)
+[11Jul2025 04:42:02.135] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kira_R (18)
+[11Jul2025 04:42:02.136] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kira_R
+[11Jul2025 04:42:10.636] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
+[11Jul2025 04:42:12.634] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
+[11Jul2025 04:42:12.635] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
+[11Jul2025 04:42:15.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [The Cutest Predator]
+[11Jul2025 04:43:32.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[11Jul2025 04:44:27.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Kira_R
+[11Jul2025 04:44:28.121] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 04:45:08.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[11Jul2025 04:45:11.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by funado69
+[11Jul2025 04:45:11.579] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[11Jul2025 04:45:15.187] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[11Jul2025 04:45:16.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[11Jul2025 04:45:23.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucyyxd> WWWWE
+[11Jul2025 04:45:26.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <lucyyxd> ET
+[11Jul2025 04:46:23.537] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[11Jul2025 04:48:34.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[11Jul2025 04:49:00.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[11Jul2025 04:49:05.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[11Jul2025 04:49:09.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[11Jul2025 04:49:11.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R fell from a high place
+[11Jul2025 04:49:11.084] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[11Jul2025 04:49:11.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[11Jul2025 04:49:15.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[11Jul2025 04:49:23.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[11Jul2025 04:50:32.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[11Jul2025 04:51:59.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by funado69
+[11Jul2025 04:51:59.188] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[11Jul2025 04:52:02.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
