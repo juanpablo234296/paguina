@@ -2134,3 +2134,41 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [11Jul2025 22:10:43.127] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
 [11Jul2025 22:10:43.130] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
 [11Jul2025 22:28:38.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[11Jul2025 22:40:24.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Successfully filled 1300 block(s)]
+[11Jul2025 22:41:02.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Successfully filled 1281 block(s)]
+[11Jul2025 22:41:15.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Successfully filled 1270 block(s)]
+[11Jul2025 22:41:25.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Successfully filled 1298 block(s)]
+[11Jul2025 22:41:47.141] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kira_R[/127.244.210.29:45187] logged in with entity id 5278 at (854.5446262089336, 69.0, -648.0800322506961)
+[11Jul2025 22:41:47.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R joined the game
+[11Jul2025 22:41:47.180] [Server thread/INFO] [Jade/]: Syncing config to Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6)
+[11Jul2025 22:41:48.794] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kira_R (18)
+[11Jul2025 22:41:48.796] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kira_R
+[11Jul2025 22:41:55.948] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
+[11Jul2025 22:41:56.952] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
+[11Jul2025 22:41:56.952] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
+[11Jul2025 22:43:36.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[11Jul2025 22:43:38.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> holaaaaa
+[11Jul2025 22:43:47.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> pablito valgo vvrga
+[11Jul2025 22:43:52.444] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Hamster['Inumaki'/5302, l='ServerLevel[world]', x=857.76, y=69.00, z=-642.20] died: Inumaki was slain by Kira_R
+[11Jul2025 22:45:53.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> porquew
+[11Jul2025 22:45:57.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> donde tas
+[11Jul2025 22:46:02.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[11Jul2025 22:46:42.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> pablito te doy esmeralda y diamante
+[11Jul2025 22:46:44.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> por tnt
+[11Jul2025 22:46:49.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> y ese flint
+[11Jul2025 22:46:56.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]
+[11Jul2025 22:47:00.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> jalas?
+[11Jul2025 22:47:21.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> me escuchas?
+[11Jul2025 22:47:31.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> espera
+[11Jul2025 22:47:33.022] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[11Jul2025 22:47:33.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[11Jul2025 22:47:33.026] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[11Jul2025 22:48:28.142] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:44337] logged in with entity id 7456 at (784.355273734926, 70.5, -445.1014505599825)
+[11Jul2025 22:48:28.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[11Jul2025 22:48:28.216] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[11Jul2025 22:48:29.696] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[11Jul2025 22:48:29.696] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[11Jul2025 22:48:39.837] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[11Jul2025 22:48:40.834] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[11Jul2025 22:48:40.835] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[11Jul2025 22:48:52.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]
