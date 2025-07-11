@@ -8244,6 +8244,18 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-07-11 02:50:45 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/cake_stand": {
+    "criteria": {
+      "has_brick": "2025-07-11 02:54:13 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/pine_fence": {
     "criteria": {
       "has_pine_planks": "2025-07-11 02:40:44 +0000"
@@ -8262,6 +8274,12 @@
     },
     "done": true
   },
+  "vinery:recipes/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-07-11 02:54:13 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/shutter_block": {
     "criteria": {
       "has_pine_planks": "2025-07-11 02:40:44 +0000"
@@ -8271,6 +8289,12 @@
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-07-11 02:54:13 +0000"
     },
     "done": true
   },
@@ -8304,15 +8328,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-07-11 02:54:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-07-11 02:46:26 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-07-11 02:54:13 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_cutting_board": {
     "criteria": {
       "has_spruce_planks": "2025-07-11 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/baking_station": {
+    "criteria": {
+      "has_brick": "2025-07-11 02:54:13 +0000"
     },
     "done": true
   },
@@ -8379,6 +8421,12 @@
   "meadow:recipes/pine_barn_trapdoor": {
     "criteria": {
       "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-07-11 02:54:13 +0000"
     },
     "done": true
   },

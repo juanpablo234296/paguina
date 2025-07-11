@@ -2355,3 +2355,56 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [11Jul2025 02:50:13.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was shot by Skeleton
 [11Jul2025 02:50:14.040] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
 [11Jul2025 02:50:40.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[11Jul2025 02:50:45.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[11Jul2025 02:50:56.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was spiked to death
+[11Jul2025 02:50:56.941] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 02:51:13.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was spiked to death
+[11Jul2025 02:51:13.087] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 02:51:21.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Creeper
+[11Jul2025 02:51:23.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was blown up by Creeper
+[11Jul2025 02:51:23.991] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 02:51:42.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[11Jul2025 02:51:50.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] dime chanti
+[11Jul2025 02:52:03.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] holaaaaaaaaa
+[11Jul2025 02:52:09.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[11Jul2025 02:52:14.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was spiked to death
+[11Jul2025 02:52:14.689] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 02:52:20.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[11Jul2025 02:52:20.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Creeper
+[11Jul2025 02:52:22.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was blown up by Creeper
+[11Jul2025 02:52:22.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was blown up by Creeper
+[11Jul2025 02:52:22.537] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 02:52:22.540] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 02:52:29.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[11Jul2025 02:52:32.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[11Jul2025 02:52:55.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kicked funado69: Kicked by an operator
+[11Jul2025 02:52:55.118] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: funado69 lost connection: Kicked by an operator
+[11Jul2025 02:52:55.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 left the game
+[11Jul2025 02:52:55.119] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client funado69
+[11Jul2025 02:53:10.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] HAHHAHHHA
+[11Jul2025 02:53:23.085] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: funado69[/127.32.3.107:52233] logged in with entity id 23482 at (1035.1881102828177, -10.0, 204.35879498257975)
+[11Jul2025 02:53:23.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 joined the game
+[11Jul2025 02:53:23.184] [Server thread/INFO] [Jade/]: Syncing config to funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec)
+[11Jul2025 02:53:23.305] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of funado69 (18)
+[11Jul2025 02:53:23.306] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[11Jul2025 02:53:33.854] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[11Jul2025 02:53:34.854] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[11Jul2025 02:53:34.855] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) successfully connected to voice chat
+[11Jul2025 02:53:36.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] dame mi rango mmgv
+[11Jul2025 02:53:46.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was shot by Skeleton
+[11Jul2025 02:53:46.121] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 02:54:05.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[11Jul2025 02:54:21.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was spiked to death
+[11Jul2025 02:54:22.244] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 02:54:31.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was burnt to a crisp whilst fighting Skeleton
+[11Jul2025 02:54:31.273] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 02:54:36.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[11Jul2025 02:55:10.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has reached the goal [Discreet Search]
+[11Jul2025 02:55:32.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was burnt to a crisp whilst fighting Skeleton
+[11Jul2025 02:55:32.756] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 02:58:03.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[11Jul2025 02:59:37.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was spiked to death
+[11Jul2025 02:59:38.229] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 03:00:20.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[11Jul2025 03:01:05.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was shot by Skeleton
+[11Jul2025 03:01:05.516] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
