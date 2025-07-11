@@ -2172,3 +2172,19 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [11Jul2025 22:48:40.834] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
 [11Jul2025 22:48:40.835] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
 [11Jul2025 22:48:52.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]
+[11Jul2025 22:51:40.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[11Jul2025 22:52:38.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> un rato ya vuelvo xd
+[11Jul2025 22:53:13.967] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Chantikook[/127.8.127.102:45535] logged in with entity id 8254 at (6401.300000011921, 6.0, -3568.9308722952096)
+[11Jul2025 22:53:13.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook joined the game
+[11Jul2025 22:53:13.999] [Server thread/INFO] [Jade/]: Syncing config to Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede)
+[11Jul2025 22:53:23.528] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Chantikook (18)
+[11Jul2025 22:53:23.528] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Chantikook
+[11Jul2025 22:53:25.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
+[11Jul2025 22:53:51.586] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[11Jul2025 22:53:52.592] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5c6dabfc-3f2f-38c8-bd9c-458540ad8ede
+[11Jul2025 22:53:52.593] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) successfully connected to voice chat
+[11Jul2025 22:54:09.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]
+[11Jul2025 22:54:21.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
+[11Jul2025 22:57:16.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
+[11Jul2025 22:59:40.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[11Jul2025 22:59:46.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]

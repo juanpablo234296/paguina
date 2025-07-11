@@ -8571,39 +8571,33 @@
     },
     "done": true
   },
-  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
+  "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
-      "has_item": "2025-07-11 05:53:19 +0000"
+      "axolotl_bucket": "2025-07-11 04:37:43 +0000"
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "cfm:recipes/decorations/rock_path": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 06:21:08 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_left": {
-    "criteria": {
-      "has_item": "2025-07-11 06:20:52 +0000"
+      "has_andesite": "2025-07-11 04:46:58 +0000"
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
+  "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-07-11 05:52:53 +0000"
-    },
-    "done": false
-  },
-  "incendium:root": {
-    "criteria": {
-      "requirement": "2025-07-11 05:52:35 +0000"
+      "has_andesite": "2025-07-11 04:46:58 +0000"
     },
     "done": true
   },
-  "twilightforest:recipes/misc/magic_map_focus": {
+  "born_in_chaos_v1:deceived_hopes": {
     "criteria": {
-      "has_berries": "2025-07-11 06:09:12 +0000"
+      "deceived_hopes_0": "2025-07-11 05:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-07-11 05:22:06 +0000"
     },
     "done": true
   },
@@ -8613,9 +8607,39 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "farmersdelight:main/craft_knife": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 06:21:08 +0000"
+      "diamond_knife": "2025-07-11 05:37:15 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-07-11 05:52:35 +0000"
+    },
+    "done": true
+  },
+  "netheroverhaul:bruger_the_burger": {
+    "criteria": {
+      "bruger_the_burger": "2025-07-11 05:52:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-11 05:52:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-11 05:52:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-07-11 05:52:53 +0000"
     },
     "done": false
   },
@@ -8631,155 +8655,17 @@
     },
     "done": true
   },
-  "twilightforest:recipes/decorations/firefly_particle_spawner": {
-    "criteria": {
-      "has_jar": "2025-07-11 06:15:11 +0000"
-    },
-    "done": true
-  },
-  "netherdungeons:recipes/crafting/polished_netherrack": {
-    "criteria": {
-      "has_items": "2025-07-11 05:53:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2025-07-11 05:53:00 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-11 06:21:08 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-07-11 05:53:00 +0000"
     },
     "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-11 06:21:08 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/armor_stand": {
-    "criteria": {
-      "has_stone_slab": "2025-07-11 06:20:35 +0000"
-    },
-    "done": true
-  },
-  "netheroverhaul:bruger_the_burger": {
-    "criteria": {
-      "bruger_the_burger": "2025-07-11 05:52:35 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-11 06:21:08 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/axolotl_in_a_bucket": {
-    "criteria": {
-      "axolotl_bucket": "2025-07-11 04:37:43 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/craft_knife": {
-    "criteria": {
-      "diamond_knife": "2025-07-11 05:37:15 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-11 06:21:08 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-07-11 05:53:19 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:twilight_hunter": {
-    "criteria": {
-      "boar": "2025-07-11 06:03:48 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_etched_nagastone": {
-    "criteria": {
-      "has_item": "2025-07-11 06:20:52 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-11 06:21:08 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_right": {
-    "criteria": {
-      "has_item": "2025-07-11 06:20:52 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-07-11 05:52:35 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-11 06:21:08 +0000"
-    },
-    "done": false
-  },
-  "twilightforest:recipes/building_blocks/nagastone/mossy_etched_nagastone": {
-    "criteria": {
-      "has_item": "2025-07-11 06:20:52 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/rock_path": {
-    "criteria": {
-      "has_andesite": "2025-07-11 04:46:58 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-11 06:21:08 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-11 06:21:08 +0000"
-    },
-    "done": false
-  },
-  "born_in_chaos_v1:deceived_hopes": {
-    "criteria": {
-      "deceived_hopes_0": "2025-07-11 05:00:02 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-11 06:21:08 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
@@ -8793,21 +8679,39 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/andesite_stepping_stones": {
+  "netherdungeons:recipes/crafting/ominous_quartz": {
     "criteria": {
-      "has_andesite": "2025-07-11 04:46:58 +0000"
+      "has_items": "2025-07-11 05:53:00 +0000"
     },
     "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "netherexp:recipes/smooth_netherrack/smooth_netherrack": {
     "criteria": {
-      "log_spam_fixer": "2025-07-11 06:21:08 +0000"
+      "has_item": "2025-07-11 05:53:19 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:nether/root": {
+  "netherdungeons:recipes/crafting/polished_netherrack": {
     "criteria": {
-      "entered_nether": "2025-07-11 05:52:35 +0000"
+      "has_items": "2025-07-11 05:53:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-11 05:53:19 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:twilight_hunter": {
+    "criteria": {
+      "boar": "2025-07-11 06:03:48 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/misc/magic_map_focus": {
+    "criteria": {
+      "has_berries": "2025-07-11 06:09:12 +0000"
     },
     "done": true
   },
@@ -8817,21 +8721,45 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/firefly_particle_spawner": {
+    "criteria": {
+      "has_jar": "2025-07-11 06:15:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2025-07-11 06:20:35 +0000"
+    },
+    "done": true
+  },
   "twilightforest:recipes/building_blocks/nagastone/nagastone_spiral": {
     "criteria": {
       "has_item": "2025-07-11 06:20:35 +0000"
     },
     "done": true
   },
-  "netherdungeons:recipes/crafting/ominous_quartz": {
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_left": {
     "criteria": {
-      "has_items": "2025-07-11 05:53:00 +0000"
+      "has_item": "2025-07-11 06:20:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/raw_iron": {
+  "twilightforest:recipes/building_blocks/nagastone/smelted_cracked_etched_nagastone": {
     "criteria": {
-      "has_raw_iron_block": "2025-07-11 05:22:06 +0000"
+      "has_item": "2025-07-11 06:20:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/nagastone_stairs_right": {
+    "criteria": {
+      "has_item": "2025-07-11 06:20:52 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/building_blocks/nagastone/mossy_etched_nagastone": {
+    "criteria": {
+      "has_item": "2025-07-11 06:20:52 +0000"
     },
     "done": true
   },
