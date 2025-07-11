@@ -117,18 +117,22 @@
       "minecraft:frozen_river": "2025-05-26 01:14:03 +0000",
       "minecraft:birch_forest": "2025-06-30 22:57:18 +0000",
       "minecraft:bamboo_jungle": "2025-07-05 01:33:36 +0000",
+      "minecraft:badlands": "2025-07-11 23:15:07 +0000",
       "minecraft:beach": "2025-05-16 01:23:51 +0000",
       "minecraft:dark_forest": "2025-07-04 21:50:55 +0000",
       "minecraft:sparse_jungle": "2025-07-05 01:33:38 +0000",
       "minecraft:river": "2025-05-16 01:23:53 +0000",
       "minecraft:lukewarm_ocean": "2025-06-30 22:06:39 +0000",
+      "minecraft:snowy_taiga": "2025-07-11 23:24:59 +0000",
       "minecraft:cold_ocean": "2025-05-18 23:24:05 +0000",
       "minecraft:forest": "2025-05-16 01:24:37 +0000",
       "minecraft:lush_caves": "2025-05-26 01:19:01 +0000",
       "minecraft:deep_cold_ocean": "2025-05-18 23:34:16 +0000",
+      "minecraft:desert": "2025-07-11 23:13:35 +0000",
       "minecraft:windswept_forest": "2025-07-05 01:38:42 +0000",
       "minecraft:jungle": "2025-07-05 01:33:15 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-05-26 01:10:08 +0000",
+      "minecraft:snowy_beach": "2025-07-11 23:23:47 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-17 00:36:10 +0000",
       "minecraft:savanna": "2025-05-17 00:39:13 +0000",
       "minecraft:plains": "2025-05-16 01:12:38 +0000"
@@ -655,6 +659,7 @@
       "minecraft:spider": "2025-05-17 00:42:35 +0000",
       "minecraft:creeper": "2025-05-23 00:29:10 +0000",
       "minecraft:witch": "2025-05-18 22:13:25 +0000",
+      "minecraft:husk": "2025-07-11 23:15:46 +0000",
       "minecraft:cave_spider": "2025-05-17 00:38:13 +0000",
       "minecraft:zombie": "2025-05-18 21:57:40 +0000",
       "minecraft:drowned": "2025-07-07 01:22:26 +0000",
@@ -1085,6 +1090,8 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-05-18 21:57:31 +0000",
+      "entered_desert_temple": "2025-07-11 23:13:35 +0000",
+      "entered_castle": "2025-07-11 23:23:47 +0000",
       "entered_ruined_building": "2025-05-17 01:01:54 +0000",
       "entered_witch_tower": "2025-07-04 01:21:07 +0000"
     },
@@ -8656,9 +8663,119 @@
     },
     "done": true
   },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 23:25:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "requirement": "2025-07-11 23:25:47 +0000",
+      "log_spam_fixer": "2025-07-11 23:25:35 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 23:25:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 23:25:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 23:25:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 23:25:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 23:25:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 23:25:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 23:25:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 23:25:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 23:25:35 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-07-11 23:25:35 +0000"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:traps_and_curses": {
+    "criteria": {
+      "entered_desert_temple": "2025-07-11 23:13:35 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/cheese_bread": {
+    "criteria": {
+      "has_bread": "2025-07-11 23:02:46 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2025-07-11 23:02:46 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sandwich": {
+    "criteria": {
+      "has_bread": "2025-07-11 23:02:46 +0000"
+    },
+    "done": true
+  },
   "meadow:recipes/climbing_rope_topmount": {
     "criteria": {
       "has_lead": "2025-07-11 22:49:53 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_desert_temple": "2025-07-11 23:13:35 +0000",
+      "entered_castle": "2025-07-11 23:23:47 +0000"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:wars_and_kingdoms": {
+    "criteria": {
+      "entered_castle": "2025-07-11 23:23:47 +0000"
     },
     "done": true
   },

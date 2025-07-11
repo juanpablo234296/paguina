@@ -118,18 +118,22 @@
       "minecraft:taiga": "2025-07-03 05:27:24 +0000",
       "minecraft:frozen_river": "2025-07-07 22:10:13 +0000",
       "minecraft:birch_forest": "2025-06-30 22:57:18 +0000",
+      "minecraft:badlands": "2025-07-11 23:15:03 +0000",
       "minecraft:beach": "2025-07-03 03:52:39 +0000",
       "minecraft:dark_forest": "2025-07-11 02:34:58 +0000",
       "minecraft:river": "2025-06-30 22:57:11 +0000",
       "minecraft:stony_shore": "2025-07-10 04:48:08 +0000",
       "minecraft:dripstone_caves": "2025-07-10 05:15:49 +0000",
+      "minecraft:snowy_taiga": "2025-07-11 23:24:49 +0000",
       "minecraft:cold_ocean": "2025-07-03 05:35:12 +0000",
       "minecraft:forest": "2025-06-30 22:51:28 +0000",
       "minecraft:lush_caves": "2025-07-11 02:40:24 +0000",
       "minecraft:deep_cold_ocean": "2025-07-03 05:42:04 +0000",
+      "minecraft:desert": "2025-07-11 23:13:53 +0000",
       "minecraft:windswept_forest": "2025-07-11 02:25:20 +0000",
       "minecraft:ocean": "2025-07-11 05:10:12 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-07 22:45:11 +0000",
+      "minecraft:snowy_beach": "2025-07-11 23:24:22 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-05 03:23:03 +0000",
       "minecraft:meadow": "2025-07-10 05:09:31 +0000",
       "minecraft:savanna": "2025-07-03 03:57:39 +0000",
@@ -1263,6 +1267,7 @@
       "minecraft:skeleton": "2025-07-05 02:37:46 +0000",
       "minecraft:spider": "2025-07-04 02:06:33 +0000",
       "minecraft:witch": "2025-07-08 00:03:47 +0000",
+      "minecraft:husk": "2025-07-11 23:16:09 +0000",
       "minecraft:zombie": "2025-07-03 03:45:18 +0000"
     },
     "done": false
@@ -2493,6 +2498,8 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-07-07 22:54:01 +0000",
+      "entered_desert_temple": "2025-07-11 23:13:59 +0000",
+      "entered_castle": "2025-07-11 23:24:44 +0000",
       "entered_ruined_building": "2025-07-03 23:42:11 +0000"
     },
     "done": false
@@ -8760,6 +8767,85 @@
   "twilightforest:recipes/building_blocks/nagastone/mossy_etched_nagastone": {
     "criteria": {
       "has_item": "2025-07-11 06:20:52 +0000"
+    },
+    "done": true
+  },
+  "overweight_farming:recipes/overweight_golden_apple_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-11 23:25:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-11 23:25:08 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:traps_and_curses": {
+    "criteria": {
+      "entered_desert_temple": "2025-07-11 23:13:59 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/leather_boots_repairing": {
+    "criteria": {
+      "has_leather_boots": "2025-07-11 23:18:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-11 23:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-07-11 23:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-11 23:17:00 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_desert_temple": "2025-07-11 23:13:59 +0000",
+      "entered_castle": "2025-07-11 23:24:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab": {
+    "criteria": {
+      "has_cut_sandstone": "2025-07-11 23:17:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/dune_armor_trim_smithing_template": {
+    "criteria": {
+      "has_dune_armor_trim_smithing_template": "2025-07-11 23:17:00 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_boots_repairing": {
+    "criteria": {
+      "has_diamond_boots": "2025-07-11 23:25:04 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-07-11 23:22:02 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:wars_and_kingdoms": {
+    "criteria": {
+      "entered_castle": "2025-07-11 23:24:44 +0000"
     },
     "done": true
   },

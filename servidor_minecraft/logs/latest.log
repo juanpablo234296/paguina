@@ -2188,3 +2188,127 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [11Jul2025 22:57:16.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
 [11Jul2025 22:59:40.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
 [11Jul2025 22:59:46.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[11Jul2025 23:03:26.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the weather to clear]
+[11Jul2025 23:03:41.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
+[11Jul2025 23:04:47.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
+[11Jul2025 23:05:49.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
+[11Jul2025 23:06:59.361] [Worker-Main-86/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[11Jul2025 23:06:59.361] [Worker-Main-86/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[11Jul2025 23:09:45.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: The difficulty has been set to Hard]
+[11Jul2025 23:09:51.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
+[11Jul2025 23:09:51.996] [Worker-Main-87/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[11Jul2025 23:09:51.996] [Worker-Main-87/WARN] [net.minecraft.nbt.NbtUtils/]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[11Jul2025 23:10:01.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the time to 1000]
+[11Jul2025 23:10:55.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
+[11Jul2025 23:11:03.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
+[11Jul2025 23:12:28.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Wild Harvest]
+[11Jul2025 23:13:04.339] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #dungeons_enhanced:on_desert_explorer_maps (dungeons_enhanced:desert_temple) took 1944 ms
+[11Jul2025 23:13:13.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[11Jul2025 23:13:28.208] [Worker-Main-95/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 23:13:28.209] [Worker-Main-95/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 23:13:28.210] [Worker-Main-95/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 23:13:28.212] [Worker-Main-95/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 23:13:28.213] [Worker-Main-95/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 23:13:28.213] [Worker-Main-95/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 23:13:34.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to -415.500000, 70.000000, 1696.500000]
+[11Jul2025 23:13:34.627] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7822ms or 156 ticks behind
+[11Jul2025 23:13:34.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kira_R moved too quickly! 9.349622904148873,-1.0,3.442895875066938
+[11Jul2025 23:13:35.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Traps and Curses]
+[11Jul2025 23:13:53.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
+[11Jul2025 23:13:59.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Traps and Curses]
+[11Jul2025 23:14:15.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[11Jul2025 23:15:38.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
+[11Jul2025 23:15:42.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kira_R moved too quickly! 7.998649095949531,3.0,5.33838762134485
+[11Jul2025 23:15:42.208] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3503ms or 70 ticks behind
+[11Jul2025 23:15:51.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Husk
+[11Jul2025 23:15:51.176] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 23:16:02.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
+[11Jul2025 23:16:13.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Crops of the Wild]
+[11Jul2025 23:16:57.843] [Worker-Main-95/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 23:16:57.844] [Worker-Main-95/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 23:16:57.851] [Worker-Main-95/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 23:16:57.854] [Worker-Main-95/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 23:16:57.859] [Worker-Main-95/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 23:16:57.859] [Worker-Main-95/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 23:16:57.861] [Worker-Main-95/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 23:16:57.863] [Worker-Main-95/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 23:16:57.863] [Worker-Main-95/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 23:16:57.864] [Worker-Main-95/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 23:16:57.869] [Worker-Main-95/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 23:17:28.321] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/21217, l='ServerLevel[world]', x=817.63, y=77.00, z=813.68] died, message: 'Fisherman was slain by Zombie'
+[11Jul2025 23:17:40.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Call For Adventure]
+[11Jul2025 23:17:43.093] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2538ms or 50 ticks behind
+[11Jul2025 23:18:02.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was burnt to a crisp whilst fighting Husk
+[11Jul2025 23:18:02.156] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 23:18:17.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
+[11Jul2025 23:20:20.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Kira_R to pablito]
+[11Jul2025 23:20:20.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Traps and Curses]
+[11Jul2025 23:20:27.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> que fue
+[11Jul2025 23:20:33.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Husk
+[11Jul2025 23:20:33.990] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 23:20:47.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Husk
+[11Jul2025 23:20:48.730] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[11Jul2025 23:20:52.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]
+[11Jul2025 23:21:04.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
+[11Jul2025 23:21:27.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> estoy sin micro jsjs
+[11Jul2025 23:21:31.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> en un rato lo conecto
+[11Jul2025 23:21:44.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> a casita
+[11Jul2025 23:21:49.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> te aviso cuando me hagan tp
+[11Jul2025 23:21:57.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> y entro al canal
+[11Jul2025 23:22:02.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has reached the goal [Bone Crusher]
+[11Jul2025 23:22:03.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Kira_R to pablito]
+[11Jul2025 23:22:09.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Husk
+[11Jul2025 23:22:09.443] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 23:22:09.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
+[11Jul2025 23:23:24.036] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element #dungeons_enhanced:on_castle_explorer_maps (dungeons_enhanced:castle) took 505 ms
+[11Jul2025 23:23:27.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[11Jul2025 23:23:46.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to -1631.500000, 90.000000, 4608.500000]
+[11Jul2025 23:23:46.615] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5160ms or 103 ticks behind
+[11Jul2025 23:23:46.671] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kira_R moved too quickly! 7.948229985389958,0.0,-6.3080577515920595
+[11Jul2025 23:23:46.682] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito moved too quickly! 0.0,-10.806526110008988,0.0
+[11Jul2025 23:23:47.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito has made the advancement [Forgotten Wars and Kingdoms]
+[11Jul2025 23:24:01.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
+[11Jul2025 23:24:07.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[11Jul2025 23:24:44.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Forgotten Wars and Kingdoms]
+[11Jul2025 23:25:10.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[11Jul2025 23:25:10.816] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 23:25:26.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
+[11Jul2025 23:25:49.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[11Jul2025 23:25:49.240] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 23:25:54.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito burned to death
+[11Jul2025 23:25:54.985] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[11Jul2025 23:25:57.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Chantikook to pablito]
+[11Jul2025 23:26:08.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to -1631.500000, 90.000000, 4608.500000]
+[11Jul2025 23:26:12.165] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito was kicked for floating too long!
+[11Jul2025 23:26:12.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Flying is not enabled on this server
+[11Jul2025 23:26:12.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[11Jul2025 23:26:12.222] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[11Jul2025 23:26:36.460] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:37383] logged in with entity id 29200 at (-1633.015176687642, 77.5482064813668, 4606.168492194664)
+[11Jul2025 23:26:36.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[11Jul2025 23:26:36.486] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[11Jul2025 23:26:37.192] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[11Jul2025 23:26:37.193] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[11Jul2025 23:26:46.657] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[11Jul2025 23:26:47.652] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[11Jul2025 23:26:47.653] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[11Jul2025 23:28:03.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[11Jul2025 23:28:03.745] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 23:28:08.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Zombie
+[11Jul2025 23:28:08.426] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[11Jul2025 23:28:12.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[11Jul2025 23:28:12.150] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 23:28:15.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
+[11Jul2025 23:28:28.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[11Jul2025 23:28:28.433] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 23:28:41.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[11Jul2025 23:28:41.597] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 23:28:51.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Zombie
+[11Jul2025 23:28:51.532] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[11Jul2025 23:28:54.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
+[11Jul2025 23:29:14.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Zombie
+[11Jul2025 23:29:15.056] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[11Jul2025 23:29:17.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
+[11Jul2025 23:30:08.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[11Jul2025 23:30:08.595] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 23:30:19.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[11Jul2025 23:30:19.642] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved

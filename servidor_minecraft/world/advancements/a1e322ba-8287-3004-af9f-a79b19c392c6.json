@@ -117,17 +117,21 @@
       "minecraft:bamboo_jungle": "2025-07-05 01:32:05 +0000",
       "minecraft:beach": "2025-07-03 03:34:49 +0000",
       "minecraft:dark_forest": "2025-07-04 21:44:29 +0000",
+      "minecraft:sparse_jungle": "2025-07-11 23:11:12 +0000",
       "minecraft:river": "2025-07-03 02:56:50 +0000",
       "minecraft:lukewarm_ocean": "2025-07-05 01:41:05 +0000",
       "minecraft:dripstone_caves": "2025-07-04 02:18:18 +0000",
+      "minecraft:swamp": "2025-07-11 23:19:11 +0000",
       "minecraft:cold_ocean": "2025-07-03 05:35:32 +0000",
       "minecraft:forest": "2025-07-03 02:43:41 +0000",
       "minecraft:lush_caves": "2025-07-11 02:37:53 +0000",
       "minecraft:deep_cold_ocean": "2025-07-03 05:37:40 +0000",
+      "minecraft:desert": "2025-07-11 23:20:20 +0000",
       "minecraft:windswept_forest": "2025-07-05 01:37:33 +0000",
       "minecraft:jungle": "2025-07-05 01:31:04 +0000",
       "minecraft:ocean": "2025-07-05 01:41:22 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-07-05 01:46:58 +0000",
+      "minecraft:windswept_savanna": "2025-07-11 23:14:01 +0000",
       "minecraft:old_growth_birch_forest": "2025-07-03 02:56:56 +0000",
       "minecraft:savanna": "2025-07-03 03:28:46 +0000",
       "minecraft:plains": "2025-06-30 22:10:52 +0000"
@@ -149,6 +153,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-07-05 01:26:16 +0000",
+      "entered_desert_temple": "2025-07-11 23:20:20 +0000",
       "entered_ruined_building": "2025-07-03 02:26:20 +0000",
       "entered_witch_tower": "2025-07-03 05:27:48 +0000"
     },
@@ -809,6 +814,7 @@
       "minecraft:skeleton": "2025-07-03 05:14:05 +0000",
       "minecraft:spider": "2025-07-03 03:28:36 +0000",
       "minecraft:creeper": "2025-07-08 01:55:30 +0000",
+      "minecraft:husk": "2025-07-11 23:20:39 +0000",
       "minecraft:enderman": "2025-07-04 19:03:07 +0000",
       "minecraft:endermite": "2025-07-04 02:26:29 +0000",
       "minecraft:zombie": "2025-07-03 04:02:45 +0000",
@@ -8102,6 +8108,96 @@
   "born_in_chaos_v1:chaos_knight": {
     "criteria": {
       "chaos_knight_0": "2025-07-11 05:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-07-11 23:04:23 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:traps_and_curses": {
+    "criteria": {
+      "entered_desert_temple": "2025-07-11 23:20:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-07-11 23:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-11 23:04:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-11 23:16:13 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/wild_harvest": {
+    "criteria": {
+      "red_jungle_grape_seeds": "2025-07-11 23:12:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/fish_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-11 23:16:13 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_desert_temple": "2025-07-11 23:20:20 +0000"
+    },
+    "done": false
+  },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_onion": "2025-07-11 23:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-07-11 23:04:23 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/tavern_quest": {
+    "criteria": {
+      "open_tavern_chest": "2025-07-11 23:17:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-07-11 23:04:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-11 23:04:23 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-07-11 23:16:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-07-11 23:16:13 +0000"
     },
     "done": true
   },
