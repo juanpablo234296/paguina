@@ -8129,6 +8129,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-07-11 05:21:33 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/freezing/ice": {
     "criteria": {
       "has_ingredient": "2025-07-11 04:37:36 +0000"
