@@ -2312,3 +2312,80 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [11Jul2025 23:30:08.595] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
 [11Jul2025 23:30:19.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
 [11Jul2025 23:30:19.642] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 23:30:54.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Zombie
+[11Jul2025 23:30:54.520] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[11Jul2025 23:30:57.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
+[11Jul2025 23:31:16.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was burnt to a crisp whilst fighting Skeleton
+[11Jul2025 23:31:16.941] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 23:33:46.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[11Jul2025 23:33:46.095] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 23:34:00.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Zombie
+[11Jul2025 23:34:00.780] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[11Jul2025 23:34:03.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
+[11Jul2025 23:34:11.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[11Jul2025 23:34:11.551] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 23:35:10.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Zombie
+[11Jul2025 23:35:10.426] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[11Jul2025 23:35:13.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
+[11Jul2025 23:36:19.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Zombie
+[11Jul2025 23:36:20.077] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[11Jul2025 23:36:22.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
+[11Jul2025 23:36:24.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was shot by Skeleton
+[11Jul2025 23:36:24.633] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 23:37:03.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was shot by Skeleton
+[11Jul2025 23:37:03.886] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 23:37:16.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Zombie
+[11Jul2025 23:37:16.518] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[11Jul2025 23:37:19.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
+[11Jul2025 23:37:45.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was shot by Skeleton
+[11Jul2025 23:37:45.842] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 23:37:51.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Chompy]
+[11Jul2025 23:39:01.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Kira_R]
+[11Jul2025 23:39:08.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Creative Mode]
+[11Jul2025 23:39:28.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[11Jul2025 23:39:28.141] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 23:39:53.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[11Jul2025 23:39:53.939] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 23:41:19.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[11Jul2025 23:41:19.686] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 23:42:07.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Drowned
+[11Jul2025 23:42:07.288] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 23:42:31.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[11Jul2025 23:42:31.986] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 23:42:46.662] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player a1e322ba-8287-3004-af9f-a79b19c392c6 timed out
+[11Jul2025 23:42:46.662] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Kira_R
+[11Jul2025 23:42:46.663] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Kira_R
+[11Jul2025 23:42:47.291] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
+[11Jul2025 23:42:48.291] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
+[11Jul2025 23:42:48.291] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
+[11Jul2025 23:43:01.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> me escuchas?
+[11Jul2025 23:43:01.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Drowned
+[11Jul2025 23:43:01.739] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 23:43:33.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> discord
+[11Jul2025 23:44:01.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
+[11Jul2025 23:44:19.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[11Jul2025 23:44:19.704] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 23:44:19.834] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set own game mode to Survival Mode]
+[11Jul2025 23:44:57.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
+[11Jul2025 23:45:07.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito burned to death
+[11Jul2025 23:45:08.060] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[11Jul2025 23:45:12.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
+[11Jul2025 23:45:25.854] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: funado69[/127.11.89.251:37025] logged in with entity id 43943 at (854.2759183741014, 111.86907914370462, -643.6075519026705)
+[11Jul2025 23:45:25.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 joined the game
+[11Jul2025 23:45:25.888] [Server thread/INFO] [Jade/]: Syncing config to funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec)
+[11Jul2025 23:45:28.107] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of funado69 (18)
+[11Jul2025 23:45:28.108] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to funado69
+[11Jul2025 23:45:37.718] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[11Jul2025 23:45:38.720] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player b77ce13a-173f-3536-8169-0fe2ff9276ec
+[11Jul2025 23:45:38.720] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) successfully connected to voice chat
+[11Jul2025 23:46:44.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[11Jul2025 23:48:00.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> danny
+[11Jul2025 23:50:02.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was blown up by Kira_R
+[11Jul2025 23:50:02.816] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[11Jul2025 23:50:10.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[11Jul2025 23:50:10.054] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 23:50:14.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito was slain by Zombie
+[11Jul2025 23:50:15.169] [Server thread/INFO] [tombstone/]: The player pablito has successfully been saved
+[11Jul2025 23:50:19.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
+[11Jul2025 23:50:41.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[11Jul2025 23:50:41.576] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
