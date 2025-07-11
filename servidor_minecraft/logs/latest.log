@@ -2410,3 +2410,27 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [11Jul2025 05:30:11.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported lucyyxd to funado69]
 [11Jul2025 05:30:17.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
 [11Jul2025 05:30:25.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[11Jul2025 05:35:30.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[11Jul2025 05:36:05.083] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player a1e322ba-8287-3004-af9f-a79b19c392c6 timed out
+[11Jul2025 05:36:05.083] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player Kira_R
+[11Jul2025 05:36:05.084] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to Kira_R
+[11Jul2025 05:36:10.448] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
+[11Jul2025 05:36:11.446] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
+[11Jul2025 05:36:11.447] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
+[11Jul2025 05:36:14.451] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kira_R lost connection: Disconnected
+[11Jul2025 05:36:14.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R left the game
+[11Jul2025 05:36:14.452] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kira_R
+[11Jul2025 05:36:36.171] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kira_R[/127.241.34.139:36827] logged in with entity id 40526 at (856.2341258166686, 69.0, -646.1088948507512)
+[11Jul2025 05:36:36.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R joined the game
+[11Jul2025 05:36:36.256] [Server thread/INFO] [Jade/]: Syncing config to Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6)
+[11Jul2025 05:36:36.506] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kira_R (18)
+[11Jul2025 05:36:36.506] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kira_R
+[11Jul2025 05:36:44.362] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
+[11Jul2025 05:36:45.371] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
+[11Jul2025 05:36:45.372] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
+[11Jul2025 05:37:09.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [Hunt and Gather]
+[11Jul2025 05:37:15.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [Hunt and Gather]
+[11Jul2025 05:40:37.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to funado69]
+[11Jul2025 05:42:04.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[11Jul2025 05:43:21.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has completed the challenge [Chaos Knight]
+[11Jul2025 05:43:51.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has reached the goal [Earning your Wings]
