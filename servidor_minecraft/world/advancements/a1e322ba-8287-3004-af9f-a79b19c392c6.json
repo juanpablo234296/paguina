@@ -7420,5 +7420,11 @@
     },
     "done": true
   },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sweet_berries": "2025-07-10 06:01:57 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }
