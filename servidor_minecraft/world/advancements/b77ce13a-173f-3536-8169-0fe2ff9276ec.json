@@ -8519,6 +8519,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_boots_repairing": {
+    "criteria": {
+      "has_zanite_boots": "2025-07-11 05:44:01 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:big_boy": {
     "criteria": {
       "big_boy_0": "2025-07-11 04:39:38 +0000"
@@ -8536,6 +8542,18 @@
       "cooked_meef": "2025-07-11 04:37:05 +0000"
     },
     "done": false
+  },
+  "aether:recipes/combat/gravitite_leggings_repairing": {
+    "criteria": {
+      "has_gravitite_leggings": "2025-07-11 05:44:14 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/gravitite_chestplate_repairing": {
+    "criteria": {
+      "has_gravitite_chestplate": "2025-07-11 05:44:15 +0000"
+    },
+    "done": true
   },
   "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
     "criteria": {
@@ -8585,9 +8603,39 @@
     },
     "done": true
   },
+  "aether:valkyrie_loot": {
+    "criteria": {
+      "valkyrie_boots": "2025-07-11 05:43:51 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/naturalist/glow_goop": {
     "criteria": {
       "has_glow_berries": "2025-07-11 04:33:52 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_helmet_repairing": {
+    "criteria": {
+      "has_diamond_helmet": "2025-07-11 05:42:29 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_helmet_repairing": {
+    "criteria": {
+      "has_zanite_helmet": "2025-07-11 05:44:02 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_chestplate_repairing": {
+    "criteria": {
+      "has_zanite_chestplate": "2025-07-11 05:44:05 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/diamond_leggings_repairing": {
+    "criteria": {
+      "has_diamond_leggings": "2025-07-11 05:42:30 +0000"
     },
     "done": true
   },
@@ -8597,11 +8645,31 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_leggings_repairing": {
+    "criteria": {
+      "has_zanite_leggings": "2025-07-11 05:44:04 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-07-11 05:12:22 +0000"
     },
     "done": true
+  },
+  "aether:recipes/combat/gravitite_boots_repairing": {
+    "criteria": {
+      "has_gravitite_boots": "2025-07-11 05:44:13 +0000"
+    },
+    "done": true
+  },
+  "aether:gravitite_armor": {
+    "criteria": {
+      "gravitite_chestplate": "2025-07-11 05:44:15 +0000",
+      "gravitite_leggings": "2025-07-11 05:44:14 +0000",
+      "gravitite_boots": "2025-07-11 05:44:13 +0000"
+    },
+    "done": false
   },
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {

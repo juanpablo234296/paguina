@@ -7811,6 +7811,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_boots_repairing": {
+    "criteria": {
+      "has_zanite_boots": "2025-07-11 05:47:55 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_coffee_table": {
     "criteria": {
       "has_planks": "2025-07-11 05:21:26 +0000"
@@ -8069,6 +8075,12 @@
     },
     "done": true
   },
+  "aether:recipes/combat/zanite_chestplate_repairing": {
+    "criteria": {
+      "has_zanite_chestplate": "2025-07-11 05:47:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-07-11 04:55:22 +0000"
@@ -8144,6 +8156,12 @@
   "cfm:recipes/decorations/spruce_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-07-11 05:21:26 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/zanite_leggings_repairing": {
+    "criteria": {
+      "has_zanite_leggings": "2025-07-11 05:47:55 +0000"
     },
     "done": true
   },

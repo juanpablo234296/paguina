@@ -8099,5 +8099,11 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:chaos_knight": {
+    "criteria": {
+      "chaos_knight_0": "2025-07-11 05:43:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
