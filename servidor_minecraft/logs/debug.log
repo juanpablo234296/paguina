@@ -11201,3 +11201,63 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [11Jul2025 03:06:57.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] no se donde queda la casa tuya jkajjajja
 [11Jul2025 03:07:22.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] kira entoncesi si sabes lo de la terminal o no que me voy a mimir
 [11Jul2025 03:10:35.661] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/9568, l='ServerLevel[world]', x=1070.30, y=96.50, z=119.15] died, message: 'Fisherman was shot by Pillager'
+[11Jul2025 03:11:53.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 03:11:53.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 03:12:47.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Kira_R to Chantikook]
+[11Jul2025 03:12:52.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Chantikook]
+[11Jul2025 03:14:40.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was shot by Skeleton
+[11Jul2025 03:14:40.502] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:1011, y:-30, z:163, dim:minecraft:overworld]
+[11Jul2025 03:14:40.506] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 03:14:41.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by Zombie
+[11Jul2025 03:14:41.315] [Server thread/DEBUG] [tombstone/]: A new grave of the player Chantikook was created at position [x:1047, y:-29, z:161, dim:minecraft:overworld]
+[11Jul2025 03:14:41.323] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 03:14:42.964] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[11Jul2025 03:14:43.812] [Server thread/DEBUG] [twilightforest/]: Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) respawned and received items held in storage
+[11Jul2025 03:14:58.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to Kira_R]
+[11Jul2025 03:15:01.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was spiked to death
+[11Jul2025 03:15:01.663] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:1011, y:-30, z:163, dim:minecraft:overworld]
+[11Jul2025 03:15:01.667] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 03:15:03.135] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[11Jul2025 03:15:25.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Chantikook]
+[11Jul2025 03:16:22.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[11Jul2025 03:16:34.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[11Jul2025 03:16:53.774] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 03:16:53.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 03:17:34.510] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/9587, l='ServerLevel[world]', x=1073.50, y=89.00, z=137.75] died, message: 'Unemployed was shot by Pillager'
+[11Jul2025 03:19:14.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to Kira_R]
+[11Jul2025 03:19:58.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook was slain by funado69
+[11Jul2025 03:19:58.865] [Server thread/DEBUG] [tombstone/]: A new grave of the player Chantikook was created at position [x:945, y:-29, z:136, dim:minecraft:overworld]
+[11Jul2025 03:19:58.875] [Server thread/INFO] [tombstone/]: The player Chantikook has successfully been saved
+[11Jul2025 03:20:00.709] [Server thread/DEBUG] [twilightforest/]: Player Chantikook (5c6dabfc-3f2f-38c8-bd9c-458540ad8ede) respawned and received items held in storage
+[11Jul2025 03:20:07.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to Kira_R]
+[11Jul2025 03:20:14.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was shot by Kira_R using [Gunnarr’s Valor]
+[11Jul2025 03:20:14.759] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:954, y:-29, z:128, dim:minecraft:overworld]
+[11Jul2025 03:20:14.770] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[11Jul2025 03:20:20.345] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[11Jul2025 03:20:31.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[11Jul2025 03:20:50.773] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Creating a dungeon at (532 | 25 | 516).
+[11Jul2025 03:20:50.775] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Generating layout for layer 0
+[11Jul2025 03:20:50.777] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Generated Layer 0 with 5(0) Nodes and 3(0) Rooms
+[11Jul2025 03:20:50.777] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Generating layout for layer 1
+[11Jul2025 03:20:50.777] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Generated Layer 1 with 5(0) Nodes and 5(0) Rooms
+[11Jul2025 03:20:50.777] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Generating layout for layer 2
+[11Jul2025 03:20:50.778] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Generated Layer 2 with 9(2) Nodes and 5(0) Rooms
+[11Jul2025 03:20:50.778] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Generating layout for layer 3
+[11Jul2025 03:20:50.778] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Generated Layer 3 with 11(0) Nodes and 6(0) Rooms
+[11Jul2025 03:20:50.778] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
+[11Jul2025 03:20:50.778] [Worker-Main-54/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 10(0) Nodes and 6(0) Rooms
+[11Jul2025 03:20:51.326] [Worker-Main-54/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 03:20:51.327] [Worker-Main-54/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 03:20:51.328] [Worker-Main-54/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 03:20:51.340] [Worker-Main-54/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 03:20:51.344] [Worker-Main-54/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 03:20:51.345] [Worker-Main-54/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 03:20:51.347] [Worker-Main-54/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 03:20:51.348] [Worker-Main-54/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 03:20:51.350] [Worker-Main-54/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 03:20:51.350] [Worker-Main-54/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 03:20:51.353] [Worker-Main-54/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 03:20:51.354] [Worker-Main-54/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 03:20:51.354] [Worker-Main-54/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 03:20:51.355] [Worker-Main-54/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[11Jul2025 03:20:51.361] [Worker-Main-54/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:

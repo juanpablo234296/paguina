@@ -8244,6 +8244,12 @@
     },
     "done": true
   },
+  "some_assembly_required:recipes/decorations/crafting_shaped/sandwiching_station": {
+    "criteria": {
+      "has_smooth_stone": "2025-07-11 03:13:12 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/spruce_park_bench": {
     "criteria": {
       "has_planks": "2025-07-11 02:46:26 +0000"
@@ -8337,6 +8343,12 @@
   "meadow:recipes/pine_barn_door": {
     "criteria": {
       "has_pine_planks": "2025-07-11 02:40:44 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/misc/soul_silk": {
+    "criteria": {
+      "has_soul_cloth": "2025-07-11 03:09:54 +0000"
     },
     "done": true
   },

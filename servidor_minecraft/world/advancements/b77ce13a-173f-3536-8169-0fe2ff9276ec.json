@@ -8329,6 +8329,12 @@
     },
     "done": true
   },
+  "vinery:recipes/fermentation_barrel": {
+    "criteria": {
+      "has_barrel": "2025-07-11 03:06:59 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_blue_picket_gate": {
     "criteria": {
       "has_gate": "2025-07-11 02:56:35 +0000"
@@ -8410,6 +8416,12 @@
   "cfm:recipes/decorations/yellow_picket_gate": {
     "criteria": {
       "has_gate": "2025-07-11 02:56:35 +0000"
+    },
+    "done": true
+  },
+  "brewery:recipes/barrel_main": {
+    "criteria": {
+      "has_barrel": "2025-07-11 03:06:59 +0000"
     },
     "done": true
   },
