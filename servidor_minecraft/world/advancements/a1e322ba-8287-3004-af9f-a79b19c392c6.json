@@ -8286,6 +8286,12 @@
     },
     "done": true
   },
+  "some_assembly_required:obtain_sandwich": {
+    "criteria": {
+      "obtain_sandwich": "2025-07-12 02:01:51 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:decor/obtain_all_string_curtains": {
     "criteria": {
       "magenta_string_curtain": "2025-07-12 01:30:53 +0000",

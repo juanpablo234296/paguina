@@ -8850,6 +8850,22 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-12 02:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:white": "2025-07-12 02:06:38 +0000",
+      "minecraft:calico": "2025-07-12 02:06:37 +0000",
+      "minecraft:siamese": "2025-07-12 02:06:45 +0000",
+      "minecraft:black": "2025-07-12 02:07:52 +0000",
+      "minecraft:british_shorthair": "2025-07-12 02:06:42 +0000"
+    },
+    "done": false
+  },
   "cfm:recipes/decorations/stripped_spruce_coffee_table": {
     "criteria": {
       "has_planks": "2025-07-11 23:47:14 +0000"
@@ -8897,6 +8913,12 @@
       "has_cooked_rabbit": "2025-07-11 23:55:09 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cat": "2025-07-12 02:06:41 +0000"
+    },
+    "done": false
   },
   "cfm:recipes/decorations/spruce_upgraded_fence": {
     "criteria": {

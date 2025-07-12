@@ -179,3 +179,32 @@
 [12Jul2025 01:59:07.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has made the advancement [The Parrots and the Bats]
 [12Jul2025 01:59:51.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Best Friends Forever]
 [12Jul2025 02:01:51.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R has made the advancement [Beginner Breadsmithing]
+[12Jul2025 02:03:53.619] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Timed out
+[12Jul2025 02:03:53.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
+[12Jul2025 02:03:53.619] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
+[12Jul2025 02:05:00.870] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@578c39f2[id=<null>,name=lucyyxd,properties={},legacy=false] (/127.209.237.17:42611): Took too long to log in
+[12Jul2025 02:05:00.870] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@578c39f2[id=<null>,name=lucyyxd,properties={},legacy=false] (/127.209.237.17:42611) lost connection: Took too long to log in
+[12Jul2025 02:05:00.921] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Jul2025 02:06:41.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Chantikook has made the advancement [The Parrots and the Bats]
+[12Jul2025 02:07:55.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set Chantikook's game mode to Survival Mode]
+[12Jul2025 02:08:05.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set Kira_R's game mode to Survival Mode]
+[12Jul2025 02:08:12.384] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucyyxd[/127.209.237.17:40539] logged in with entity id 79505 at (850.6408404219511, 76.0625, -639.3278208503998)
+[12Jul2025 02:08:12.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd joined the game
+[12Jul2025 02:08:12.452] [Server thread/INFO] [Jade/]: Syncing config to lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce)
+[12Jul2025 02:08:14.230] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucyyxd (18)
+[12Jul2025 02:08:14.230] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[12Jul2025 02:08:18.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set lucyyxd's game mode to Survival Mode]
+[12Jul2025 02:08:22.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[12Jul2025 02:08:37.288] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[12Jul2025 02:08:38.283] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[12Jul2025 02:08:38.283] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) successfully connected to voice chat
+[12Jul2025 02:08:55.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Adventure Mode]
+[12Jul2025 02:09:07.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[12Jul2025 02:14:31.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set funado69's game mode to Survival Mode
+[12Jul2025 02:17:00.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[12Jul2025 02:17:00.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ... funado69  run summon minecraft:creeper<--[HERE]
+[12Jul2025 02:17:17.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Summoned new Creeper
+[12Jul2025 02:17:33.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> pablito pndjo de mrd
+[12Jul2025 02:17:48.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> se esta que mando la casa de las funada salame
+[12Jul2025 02:17:55.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[12Jul2025 02:23:14.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 has completed the challenge [Me like rocks :)]

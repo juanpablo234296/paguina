@@ -8831,6 +8831,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-07-12 02:13:08 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/jar": {
     "criteria": {
       "has_glass_pane": "2025-07-12 01:26:36 +0000"
@@ -8840,6 +8846,12 @@
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-12 01:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
+    "criteria": {
+      "has_pink_tulip": "2025-07-12 02:13:08 +0000"
     },
     "done": true
   },
