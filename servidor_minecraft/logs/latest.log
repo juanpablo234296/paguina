@@ -230,3 +230,12 @@
 [12Jul2025 03:01:29.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
 [12Jul2025 03:03:04.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
 [12Jul2025 03:03:48.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[12Jul2025 03:05:51.330] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Disconnected
+[12Jul2025 03:05:51.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
+[12Jul2025 03:05:51.330] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
+[12Jul2025 03:08:25.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[12Jul2025 03:08:32.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to funado69]
+[12Jul2025 03:13:49.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Chort
+[12Jul2025 03:13:49.678] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[12Jul2025 03:14:15.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported Chantikook to Kira_R]
+[12Jul2025 03:14:21.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set the time to 1000]
