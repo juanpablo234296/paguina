@@ -128,3 +128,21 @@
 [12Jul2025 00:42:51.325] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Timed out
 [12Jul2025 00:42:51.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
 [12Jul2025 00:42:51.326] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
+[12Jul2025 00:56:04.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[12Jul2025 00:56:11.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to pablito]
+[12Jul2025 00:56:21.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[12Jul2025 00:56:36.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> cerra la cola csmre
+[12Jul2025 00:57:04.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported funado69 to pablito]
+[12Jul2025 00:59:53.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported pablito to Chantikook]
+[12Jul2025 01:01:02.838] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucyyxd[/127.209.237.17:53207] logged in with entity id 69961 at (855.0529564608388, 76.0, -650.9201055497686)
+[12Jul2025 01:01:02.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd joined the game
+[12Jul2025 01:01:02.916] [Server thread/INFO] [Jade/]: Syncing config to lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce)
+[12Jul2025 01:01:03.496] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucyyxd (18)
+[12Jul2025 01:01:03.497] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[12Jul2025 01:01:24.093] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[12Jul2025 01:01:25.096] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[12Jul2025 01:01:25.097] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) successfully connected to voice chat
+[12Jul2025 01:01:43.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> ya vengo jajjajjaja
+[12Jul2025 01:01:49.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[12Jul2025 01:01:49.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[12Jul2025 01:01:49.671] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
