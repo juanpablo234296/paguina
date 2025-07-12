@@ -8799,6 +8799,12 @@
     },
     "done": true
   },
+  "mofus_better_end_:blood_bow_advancement": {
+    "criteria": {
+      "blood_bow_advancement_0": "2025-07-12 01:44:47 +0000"
+    },
+    "done": true
+  },
   "twilightforest:naga_armors": {
     "criteria": {
       "armor": "2025-07-12 01:41:17 +0000"
