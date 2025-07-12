@@ -156,3 +156,15 @@
 [12Jul2025 01:11:22.769] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
 [12Jul2025 01:11:22.769] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
 [12Jul2025 01:12:44.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the weather to clear]
+[12Jul2025 01:13:49.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> bb no te escucho bien nose porque es o debo reiniciar
+[12Jul2025 01:13:55.768] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Kira_R lost connection: Disconnected
+[12Jul2025 01:13:55.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R left the game
+[12Jul2025 01:13:55.768] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Kira_R
+[12Jul2025 01:14:38.931] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Kira_R[/127.244.210.29:48447] logged in with entity id 71550 at (852.1115106223654, 73.05805173012715, -646.7256189411457)
+[12Jul2025 01:14:38.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R joined the game
+[12Jul2025 01:14:38.992] [Server thread/INFO] [Jade/]: Syncing config to Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6)
+[12Jul2025 01:14:39.189] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kira_R (18)
+[12Jul2025 01:14:39.190] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kira_R
+[12Jul2025 01:14:48.777] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
+[12Jul2025 01:14:50.779] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
+[12Jul2025 01:14:50.779] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
