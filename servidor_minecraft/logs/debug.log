@@ -17924,3 +17924,8 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [12Jul2025 02:32:40.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
 [12Jul2025 02:33:34.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> toy discord
 [12Jul2025 02:33:44.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[12Jul2025 02:33:55.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[12Jul2025 02:36:37.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 02:36:37.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 02:41:37.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 02:41:37.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
