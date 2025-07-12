@@ -124,6 +124,7 @@
       "minecraft:river": "2025-05-16 01:23:53 +0000",
       "minecraft:lukewarm_ocean": "2025-06-30 22:06:39 +0000",
       "minecraft:snowy_taiga": "2025-07-11 23:24:59 +0000",
+      "minecraft:swamp": "2025-07-11 23:51:44 +0000",
       "minecraft:cold_ocean": "2025-05-18 23:24:05 +0000",
       "minecraft:forest": "2025-05-16 01:24:37 +0000",
       "minecraft:lush_caves": "2025-05-26 01:19:01 +0000",
@@ -8703,6 +8704,18 @@
   "dungeons_enhanced:wars_and_kingdoms": {
     "criteria": {
       "entered_castle": "2025-07-11 23:23:47 +0000"
+    },
+    "done": true
+  },
+  "overweight_farming:recipes/overweight_golden_apple_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-11 23:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-07-11 23:55:44 +0000"
     },
     "done": true
   },
