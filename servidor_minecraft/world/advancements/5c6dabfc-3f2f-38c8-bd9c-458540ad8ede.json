@@ -8928,6 +8928,12 @@
     },
     "done": true
   },
+  "aether:recipes/tools/diamond_pickaxe_repairing": {
+    "criteria": {
+      "has_diamond_pickaxe": "2025-07-12 00:31:11 +0000"
+    },
+    "done": true
+  },
   "aether:recipes/combat/red_cape": {
     "criteria": {
       "has_red_wool": "2025-07-11 23:29:55 +0000"
