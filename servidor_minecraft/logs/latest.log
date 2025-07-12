@@ -71,3 +71,57 @@
 [12Jul2025 00:32:01.373] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Kira_R (18)
 [12Jul2025 00:32:01.374] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Kira_R
 [12Jul2025 00:32:09.338] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
+[12Jul2025 00:32:10.340] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
+[12Jul2025 00:32:10.341] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
+[12Jul2025 00:34:43.132] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PoH159[/127.113.115.119:45201] logged in with entity id 63497 at (1049.2525266738146, 70.0, -538.8708231510833)
+[12Jul2025 00:34:43.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 joined the game
+[12Jul2025 00:34:43.175] [Server thread/INFO] [Jade/]: Syncing config to PoH159 (7b6320b1-8f4a-3f39-9fed-25511a7b9515)
+[12Jul2025 00:34:45.986] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PoH159 (18)
+[12Jul2025 00:34:45.986] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PoH159
+[12Jul2025 00:34:49.783] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@3bd4529e[id=<null>,name=lucyyxd,properties={},legacy=false] (/127.209.237.17:41873): Took too long to log in
+[12Jul2025 00:34:49.784] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3bd4529e[id=<null>,name=lucyyxd,properties={},legacy=false] (/127.209.237.17:41873) lost connection: Took too long to log in
+[12Jul2025 00:34:49.833] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[12Jul2025 00:34:54.955] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7b6320b1-8f4a-3f39-9fed-25511a7b9515
+[12Jul2025 00:34:55.959] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7b6320b1-8f4a-3f39-9fed-25511a7b9515
+[12Jul2025 00:34:55.959] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PoH159 (7b6320b1-8f4a-3f39-9fed-25511a7b9515) successfully connected to voice chat
+[12Jul2025 00:36:12.441] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucyyxd[/127.209.237.17:39555] logged in with entity id 63914 at (857.432651316818, 76.0, -653.6536204721975)
+[12Jul2025 00:36:12.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd joined the game
+[12Jul2025 00:36:12.505] [Server thread/INFO] [Jade/]: Syncing config to lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce)
+[12Jul2025 00:36:12.930] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucyyxd (18)
+[12Jul2025 00:36:12.931] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[12Jul2025 00:36:31.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kira_R was slain by Chort
+[12Jul2025 00:36:31.335] [Server thread/INFO] [tombstone/]: The player Kira_R has successfully been saved
+[12Jul2025 00:36:35.758] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[12Jul2025 00:36:36.610] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[12Jul2025 00:36:36.611] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce) successfully connected to voice chat
+[12Jul2025 00:37:53.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> hola
+[12Jul2025 00:37:55.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <pablito> po
+[12Jul2025 00:38:08.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Teleported Kira_R to pablito]
+[12Jul2025 00:38:57.878] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Timed out
+[12Jul2025 00:38:57.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
+[12Jul2025 00:38:57.878] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
+[12Jul2025 00:39:03.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PoH159> buenas
+[12Jul2025 00:39:29.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to PoH159]
+[12Jul2025 00:39:55.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 was slain by Zombie
+[12Jul2025 00:39:55.285] [Server thread/INFO] [tombstone/]: The player PoH159 has successfully been saved
+[12Jul2025 00:40:02.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PoH159> ctmr
+[12Jul2025 00:40:21.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
+[12Jul2025 00:40:26.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> sisi
+[12Jul2025 00:40:30.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> me acuerdo
+[12Jul2025 00:41:11.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> osea uno es de 6 y el otro mas elevado
+[12Jul2025 00:41:28.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Spectator Mode]
+[12Jul2025 00:41:33.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> te paso el tuto o chanti lo tiene igual
+[12Jul2025 00:41:43.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[12Jul2025 00:41:47.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported PoH159 to funado69]
+[12Jul2025 00:41:48.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> no te escucho bien xd
+[12Jul2025 00:42:05.079] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PoH159 lost connection: Disconnected
+[12Jul2025 00:42:05.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PoH159 left the game
+[12Jul2025 00:42:05.080] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PoH159
+[12Jul2025 00:42:05.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> esque aqui va ventanay dos pilares
+[12Jul2025 00:42:09.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> ya no tengo madera xd
+[12Jul2025 00:42:19.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set Kira_R's game mode to Creative Mode]
+[12Jul2025 00:42:21.199] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lucyyxd[/127.209.237.17:54699] logged in with entity id 66175 at (855.0529564608388, 76.0, -650.9201055497686)
+[12Jul2025 00:42:21.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd joined the game
+[12Jul2025 00:42:21.265] [Server thread/INFO] [Jade/]: Syncing config to lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce)
+[12Jul2025 00:42:22.182] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucyyxd (18)
+[12Jul2025 00:42:22.182] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
