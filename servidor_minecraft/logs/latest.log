@@ -213,3 +213,16 @@
 [12Jul2025 02:33:34.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <funado69> toy discord
 [12Jul2025 02:33:44.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
 [12Jul2025 02:33:55.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[12Jul2025 02:44:01.303] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player a40c50c1-88ca-3a3e-9120-b3faba79f2ce timed out
+[12Jul2025 02:44:01.303] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lucyyxd
+[12Jul2025 02:44:01.304] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[12Jul2025 02:44:02.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[12Jul2025 02:45:13.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[12Jul2025 02:47:08.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mule (vehicle of funado69) moved wrongly! 0.32786825197609915
+[12Jul2025 02:47:08.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mule (vehicle of funado69) moved wrongly! 0.2766564234308362
+[12Jul2025 02:47:09.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mule (vehicle of funado69) moved wrongly! 0.3054398826494662
+[12Jul2025 02:47:09.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mule (vehicle of funado69) moved wrongly! 0.3189017106885217
+[12Jul2025 02:47:10.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mule (vehicle of funado69) moved wrongly! 0.2701955935339697
+[12Jul2025 02:47:10.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mule (vehicle of funado69) moved wrongly! 0.2957714412282826
+[12Jul2025 02:47:11.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mule (vehicle of funado69) moved wrongly! 0.32492117212228777
+[12Jul2025 02:47:11.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mule (vehicle of funado69) moved wrongly! 0.2729266989755388

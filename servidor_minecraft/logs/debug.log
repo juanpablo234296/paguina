@@ -17929,3 +17929,36 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [12Jul2025 02:36:37.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Jul2025 02:41:37.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Jul2025 02:41:37.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 02:44:01.303] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player a40c50c1-88ca-3a3e-9120-b3faba79f2ce timed out
+[12Jul2025 02:44:01.303] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player lucyyxd
+[12Jul2025 02:44:01.304] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to lucyyxd
+[12Jul2025 02:44:01.304] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with lucyyxd
+[12Jul2025 02:44:01.304] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with lucyyxd
+[12Jul2025 02:44:01.304] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[12Jul2025 02:44:01.304] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of a40c50c1-88ca-3a3e-9120-b3faba79f2ce to disconnected: {disabled=false, disconnected=true, uuid=a40c50c1-88ca-3a3e-9120-b3faba79f2ce, name=lucyyxd, group=null}
+[12Jul2025 02:44:01.550] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:56283
+[12Jul2025 02:44:01.550] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:56283
+[12Jul2025 02:44:01.550] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:56283
+[12Jul2025 02:44:01.550] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:56283
+[12Jul2025 02:44:01.550] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:56283
+[12Jul2025 02:44:01.550] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:56283
+[12Jul2025 02:44:01.550] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:56283
+[12Jul2025 02:44:01.550] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:56283
+[12Jul2025 02:44:01.550] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:56283
+[12Jul2025 02:44:01.551] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Failed to decrypt packet from /127.0.0.1:56283
+[12Jul2025 02:44:01.679] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of lucyyxd: {disabled=false, disconnected=true, uuid=a40c50c1-88ca-3a3e-9120-b3faba79f2ce, name=lucyyxd, group=null}
+[12Jul2025 02:44:01.969] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of lucyyxd: {disabled=false, disconnected=true, uuid=a40c50c1-88ca-3a3e-9120-b3faba79f2ce, name=lucyyxd, group=null}
+[12Jul2025 02:44:02.307] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a40c50c1-88ca-3a3e-9120-b3faba79f2ce
+[12Jul2025 02:45:13.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[12Jul2025 02:46:37.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 02:46:37.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 02:47:08.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mule (vehicle of funado69) moved wrongly! 0.32786825197609915
+[12Jul2025 02:47:08.576] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mule (vehicle of funado69) moved wrongly! 0.2766564234308362
+[12Jul2025 02:47:09.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mule (vehicle of funado69) moved wrongly! 0.3054398826494662
+[12Jul2025 02:47:09.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mule (vehicle of funado69) moved wrongly! 0.3189017106885217
+[12Jul2025 02:47:10.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mule (vehicle of funado69) moved wrongly! 0.2701955935339697
+[12Jul2025 02:47:10.649] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mule (vehicle of funado69) moved wrongly! 0.2957714412282826
+[12Jul2025 02:47:11.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mule (vehicle of funado69) moved wrongly! 0.32492117212228777
+[12Jul2025 02:47:11.679] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mule (vehicle of funado69) moved wrongly! 0.2729266989755388
+[12Jul2025 02:51:37.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 02:51:37.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
