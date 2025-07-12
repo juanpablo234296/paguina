@@ -8262,6 +8262,30 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-12 01:59:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:calico": "2025-07-12 01:59:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-12 01:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-12 01:59:11 +0000"
+    },
+    "done": true
+  },
   "the_bumblezone:decor/obtain_all_string_curtains": {
     "criteria": {
       "magenta_string_curtain": "2025-07-12 01:30:53 +0000",

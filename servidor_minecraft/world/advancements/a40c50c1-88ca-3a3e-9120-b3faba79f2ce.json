@@ -8303,5 +8303,12 @@
     },
     "done": true
   },
+  "the_bumblezone:candles/obtain_all_colored_super_candles": {
+    "criteria": {
+      "black_super_candle": "2025-07-12 02:01:14 +0000",
+      "purple_super_candle": "2025-07-12 02:01:10 +0000"
+    },
+    "done": false
+  },
   "DataVersion": 3465
 }

@@ -8685,6 +8685,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/grilled_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-12 01:58:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-12 01:26:36 +0000"
@@ -8751,6 +8757,20 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-12 01:59:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:white": "2025-07-12 01:59:05 +0000",
+      "minecraft:siamese": "2025-07-12 01:58:14 +0000",
+      "minecraft:british_shorthair": "2025-07-12 01:58:59 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-12 01:26:36 +0000"
@@ -8769,9 +8789,27 @@
     },
     "done": true
   },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-07-12 01:58:14 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/cherry_desk": {
     "criteria": {
       "has_cherry_planks": "2025-07-12 01:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cat": "2025-07-12 01:59:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-12 01:58:12 +0000"
     },
     "done": true
   },
@@ -8787,6 +8825,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_grill_cooking": {
+    "criteria": {
+      "has_salmon": "2025-07-12 01:58:12 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/jar": {
     "criteria": {
       "has_glass_pane": "2025-07-12 01:26:36 +0000"
@@ -8796,6 +8840,12 @@
   "farmersdelight:recipes/cooking/fish_stew": {
     "criteria": {
       "has_any_ingredient": "2025-07-12 01:34:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-07-12 01:58:12 +0000"
     },
     "done": true
   },
@@ -8829,6 +8879,12 @@
     },
     "done": true
   },
+  "the_bumblezone:decor/obtain_all_string_curtains": {
+    "criteria": {
+      "white_string_curtain": "2025-07-12 01:53:03 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-07-12 01:26:36 +0000"
@@ -8838,6 +8894,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_table": {
     "criteria": {
       "has_cherry_planks": "2025-07-12 01:00:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-07-12 01:58:12 +0000"
     },
     "done": true
   },
