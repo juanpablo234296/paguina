@@ -8855,6 +8855,12 @@
     },
     "done": true
   },
+  "vinery:main/nectar_of_life": {
+    "criteria": {
+      "vinery:red_grapejuice": "2025-07-12 02:25:17 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-07-12 01:58:12 +0000"
@@ -8864,6 +8870,12 @@
   "mofus_better_end_:blood_bow_advancement": {
     "criteria": {
       "blood_bow_advancement_0": "2025-07-12 01:44:47 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/juicy_success": {
+    "criteria": {
+      "have_any_juice": "2025-07-12 02:25:17 +0000"
     },
     "done": true
   },
@@ -8972,6 +8984,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_storage_cabinet": {
     "criteria": {
       "has_cherry_planks": "2025-07-12 01:00:02 +0000"
+    },
+    "done": true
+  },
+  "mofus_better_end_:titanium_drill_advancement": {
+    "criteria": {
+      "titanium_drill_advancement_0": "2025-07-12 02:23:14 +0000"
     },
     "done": true
   },
