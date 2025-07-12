@@ -168,3 +168,6 @@
 [12Jul2025 01:14:48.777] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player a1e322ba-8287-3004-af9f-a79b19c392c6
 [12Jul2025 01:14:50.779] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player a1e322ba-8287-3004-af9f-a79b19c392c6
 [12Jul2025 01:14:50.779] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Kira_R (a1e322ba-8287-3004-af9f-a79b19c392c6) successfully connected to voice chat
+[12Jul2025 01:23:43.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
+[12Jul2025 01:23:43.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
+[12Jul2025 01:23:43.471] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
