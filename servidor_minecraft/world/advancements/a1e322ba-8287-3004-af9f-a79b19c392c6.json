@@ -8264,7 +8264,8 @@
   },
   "the_bumblezone:decor/obtain_all_string_curtains": {
     "criteria": {
-      "magenta_string_curtain": "2025-07-12 01:30:53 +0000"
+      "magenta_string_curtain": "2025-07-12 01:30:53 +0000",
+      "white_string_curtain": "2025-07-12 01:35:51 +0000"
     },
     "done": false
   },
