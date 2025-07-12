@@ -146,3 +146,13 @@
 [12Jul2025 01:01:49.670] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pablito lost connection: Disconnected
 [12Jul2025 01:01:49.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito left the game
 [12Jul2025 01:01:49.671] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pablito
+[12Jul2025 01:07:23.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Kira_R> no escucho xd
+[12Jul2025 01:11:11.786] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pablito[/127.54.255.13:54687] logged in with entity id 71150 at (840.4898376994328, 63.0, -641.8220461756786)
+[12Jul2025 01:11:11.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pablito joined the game
+[12Jul2025 01:11:11.855] [Server thread/INFO] [Jade/]: Syncing config to pablito (7cad6d23-b90d-32e7-a33e-08234c01e126)
+[12Jul2025 01:11:11.974] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pablito (18)
+[12Jul2025 01:11:11.974] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pablito
+[12Jul2025 01:11:21.769] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[12Jul2025 01:11:22.769] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 7cad6d23-b90d-32e7-a33e-08234c01e126
+[12Jul2025 01:11:22.769] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player pablito (7cad6d23-b90d-32e7-a33e-08234c01e126) successfully connected to voice chat
+[12Jul2025 01:12:44.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [pablito: Set the weather to clear]

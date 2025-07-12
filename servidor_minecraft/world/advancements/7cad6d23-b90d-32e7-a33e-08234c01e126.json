@@ -8707,77 +8707,95 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "aether:recipes/combat/golden_leggings_repairing": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 01:01:37 +0000"
+      "has_golden_leggings": "2025-07-11 23:26:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-11 23:27:08 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/vinemaker_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-07-11 23:27:08 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/golden_helmet_repairing": {
+    "criteria": {
+      "has_golden_helmet": "2025-07-11 23:29:20 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/chainmail_helmet_repairing": {
+    "criteria": {
+      "has_chainmail_helmet": "2025-07-11 23:30:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2025-07-11 23:32:13 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/red_sofa": {
+    "criteria": {
+      "has_wool": "2025-07-11 23:32:13 +0000"
+    },
+    "done": true
+  },
+  "aether:recipes/combat/red_cape": {
+    "criteria": {
+      "has_red_wool": "2025-07-11 23:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-07-11 23:32:13 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/vinemaker_apron": {
+    "criteria": {
+      "has_red_wool": "2025-07-11 23:32:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-07-11 23:32:13 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:adventure/find_all_illager_structures": {
+    "criteria": {
+      "illager_camp": "2025-07-11 23:39:01 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_player_hurt": {
+  "vinery:recipes/fermentation_barrel": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 01:01:37 +0000"
+      "has_barrel": "2025-07-11 23:45:34 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "brewery:recipes/barrel_main": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 01:01:37 +0000"
+      "has_barrel": "2025-07-11 23:45:34 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "netherexp:recipes/ivy/weeping_ivy": {
     "criteria": {
-      "log_spam_fixer": "2025-07-12 01:01:37 +0000"
+      "has_item": "2025-07-11 23:45:57 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 01:01:37 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 01:01:37 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 01:01:37 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 01:01:37 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 01:01:37 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 01:01:37 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 01:01:37 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-12 01:01:37 +0000"
-    },
-    "done": false
+    "done": true
   },
   "overweight_farming:recipes/overweight_golden_apple_block": {
     "criteria": {
@@ -8791,33 +8809,15 @@
     },
     "done": true
   },
-  "netherexp:recipes/ivy/weeping_ivy": {
-    "criteria": {
-      "has_item": "2025-07-11 23:45:57 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
     "criteria": {
       "has_jungle_planks": "2025-07-12 00:46:41 +0000"
     },
     "done": true
   },
-  "vinery:recipes/fermentation_barrel": {
-    "criteria": {
-      "has_barrel": "2025-07-11 23:45:34 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_cutting_board": {
     "criteria": {
       "has_jungle_planks": "2025-07-12 00:46:41 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/combat/golden_knife": {
-    "criteria": {
-      "has_gold_ingot": "2025-07-11 23:27:08 +0000"
     },
     "done": true
   },
@@ -8857,18 +8857,6 @@
     },
     "done": true
   },
-  "aether:recipes/combat/golden_leggings_repairing": {
-    "criteria": {
-      "has_golden_leggings": "2025-07-11 23:26:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2025-07-11 23:32:13 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_crate": {
     "criteria": {
       "has_jungle_planks": "2025-07-12 00:46:41 +0000"
@@ -8878,12 +8866,6 @@
   "minecraft:recipes/redstone/jungle_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-12 00:46:41 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/vinemaker_leggings": {
-    "criteria": {
-      "has_gold_ingot": "2025-07-11 23:27:08 +0000"
     },
     "done": true
   },
@@ -8902,18 +8884,6 @@
   "cfm:recipes/decorations/jungle_crate": {
     "criteria": {
       "has_planks": "2025-07-12 00:46:41 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/chainmail_helmet_repairing": {
-    "criteria": {
-      "has_chainmail_helmet": "2025-07-11 23:30:36 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/red_sofa": {
-    "criteria": {
-      "has_wool": "2025-07-11 23:32:13 +0000"
     },
     "done": true
   },
@@ -8941,27 +8911,9 @@
     },
     "done": true
   },
-  "aether:recipes/combat/red_cape": {
-    "criteria": {
-      "has_red_wool": "2025-07-11 23:32:13 +0000"
-    },
-    "done": true
-  },
-  "aether:recipes/combat/golden_helmet_repairing": {
-    "criteria": {
-      "has_golden_helmet": "2025-07-11 23:29:20 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-07-12 00:46:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_bed": {
-    "criteria": {
-      "has_red_wool": "2025-07-11 23:32:13 +0000"
     },
     "done": true
   },
@@ -8977,12 +8929,6 @@
     },
     "done": true
   },
-  "nova_structures:adventure/find_all_illager_structures": {
-    "criteria": {
-      "illager_camp": "2025-07-11 23:39:01 +0000"
-    },
-    "done": false
-  },
   "cfm:recipes/decorations/jungle_coffee_table": {
     "criteria": {
       "has_planks": "2025-07-12 00:46:41 +0000"
@@ -8992,12 +8938,6 @@
   "vinery:recipes/jungle_wine_rack_small": {
     "criteria": {
       "has_jungle_planks": "2025-07-12 00:46:41 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/vinemaker_apron": {
-    "criteria": {
-      "has_red_wool": "2025-07-11 23:32:13 +0000"
     },
     "done": true
   },
@@ -9016,12 +8956,6 @@
   "vinery:recipes/jungle_wine_rack_big": {
     "criteria": {
       "has_jungle_planks": "2025-07-12 00:46:41 +0000"
-    },
-    "done": true
-  },
-  "brewery:recipes/barrel_main": {
-    "criteria": {
-      "has_barrel": "2025-07-11 23:45:34 +0000"
     },
     "done": true
   },
@@ -9052,12 +8986,6 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_mail_box": {
     "criteria": {
       "has_jungle_planks": "2025-07-12 00:46:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2025-07-11 23:32:13 +0000"
     },
     "done": true
   },
