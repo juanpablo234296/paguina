@@ -125,3 +125,6 @@
 [12Jul2025 00:42:21.265] [Server thread/INFO] [Jade/]: Syncing config to lucyyxd (a40c50c1-88ca-3a3e-9120-b3faba79f2ce)
 [12Jul2025 00:42:22.182] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of lucyyxd (18)
 [12Jul2025 00:42:22.182] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[12Jul2025 00:42:51.325] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Timed out
+[12Jul2025 00:42:51.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
+[12Jul2025 00:42:51.326] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd

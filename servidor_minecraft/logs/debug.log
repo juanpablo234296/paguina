@@ -16554,3 +16554,12 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [12Jul2025 00:42:22.182] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with lucyyxd
 [12Jul2025 00:42:22.182] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with lucyyxd
 [12Jul2025 00:42:22.182] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to lucyyxd
+[12Jul2025 00:42:51.325] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lucyyxd lost connection: Timed out
+[12Jul2025 00:42:51.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lucyyxd left the game
+[12Jul2025 00:42:51.326] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of lucyyxd
+[12Jul2025 00:42:51.326] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client lucyyxd
+[12Jul2025 00:42:55.195] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Player a40c50c1-88ca-3a3e-9120-b3faba79f2ce does not have a secret
+[12Jul2025 00:46:37.051] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 00:46:37.072] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 00:51:37.050] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 00:51:37.074] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
