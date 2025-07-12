@@ -8270,6 +8270,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/compressed_blocks/reversed/fiery_block_to_ingot": {
+    "criteria": {
+      "has_item": "2025-07-12 03:39:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
       "minecraft:calico": "2025-07-12 01:59:51 +0000",

@@ -18001,3 +18001,14 @@ com.google.gson.JsonSyntaxException: Unknown ingredient type: farmersdelight:too
 [12Jul2025 03:31:37.024] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [12Jul2025 03:31:37.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [12Jul2025 03:33:19.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
+[12Jul2025 03:36:37.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 03:36:37.054] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 03:38:47.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Teleported funado69 to Kira_R]
+[12Jul2025 03:38:51.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Survival Mode]
+[12Jul2025 03:40:40.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: funado69 was slain by Chantikook
+[12Jul2025 03:40:40.349] [Server thread/DEBUG] [tombstone/]: A new grave of the player funado69 was created at position [x:844, y:68, z:-636, dim:minecraft:overworld]
+[12Jul2025 03:40:40.395] [Server thread/INFO] [tombstone/]: The player funado69 has successfully been saved
+[12Jul2025 03:40:56.455] [Server thread/DEBUG] [twilightforest/]: Player funado69 (b77ce13a-173f-3536-8169-0fe2ff9276ec) respawned and received items held in storage
+[12Jul2025 03:41:37.023] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jul2025 03:41:37.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jul2025 03:42:55.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [funado69: Set own game mode to Creative Mode]
